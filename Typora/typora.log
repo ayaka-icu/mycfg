@@ -1,0 +1,3792 @@
+INFO 2022/10/16 06:11:49  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/16 06:11:49  launchFromDiffVersion, pre version is undefined
+INFO 2022/10/16 06:11:49  start LM in devVersion=false
+INFO 2022/10/16 06:11:49  [Raven] instanceKey = eeb2ba08-175e-4bf8-ac03-119956377cf8
+INFO 2022/10/16 06:11:49  [watch L]
+INFO 2022/10/16 06:11:49  ls put SLicense
+INFO 2022/10/16 06:11:49  [L] Read from incorrupted InstallDate
+INFO 2022/10/16 06:11:49  writeInstallDate fromBTime=true
+INFO 2022/10/16 06:11:49  overwriteThemeFolder
+INFO 2022/10/16 06:11:49  ------------------start------------------
+INFO 2022/10/16 06:11:49  typora version: 1.4.7
+INFO 2022/10/16 06:11:49  undefined
+INFO 2022/10/16 06:11:49  ls put IDate
+INFO 2022/10/16 06:11:49  [L] installDate is 10/16/2022, trail remains: 15 days
+INFO 2022/10/16 06:11:49  [watch L] hasL: false
+INFO 2022/10/16 06:11:49  [focus] 1
+INFO 2022/10/16 06:11:49  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/16 06:11:49  synced recovery
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/16 06:11:50  handle document.loadData
+INFO 2022/10/16 06:11:50  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/16 06:11:50  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/16 06:11:50  synced recovery
+INFO 2022/10/16 06:11:50  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/16 06:11:50  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/16 06:12:04  [blur] 1
+INFO 2022/10/16 06:12:04  [win] blur
+INFO 2022/10/16 06:12:06  [focus] 1
+INFO 2022/10/16 06:12:06  [blur] 1
+INFO 2022/10/16 06:12:06  [win] blur
+INFO 2022/10/16 06:12:06  [focus] 1
+INFO 2022/10/16 06:12:13  synced recovery
+INFO 2022/10/16 06:12:14  synced recovery
+INFO 2022/10/16 06:12:17  [blur] 1
+INFO 2022/10/16 06:12:17  [win] blur
+INFO 2022/10/16 06:12:22  [focus] 1
+INFO 2022/10/16 06:12:24  [blur] 1
+INFO 2022/10/16 06:12:24  [win] blur
+INFO 2022/10/16 06:12:25  [focus] 1
+INFO 2022/10/16 06:12:28  synced recovery
+INFO 2022/10/16 06:12:31  synced recovery
+INFO 2022/10/16 06:12:32  [blur] 1
+INFO 2022/10/16 06:12:32  [win] blur
+INFO 2022/10/16 06:12:34  [focus] 1
+INFO 2022/10/16 06:12:42  [blur] 1
+INFO 2022/10/16 06:12:42  [win] blur
+INFO 2022/10/16 06:12:43  [focus] 1
+INFO 2022/10/16 06:12:46  updateTheme
+INFO 2022/10/16 06:12:53  synced recovery
+INFO 2022/10/16 06:12:55  synced recovery
+INFO 2022/10/16 06:12:58  synced recovery
+INFO 2022/10/16 06:13:00  synced recovery
+INFO 2022/10/16 06:13:04  synced recovery
+INFO 2022/10/16 06:13:06  synced recovery
+INFO 2022/10/16 06:13:10  synced recovery
+INFO 2022/10/16 06:13:14  synced recovery
+INFO 2022/10/16 06:13:16  synced recovery
+INFO 2022/10/16 06:13:18  synced recovery
+INFO 2022/10/16 06:13:20  [blur] 1
+INFO 2022/10/16 06:13:20  [win] blur
+INFO 2022/10/16 06:13:36  [focus] 1
+INFO 2022/10/16 06:13:37  [blur] 1
+INFO 2022/10/16 06:13:37  [win] blur
+INFO 2022/10/16 06:13:39  [focus] 1
+INFO 2022/10/16 06:13:41  [blur] 1
+INFO 2022/10/16 06:13:41  [win] blur
+INFO 2022/10/16 06:14:13  [focus] 1
+INFO 2022/10/16 06:14:13  [blur] 1
+INFO 2022/10/16 06:14:13  [win] blur
+INFO 2022/10/16 06:17:08  [focus] 1
+INFO 2022/10/16 06:17:10  synced recovery
+INFO 2022/10/16 06:17:17  synced recovery
+INFO 2022/10/16 06:17:19  synced recovery
+INFO 2022/10/16 06:17:38  synced recovery
+INFO 2022/10/16 06:17:39  synced recovery
+INFO 2022/10/16 06:17:42  [blur] 1
+INFO 2022/10/16 06:17:42  [win] blur
+INFO 2022/10/16 06:17:43  [focus] 1
+INFO 2022/10/16 06:17:45  [blur] 1
+INFO 2022/10/16 06:17:45  [win] blur
+INFO 2022/10/16 06:17:50  [focus] 1
+INFO 2022/10/16 06:17:53  [blur] 1
+INFO 2022/10/16 06:17:53  [win] blur
+INFO 2022/10/16 06:18:16  [focus] 1
+INFO 2022/10/16 06:18:17  [blur] 1
+INFO 2022/10/16 06:18:17  [win] blur
+INFO 2022/10/16 06:19:32  [focus] 1
+INFO 2022/10/16 06:19:33  [blur] 1
+INFO 2022/10/16 06:19:33  [win] blur
+INFO 2022/10/16 06:19:40  [focus] 1
+INFO 2022/10/16 06:19:49  [blur] 1
+INFO 2022/10/16 06:19:49  [win] blur
+INFO 2022/10/16 06:21:41  [focus] 1
+INFO 2022/10/16 06:21:41  [blur] 1
+INFO 2022/10/16 06:21:41  [win] blur
+INFO 2022/10/16 06:21:59  [focus] 1
+INFO 2022/10/16 06:21:59  [blur] 1
+INFO 2022/10/16 06:21:59  [win] blur
+INFO 2022/10/16 06:22:00  [focus] 1
+INFO 2022/10/16 06:22:00  [blur] 1
+INFO 2022/10/16 06:22:00  [win] blur
+INFO 2022/10/16 06:22:02  [focus] 1
+INFO 2022/10/16 06:22:06  [blur] 1
+INFO 2022/10/16 06:22:06  [win] blur
+INFO 2022/10/16 06:22:32  [focus] 1
+INFO 2022/10/16 06:22:32  [blur] 1
+INFO 2022/10/16 06:22:32  [win] blur
+INFO 2022/10/16 06:22:39  [focus] 1
+INFO 2022/10/16 06:22:41  [blur] 1
+INFO 2022/10/16 06:22:41  [win] blur
+INFO 2022/10/16 06:22:46  [focus] 1
+INFO 2022/10/16 06:22:53  [blur] 1
+INFO 2022/10/16 06:22:53  [win] blur
+INFO 2022/10/16 06:22:53  [focus] 1
+INFO 2022/10/16 06:23:01  [blur] 1
+INFO 2022/10/16 06:23:01  [win] blur
+INFO 2022/10/16 06:50:27  synced recovery
+INFO 2022/10/16 06:50:27  ----------------before-quit-----------------
+INFO 2022/10/17 04:43:25  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/17 04:43:25  start LM in devVersion=false
+INFO 2022/10/17 04:43:25  [Raven] instanceKey = 21111fe2-10f0-45cd-a5ff-b35af0a572cb
+INFO 2022/10/17 04:43:25  [watch L]
+INFO 2022/10/17 04:43:25  ls put SLicense
+INFO 2022/10/17 04:43:25  [L] installDate is 10/16/2022, trail remains: 14 days
+INFO 2022/10/17 04:43:25  [watch L] hasL: false
+INFO 2022/10/17 04:43:25  ------------------start------------------
+INFO 2022/10/17 04:43:25  typora version: 1.4.7
+INFO 2022/10/17 04:43:25  undefined
+INFO 2022/10/17 04:43:25  updateTheme
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/17 04:43:25  launch from abnormal quit
+INFO 2022/10/17 04:43:25  recoverWindow {"id":1,"path":"","useCRLF":false,"hasUnsaved":true,"scrollPos":134,"syncDate":1665872259736,"mountFolder":null}
+INFO 2022/10/17 04:43:25  [1] recover from content 175 "# Arch  dwm文档
+
+...irrorlist
+```
+
+"
+INFO 2022/10/17 04:43:26  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/17 04:43:26  [focus] 2
+INFO 2022/10/17 04:43:26  synced recovery
+INFO 2022/10/17 04:43:26  [blur] 2
+INFO 2022/10/17 04:43:26  [win] blur
+INFO 2022/10/17 04:43:26  [focus] 1
+INFO 2022/10/17 04:43:26  handle document.loadData
+INFO 2022/10/17 04:43:26  load from recover content length: 175
+INFO 2022/10/17 04:43:26  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 04:43:26  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:43:26  [RenderProcess 2][Log] recoverFromBackup
+INFO 2022/10/17 04:43:27  [blur] 1
+INFO 2022/10/17 04:43:27  [focus] 2
+INFO 2022/10/17 04:43:27  synced recovery
+INFO 2022/10/17 04:43:27  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/17 04:43:27  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/17 04:43:27  [blur] 2
+INFO 2022/10/17 04:43:27  [win] blur
+INFO 2022/10/17 04:43:27  [focus] 2
+INFO 2022/10/17 04:43:28  [blur] 2
+INFO 2022/10/17 04:43:28  [win] blur
+INFO 2022/10/17 04:43:29  [focus] 1
+INFO 2022/10/17 04:43:37  [blur] 1
+INFO 2022/10/17 04:45:32  [focus] 1
+INFO 2022/10/17 04:45:40  [blur] 1
+INFO 2022/10/17 04:45:41  [focus] 1
+INFO 2022/10/17 04:45:46  [blur] 1
+INFO 2022/10/17 04:45:50  [focus] 1
+INFO 2022/10/17 04:45:50  [blur] 1
+INFO 2022/10/17 04:45:50  [focus] 1
+INFO 2022/10/17 04:46:15  request https://store.typora.io/api/client/activate
+INFO 2022/10/17 04:46:18  [License] response code is 0
+INFO 2022/10/17 04:46:18  ls put SLicense
+INFO 2022/10/17 04:46:23  [focus] 2
+INFO 2022/10/17 04:46:26  [blur] 2
+INFO 2022/10/17 04:46:26  [win] blur
+INFO 2022/10/17 04:46:27  [focus] 2
+INFO 2022/10/17 04:46:28  [blur] 2
+INFO 2022/10/17 04:46:28  [win] blur
+INFO 2022/10/17 04:46:28  [focus] 2
+INFO 2022/10/17 04:46:29  [blur] 2
+INFO 2022/10/17 04:46:29  [win] blur
+INFO 2022/10/17 04:46:30  [focus] 2
+INFO 2022/10/17 04:46:32  [blur] 2
+INFO 2022/10/17 04:46:32  [win] blur
+INFO 2022/10/17 04:46:32  [focus] 2
+INFO 2022/10/17 04:46:33  [blur] 2
+INFO 2022/10/17 04:46:33  [win] blur
+INFO 2022/10/17 04:46:34  [focus] 2
+INFO 2022/10/17 04:46:34  [blur] 2
+INFO 2022/10/17 04:46:34  [win] blur
+INFO 2022/10/17 04:46:34  [focus] 2
+INFO 2022/10/17 04:46:42  [blur] 2
+INFO 2022/10/17 04:46:42  [win] blur
+INFO 2022/10/17 04:46:44  [focus] 2
+INFO 2022/10/17 04:46:46  [blur] 2
+INFO 2022/10/17 04:46:46  [win] blur
+INFO 2022/10/17 04:46:47  [focus] 2
+INFO 2022/10/17 04:46:56  [blur] 2
+INFO 2022/10/17 04:46:56  [win] blur
+INFO 2022/10/17 04:46:56  [focus] 2
+INFO 2022/10/17 04:46:57  [blur] 2
+INFO 2022/10/17 04:46:57  [win] blur
+INFO 2022/10/17 04:46:58  [focus] 2
+INFO 2022/10/17 04:47:08  [blur] 2
+INFO 2022/10/17 04:47:08  [win] blur
+INFO 2022/10/17 04:47:09  [focus] 2
+INFO 2022/10/17 04:47:22  window.File && (function(){File.option.enableAutoSave = true;})();
+INFO 2022/10/17 04:47:43  [blur] 2
+INFO 2022/10/17 04:47:43  [win] blur
+INFO 2022/10/17 04:47:53  [focus] 2
+INFO 2022/10/17 04:47:53  addRecentFolder
+INFO 2022/10/17 04:47:53  [blur] 2
+INFO 2022/10/17 04:47:53  [win] blur
+INFO 2022/10/17 04:47:53  [focus] 2
+INFO 2022/10/17 04:48:22  [blur] 2
+INFO 2022/10/17 04:48:22  [win] blur
+INFO 2022/10/17 04:48:28  [focus] 2
+INFO 2022/10/17 04:48:28  addRecentDocument
+INFO 2022/10/17 04:48:28  [blur] 2
+INFO 2022/10/17 04:48:28  [win] blur
+INFO 2022/10/17 04:48:28  synced recovery
+INFO 2022/10/17 04:48:29  [focus] 2
+INFO 2022/10/17 04:48:30  switchDocument 2 [/home/ayaka/学习资料/笔记/ELK资料.md]
+INFO 2022/10/17 04:48:30  addRecentDocument
+INFO 2022/10/17 04:48:30  synced recovery
+INFO 2022/10/17 04:48:30  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/17 04:48:30  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 04:48:30  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:48:30  [RenderProcess 2][Log] readContentFrom /home/ayaka/学习资料/笔记/ELK资料.md
+INFO 2022/10/17 04:48:30  [RenderProcess 2][Log] enter busy mode
+INFO 2022/10/17 04:48:31  synced recovery
+INFO 2022/10/17 04:48:31  switchDocument 2 [/home/ayaka/学习资料/笔记/Arch  dwm文档.md]
+INFO 2022/10/17 04:48:31  addRecentDocument
+INFO 2022/10/17 04:48:31  synced recovery
+INFO 2022/10/17 04:48:31  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/17 04:48:31  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 04:48:31  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:48:31  [RenderProcess 2][Log] readContentFrom /home/ayaka/学习资料/笔记/Arch  dwm文档.md
+INFO 2022/10/17 04:48:31  [RenderProcess 2][Log] do restoreEditStateFromData true false
+INFO 2022/10/17 04:48:31  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:48:31  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 0 at: -1
+INFO 2022/10/17 04:48:31  synced recovery
+INFO 2022/10/17 04:48:32  switchDocument 2 [/home/ayaka/学习资料/笔记/ELK资料.md]
+INFO 2022/10/17 04:48:32  addRecentDocument
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/17 04:48:32  synced recovery
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] readContentFrom /home/ayaka/学习资料/笔记/ELK资料.md
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] do restoreEditStateFromData true true
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 0 at: -1
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] File.reloadContent, {"fromDiskChange":true,"onInit":true}
+INFO 2022/10/17 04:48:32  synced recovery
+INFO 2022/10/17 04:48:32  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:48:33  switchDocument 2 [/home/ayaka/学习资料/笔记/spring高级.md]
+INFO 2022/10/17 04:48:33  addRecentDocument
+INFO 2022/10/17 04:48:33  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/17 04:48:33  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 04:48:33  synced recovery
+INFO 2022/10/17 04:48:33  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:48:33  [RenderProcess 2][Log] readContentFrom /home/ayaka/学习资料/笔记/spring高级.md
+INFO 2022/10/17 04:48:34  synced recovery
+INFO 2022/10/17 04:48:53  File.setDefaultImageStorage("./${filename}")
+INFO 2022/10/17 04:49:16  File.setDefaultImageStorage("M./${filename}")
+INFO 2022/10/17 04:49:17  File.setDefaultImageStorage("MD./${filename}")
+INFO 2022/10/17 04:49:18  File.setDefaultImageStorage("MDT./${filename}")
+INFO 2022/10/17 04:49:18  File.setDefaultImageStorage("MD./${filename}")
+INFO 2022/10/17 04:49:19  File.setDefaultImageStorage("MDt./${filename}")
+INFO 2022/10/17 04:49:19  File.setDefaultImageStorage("MD./${filename}")
+INFO 2022/10/17 04:49:20  File.setDefaultImageStorage("MDt./${filename}")
+INFO 2022/10/17 04:49:20  File.setDefaultImageStorage("MDtu./${filename}")
+INFO 2022/10/17 04:49:20  File.setDefaultImageStorage("MDtu p./${filename}")
+INFO 2022/10/17 04:49:20  File.setDefaultImageStorage("MDtu pi./${filename}")
+INFO 2022/10/17 04:49:21  File.setDefaultImageStorage("MDtu pi a./${filename}")
+INFO 2022/10/17 04:49:21  File.setDefaultImageStorage("MDtu pian./${filename}")
+INFO 2022/10/17 04:49:21  File.setDefaultImageStorage("MD图片./${filename}")
+INFO 2022/10/17 04:49:28  File.setDefaultImageStorage("。MD图片./${filename}")
+INFO 2022/10/17 04:49:29  File.setDefaultImageStorage("。/MD图片./${filename}")
+INFO 2022/10/17 04:49:30  File.setDefaultImageStorage("。MD图片./${filename}")
+INFO 2022/10/17 04:49:30  File.setDefaultImageStorage("MD图片./${filename}")
+INFO 2022/10/17 04:49:31  File.setDefaultImageStorage(".MD图片./${filename}")
+INFO 2022/10/17 04:49:31  File.setDefaultImageStorage("./MD图片./${filename}")
+INFO 2022/10/17 04:49:35  [blur] 2
+INFO 2022/10/17 04:49:35  [win] blur
+INFO 2022/10/17 04:49:36  [focus] 2
+INFO 2022/10/17 04:49:36  [blur] 2
+INFO 2022/10/17 04:49:36  [win] blur
+INFO 2022/10/17 04:49:36  [focus] 2
+INFO 2022/10/17 04:49:39  [blur] 2
+INFO 2022/10/17 04:49:39  [win] blur
+INFO 2022/10/17 04:49:40  [focus] 2
+INFO 2022/10/17 04:49:41  [blur] 2
+INFO 2022/10/17 04:49:41  [win] blur
+INFO 2022/10/17 04:49:43  [focus] 2
+INFO 2022/10/17 04:49:43  [blur] 2
+INFO 2022/10/17 04:49:43  [win] blur
+INFO 2022/10/17 04:49:43  [focus] 2
+INFO 2022/10/17 04:50:23  File.setDefaultImageStorage("./MD图片/${filename}")
+INFO 2022/10/17 04:50:28  File.setDefaultImageStorage("./MD图片/${filename}/")
+INFO 2022/10/17 04:50:36  [blur] 2
+INFO 2022/10/17 04:50:36  [win] blur
+INFO 2022/10/17 04:52:08  [focus] 2
+INFO 2022/10/17 04:52:34  File.setDefaultImageStorage("./MD图片/${filename}./")
+INFO 2022/10/17 04:52:47  File.setDefaultImageStorage("./MD图片/${filename}.a/")
+INFO 2022/10/17 04:52:47  File.setDefaultImageStorage("./MD图片/${filename}.as/")
+INFO 2022/10/17 04:52:48  File.setDefaultImageStorage("./MD图片/${filename}.ass/")
+INFO 2022/10/17 04:52:49  File.setDefaultImageStorage("./MD图片/${filename}.asse/")
+INFO 2022/10/17 04:52:49  File.setDefaultImageStorage("./MD图片/${filename}.asset/")
+INFO 2022/10/17 04:52:49  File.setDefaultImageStorage("./MD图片/${filename}.assets/")
+INFO 2022/10/17 04:53:04  switchDocument 2 [/home/ayaka/学习资料/笔记/ELK资料.md]
+INFO 2022/10/17 04:53:04  addRecentDocument
+INFO 2022/10/17 04:53:04  synced recovery
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] readContentFrom /home/ayaka/学习资料/笔记/ELK资料.md
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] do restoreEditStateFromData true true
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 1 at: 0
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] File.reloadContent, {"fromDiskChange":true,"onInit":true}
+INFO 2022/10/17 04:53:04  synced recovery
+INFO 2022/10/17 04:53:04  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/17 04:53:05  synced recovery
+INFO 2022/10/17 04:53:08  synced recovery
+INFO 2022/10/17 04:53:10  synced recovery
+INFO 2022/10/17 04:53:39  File.setDefaultImageStorage("./MD图片/$.{filename}.assets/")
+INFO 2022/10/17 04:53:48  File.setDefaultImageStorage("./MD图片/${filename}.assets/")
+INFO 2022/10/17 04:53:52  File.setDefaultImageStorage(".MD图片/${filename}.assets/")
+INFO 2022/10/17 04:53:54  File.setDefaultImageStorage("..MD图片/${filename}.assets/")
+INFO 2022/10/17 04:54:21  File.setDefaultImageStorage("../MD图片/${filename}.assets/")
+INFO 2022/10/17 04:54:32  synced recovery
+INFO 2022/10/17 04:54:33  synced recovery
+INFO 2022/10/17 04:54:34  synced recovery
+INFO 2022/10/17 04:54:37  synced recovery
+INFO 2022/10/17 04:54:39  synced recovery
+INFO 2022/10/17 04:55:06  window.File && (function(){File.setDefaultImageStorage("per-file-assert");})();
+INFO 2022/10/17 04:55:10  File.setDefaultImageStorage("../MD图片/${filename}.assets/")
+INFO 2022/10/17 04:55:10  File.setDefaultImageStorage("../MD图片/${filename}.assets/")
+INFO 2022/10/17 04:55:14  File.setDefaultImageStorage("..MD图片/${filename}.assets/")
+INFO 2022/10/17 04:55:15  File.setDefaultImageStorage(".MD图片/${filename}.assets/")
+INFO 2022/10/17 04:55:16  File.setDefaultImageStorage("MD图片/${filename}.assets/")
+INFO 2022/10/17 04:55:24  File.setDefaultImageStorage("/MD图片/${filename}.assets/")
+INFO 2022/10/17 04:55:36  File.setDefaultImageStorage("${filename}.assets/")
+INFO 2022/10/17 04:55:47  File.setDefaultImageStorage("${filename}/")
+INFO 2022/10/17 04:55:50  File.setDefaultImageStorage("${filename}/M")
+INFO 2022/10/17 04:55:51  File.setDefaultImageStorage("${filename}/MD")
+INFO 2022/10/17 04:55:57  File.setDefaultImageStorage(".${filename}/MD")
+INFO 2022/10/17 04:55:57  File.setDefaultImageStorage("./${filename}/MD")
+INFO 2022/10/17 04:56:08  File.setDefaultImageStorage(".${filename}/MD")
+INFO 2022/10/17 04:56:08  File.setDefaultImageStorage("${filename}/MD")
+INFO 2022/10/17 04:56:14  File.setDefaultImageStorage("${filename}/M")
+INFO 2022/10/17 04:56:14  File.setDefaultImageStorage("${filename}/")
+INFO 2022/10/17 04:56:14  File.setDefaultImageStorage("${filename}")
+INFO 2022/10/17 04:56:15  File.setDefaultImageStorage("${filename}.")
+INFO 2022/10/17 04:56:17  File.setDefaultImageStorage("${filename}..")
+INFO 2022/10/17 04:56:18  File.setDefaultImageStorage("${filename}../")
+INFO 2022/10/17 04:56:26  File.setDefaultImageStorage("${filename}../F")
+INFO 2022/10/17 04:56:27  File.setDefaultImageStorage("${filename}../")
+INFO 2022/10/17 04:56:27  File.setDefaultImageStorage("${filename}../f")
+INFO 2022/10/17 04:56:28  File.setDefaultImageStorage("${filename}../")
+INFO 2022/10/17 04:56:32  File.setDefaultImageStorage("${filename}../。")
+INFO 2022/10/17 04:56:33  File.setDefaultImageStorage("${filename}../")
+INFO 2022/10/17 04:56:34  File.setDefaultImageStorage("${filename}../.")
+INFO 2022/10/17 04:56:34  File.setDefaultImageStorage("${filename}../..")
+INFO 2022/10/17 04:56:34  File.setDefaultImageStorage("${filename}../../")
+INFO 2022/10/17 04:56:37  File.setDefaultImageStorage("${filename}../..")
+INFO 2022/10/17 04:56:37  File.setDefaultImageStorage("${filename}../.")
+INFO 2022/10/17 04:56:37  File.setDefaultImageStorage("${filename}../")
+INFO 2022/10/17 04:56:37  File.setDefaultImageStorage("${filename}..")
+INFO 2022/10/17 04:56:38  File.setDefaultImageStorage("${filename}.")
+INFO 2022/10/17 04:56:39  File.setDefaultImageStorage("${filename}./")
+INFO 2022/10/17 04:56:40  File.setDefaultImageStorage("${filename}./.")
+INFO 2022/10/17 04:56:40  File.setDefaultImageStorage("${filename}./..")
+INFO 2022/10/17 04:56:41  File.setDefaultImageStorage("${filename}./../")
+INFO 2022/10/17 04:56:43  File.setDefaultImageStorage("${filename}./..")
+INFO 2022/10/17 04:56:43  File.setDefaultImageStorage("${filename}./.")
+INFO 2022/10/17 04:56:43  File.setDefaultImageStorage("${filename}./")
+INFO 2022/10/17 04:56:44  File.setDefaultImageStorage("${filename}.")
+INFO 2022/10/17 04:56:44  File.setDefaultImageStorage("${filename}")
+INFO 2022/10/17 04:56:47  File.setDefaultImageStorage("${filename}/")
+INFO 2022/10/17 04:56:47  File.setDefaultImageStorage("${filename}/.")
+INFO 2022/10/17 04:56:47  File.setDefaultImageStorage("${filename}/..")
+INFO 2022/10/17 04:56:48  File.setDefaultImageStorage("${filename}/../")
+INFO 2022/10/17 04:56:57  File.setDefaultImageStorage("${filename}/../M")
+INFO 2022/10/17 04:56:58  File.setDefaultImageStorage("${filename}/../")
+INFO 2022/10/17 04:57:02  File.setDefaultImageStorage("${filename}/..")
+INFO 2022/10/17 04:57:03  File.setDefaultImageStorage("${filename}/.")
+INFO 2022/10/17 04:57:03  File.setDefaultImageStorage("${filename}/")
+INFO 2022/10/17 04:57:04  File.setDefaultImageStorage("${filename}")
+INFO 2022/10/17 04:57:24  File.setDefaultImageStorage("M${filename}")
+INFO 2022/10/17 04:57:25  File.setDefaultImageStorage("Md${filename}")
+INFO 2022/10/17 04:57:25  File.setDefaultImageStorage("M${filename}")
+INFO 2022/10/17 04:57:26  File.setDefaultImageStorage("MD${filename}")
+INFO 2022/10/17 04:57:27  File.setDefaultImageStorage("MDW${filename}")
+INFO 2022/10/17 04:57:27  File.setDefaultImageStorage("MDW E${filename}")
+INFO 2022/10/17 04:57:28  File.setDefaultImageStorage("MDWEN${filename}")
+INFO 2022/10/17 04:57:28  File.setDefaultImageStorage("MDWEN D${filename}")
+INFO 2022/10/17 04:57:28  File.setDefaultImageStorage("MD文档${filename}")
+INFO 2022/10/17 04:57:31  File.setDefaultImageStorage("/MD文档${filename}")
+INFO 2022/10/17 04:57:35  File.setDefaultImageStorage("/MD文档/${filename}")
+INFO 2022/10/17 04:57:40  File.setDefaultImageStorage("。/MD文档/${filename}")
+INFO 2022/10/17 04:57:41  File.setDefaultImageStorage("/MD文档/${filename}")
+INFO 2022/10/17 04:57:41  File.setDefaultImageStorage("L/MD文档/${filename}")
+INFO 2022/10/17 04:57:42  File.setDefaultImageStorage("/MD文档/${filename}")
+INFO 2022/10/17 04:57:43  File.setDefaultImageStorage("./MD文档/${filename}")
+INFO 2022/10/17 04:58:02  [blur] 2
+INFO 2022/10/17 04:58:02  [win] blur
+INFO 2022/10/17 04:58:24  [focus] 2
+INFO 2022/10/17 04:59:11  File.setDefaultImageStorage("./MD文档/${filename}.")
+INFO 2022/10/17 04:59:23  File.setDefaultImageStorage("./MD文档/${filename}.a")
+INFO 2022/10/17 04:59:23  File.setDefaultImageStorage("./MD文档/${filename}.as")
+INFO 2022/10/17 04:59:23  File.setDefaultImageStorage("./MD文档/${filename}.ass")
+INFO 2022/10/17 04:59:24  File.setDefaultImageStorage("./MD文档/${filename}.asse")
+INFO 2022/10/17 04:59:24  File.setDefaultImageStorage("./MD文档/${filename}.assel")
+INFO 2022/10/17 04:59:25  File.setDefaultImageStorage("./MD文档/${filename}.asselt")
+INFO 2022/10/17 04:59:26  File.setDefaultImageStorage("./MD文档/${filename}.asselt/")
+INFO 2022/10/17 04:59:28  File.setDefaultImageStorage("./MD文档/${filename}.asselt")
+INFO 2022/10/17 04:59:37  File.setDefaultImageStorage("./MD文档/${filename}.assel")
+INFO 2022/10/17 04:59:37  File.setDefaultImageStorage("./MD文档/${filename}.asse")
+INFO 2022/10/17 04:59:37  File.setDefaultImageStorage("./MD文档/${filename}.asset")
+INFO 2022/10/17 04:59:37  File.setDefaultImageStorage("./MD文档/${filename}.assets")
+INFO 2022/10/17 04:59:40  File.setDefaultImageStorage("./MD文档/${filename}.assets/")
+INFO 2022/10/17 04:59:42  [blur] 2
+INFO 2022/10/17 04:59:42  [win] blur
+INFO 2022/10/17 04:59:42  [focus] 2
+INFO 2022/10/17 04:59:45  synced recovery
+INFO 2022/10/17 04:59:59  [blur] 2
+INFO 2022/10/17 04:59:59  [win] blur
+INFO 2022/10/17 05:00:02  [focus] 2
+INFO 2022/10/17 05:00:11  File.setDefaultImageStorage("../MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:11  File.setDefaultImageStorage("..//MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:13  File.setDefaultImageStorage("../MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:14  File.setDefaultImageStorage("..,/MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:15  File.setDefaultImageStorage("..,./MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:16  File.setDefaultImageStorage("..,/MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:17  File.setDefaultImageStorage("../MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:17  File.setDefaultImageStorage("./MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:18  File.setDefaultImageStorage("/MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:19  File.setDefaultImageStorage("./MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:20  File.setDefaultImageStorage(".//MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:22  File.setDefaultImageStorage("././MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:22  File.setDefaultImageStorage("./../MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:30  File.setDefaultImageStorage("././MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:32  File.setDefaultImageStorage("../MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:32  File.setDefaultImageStorage("./MD文档/${filename}.assets/")
+INFO 2022/10/17 05:00:34  [blur] 2
+INFO 2022/10/17 05:00:34  [win] blur
+INFO 2022/10/17 05:01:52  [focus] 2
+INFO 2022/10/17 05:02:15  window.File && (function(){File.setDefaultImageStorage("per-file-assert");})();
+INFO 2022/10/17 05:02:22  window.File && (function(){File.setDefaultImageStorage("folder");})();
+INFO 2022/10/17 05:02:27  window.File && (function(){File.setDefaultImageStorage("per-file-assert");})();
+INFO 2022/10/17 05:02:34  File.setDefaultImageStorage("./MD文档/${filename}.assets/")
+INFO 2022/10/17 05:02:34  File.setDefaultImageStorage("./MD文档/${filename}.assets/")
+INFO 2022/10/17 05:02:36  [blur] 2
+INFO 2022/10/17 05:02:36  [win] blur
+INFO 2022/10/17 05:02:36  [focus] 2
+INFO 2022/10/17 05:02:43  [blur] 2
+INFO 2022/10/17 05:02:43  [win] blur
+INFO 2022/10/17 05:02:45  [focus] 2
+INFO 2022/10/17 05:03:19  File.option.useRelativePathForImg = true
+INFO 2022/10/17 05:03:27  File.setDefaultImageStorage("./MD文/${filename}.assets/")
+INFO 2022/10/17 05:03:28  File.setDefaultImageStorage("./MD/${filename}.assets/")
+INFO 2022/10/17 05:03:28  File.setDefaultImageStorage("./MDt/${filename}.assets/")
+INFO 2022/10/17 05:03:28  File.setDefaultImageStorage("./MD/${filename}.assets/")
+INFO 2022/10/17 05:03:29  File.setDefaultImageStorage("./MDt/${filename}.assets/")
+INFO 2022/10/17 05:03:29  File.setDefaultImageStorage("./MDtu/${filename}.assets/")
+INFO 2022/10/17 05:03:29  File.setDefaultImageStorage("./MDtu p/${filename}.assets/")
+INFO 2022/10/17 05:03:30  File.setDefaultImageStorage("./MDtu pi/${filename}.assets/")
+INFO 2022/10/17 05:03:30  File.setDefaultImageStorage("./MDtu pi a/${filename}.assets/")
+INFO 2022/10/17 05:03:30  File.setDefaultImageStorage("./MDtu pian/${filename}.assets/")
+INFO 2022/10/17 05:03:30  File.setDefaultImageStorage("./MD图片/${filename}.assets/")
+INFO 2022/10/17 05:03:46  synced recovery
+INFO 2022/10/17 05:03:46  synced recovery
+INFO 2022/10/17 05:03:49  synced recovery
+INFO 2022/10/17 05:03:51  synced recovery
+INFO 2022/10/17 05:04:24  [blur] 2
+INFO 2022/10/17 05:04:24  [win] blur
+INFO 2022/10/17 05:04:24  [focus] 2
+INFO 2022/10/17 05:04:38  File.setDefaultImageStorage(".MD图片/${filename}.assets/")
+INFO 2022/10/17 05:04:39  File.setDefaultImageStorage("MD图片/${filename}.assets/")
+INFO 2022/10/17 05:04:50  File.setDefaultImageStorage(".MD图片/${filename}.assets/")
+INFO 2022/10/17 05:04:50  File.setDefaultImageStorage("./MD图片/${filename}.assets/")
+INFO 2022/10/17 05:04:58  File.setDefaultImageStorage("../MD图片/${filename}.assets/")
+INFO 2022/10/17 05:04:59  File.setDefaultImageStorage("./MD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:08  File.setDefaultImageStorage("./bMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:09  File.setDefaultImageStorage("./MD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:14  File.setDefaultImageStorage("./mMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:14  File.setDefaultImageStorage("./MD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:15  File.setDefaultImageStorage("./mMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:15  File.setDefaultImageStorage("./miMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:16  File.setDefaultImageStorage("./mi vMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:16  File.setDefaultImageStorage("./miMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:17  File.setDefaultImageStorage("./mi jMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:17  File.setDefaultImageStorage("./mi jiMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:18  File.setDefaultImageStorage("./mi jMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:18  File.setDefaultImageStorage("./miMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:18  File.setDefaultImageStorage("./mMD图片/${filename}.assets/")
+INFO 2022/10/17 05:05:18  File.setDefaultImageStorage("./MD图片/${filename}.assets/")
+INFO 2022/10/17 05:06:03  synced recovery
+INFO 2022/10/17 05:06:04  synced recovery
+INFO 2022/10/17 05:06:13  [blur] 2
+INFO 2022/10/17 05:06:13  [win] blur
+INFO 2022/10/17 05:06:20  synced recovery
+INFO 2022/10/17 05:06:20  ----------------before-quit-----------------
+INFO 2022/10/17 18:33:29  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/17 18:33:29  start LM in devVersion=false
+INFO 2022/10/17 18:33:29  [Raven] instanceKey = d2a94314-6a80-4144-b9cb-ecfbef85adbe
+INFO 2022/10/17 18:33:29  [watch L]
+INFO 2022/10/17 18:33:29  [L] installDate is 10/16/2022, trail remains: 14 days
+INFO 2022/10/17 18:33:29  [watch L] hasL: true
+INFO 2022/10/17 18:33:29  ------------------start------------------
+INFO 2022/10/17 18:33:29  typora version: 1.4.7
+INFO 2022/10/17 18:33:29  undefined
+INFO 2022/10/17 18:33:29  updateTheme
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/17 18:33:29  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/17 18:33:29  [focus] 1
+INFO 2022/10/17 18:33:29  synced recovery
+INFO 2022/10/17 18:33:29  handle document.loadData
+INFO 2022/10/17 18:33:30  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 18:33:30  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/17 18:33:30  synced recovery
+INFO 2022/10/17 18:33:30  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/17 18:33:30  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/17 18:33:31  ls put SLicense
+INFO 2022/10/17 18:33:35  addRecentFolder
+INFO 2022/10/17 18:33:38  switchDocument 1 [/home/ayaka/学习资料/笔记/Arch  dwm文档.md]
+INFO 2022/10/17 18:33:38  addRecentDocument
+INFO 2022/10/17 18:33:38  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/17 18:33:38  synced recovery
+INFO 2022/10/17 18:33:38  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 18:33:38  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/17 18:33:38  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Arch  dwm文档.md
+INFO 2022/10/17 18:33:38  synced recovery
+INFO 2022/10/17 18:33:40  synced recovery
+INFO 2022/10/17 18:33:43  [blur] 1
+INFO 2022/10/17 18:33:43  [win] blur
+INFO 2022/10/17 18:33:53  [focus] 1
+INFO 2022/10/17 18:33:54  [blur] 1
+INFO 2022/10/17 18:33:54  [win] blur
+INFO 2022/10/17 18:33:55  [focus] 1
+INFO 2022/10/17 18:33:55  [blur] 1
+INFO 2022/10/17 18:33:55  [win] blur
+INFO 2022/10/17 18:33:58  [focus] 1
+INFO 2022/10/17 18:33:58  [blur] 1
+INFO 2022/10/17 18:33:58  [win] blur
+INFO 2022/10/17 18:34:00  [focus] 1
+INFO 2022/10/17 18:34:01  [blur] 1
+INFO 2022/10/17 18:34:01  [win] blur
+INFO 2022/10/17 18:34:06  [focus] 1
+INFO 2022/10/17 18:34:07  [blur] 1
+INFO 2022/10/17 18:34:07  [win] blur
+INFO 2022/10/17 18:34:08  [focus] 1
+INFO 2022/10/17 18:34:09  [blur] 1
+INFO 2022/10/17 18:34:09  [win] blur
+INFO 2022/10/17 18:36:24  The system is going to sleep
+INFO 2022/10/17 18:36:24  [Power] suspend
+INFO 2022/10/17 18:36:24  [RenderProcess 1][Log] [powerMonitor] suspend
+INFO 2022/10/17 18:36:32  [Power] resume
+INFO 2022/10/17 18:36:32  [RenderProcess 1][Log] [powerMonitor] resume
+INFO 2022/10/17 18:37:24  The system is going to sleep
+INFO 2022/10/17 18:37:24  [Power] suspend
+INFO 2022/10/17 18:37:24  [RenderProcess 1][Log] [powerMonitor] suspend
+INFO 2022/10/17 18:37:32  [Power] resume
+INFO 2022/10/17 18:37:32  [RenderProcess 1][Log] [powerMonitor] resume
+INFO 2022/10/17 18:39:53  synced recovery
+INFO 2022/10/17 18:39:53  ----------------before-quit-----------------
+INFO 2022/10/17 22:42:47  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/17 22:42:47  start LM in devVersion=false
+INFO 2022/10/17 22:42:47  [Raven] instanceKey = 6de4da93-f54a-4cad-9e87-52e721cbcefd
+INFO 2022/10/17 22:42:47  [watch L]
+INFO 2022/10/17 22:42:47  [L] installDate is 10/16/2022, trail remains: 14 days
+INFO 2022/10/17 22:42:47  [watch L] hasL: true
+INFO 2022/10/17 22:42:47  ------------------start------------------
+INFO 2022/10/17 22:42:47  typora version: 1.4.7
+INFO 2022/10/17 22:42:47  undefined
+INFO 2022/10/17 22:42:47  updateTheme
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/17 22:42:47  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/17 22:42:47  [focus] 1
+INFO 2022/10/17 22:42:47  synced recovery
+INFO 2022/10/17 22:42:48  handle document.loadData
+INFO 2022/10/17 22:42:48  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 22:42:48  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/17 22:42:48  synced recovery
+INFO 2022/10/17 22:42:48  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/17 22:42:48  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/17 22:42:49  [blur] 1
+INFO 2022/10/17 22:42:50  [win] blur
+Failed to Renew L
+INFO 2022/10/17 22:42:51  ls put SLicense
+INFO 2022/10/17 22:48:00  [focus] 1
+INFO 2022/10/17 22:48:01  [blur] 1
+INFO 2022/10/17 22:48:01  [win] blur
+INFO 2022/10/17 22:48:01  [focus] 1
+INFO 2022/10/17 22:48:01  [blur] 1
+INFO 2022/10/17 22:48:01  [win] blur
+INFO 2022/10/17 22:48:02  [focus] 1
+INFO 2022/10/17 22:48:02  [blur] 1
+INFO 2022/10/17 22:48:02  [win] blur
+INFO 2022/10/17 22:48:02  [focus] 1
+INFO 2022/10/17 22:48:03  [blur] 1
+INFO 2022/10/17 22:48:03  [win] blur
+INFO 2022/10/17 22:48:03  [focus] 1
+INFO 2022/10/17 22:48:03  [blur] 1
+INFO 2022/10/17 22:48:03  [win] blur
+INFO 2022/10/17 22:48:04  [focus] 1
+INFO 2022/10/17 22:48:06  [blur] 1
+INFO 2022/10/17 22:48:06  [win] blur
+INFO 2022/10/17 22:48:07  [focus] 1
+INFO 2022/10/17 22:48:07  [blur] 1
+INFO 2022/10/17 22:48:07  [win] blur
+INFO 2022/10/17 22:48:07  [focus] 1
+INFO 2022/10/17 22:48:08  [blur] 1
+INFO 2022/10/17 22:48:08  [win] blur
+INFO 2022/10/17 22:48:08  [focus] 1
+INFO 2022/10/17 22:48:10  synced recovery
+INFO 2022/10/17 22:48:10  ----------------before-quit-----------------
+INFO 2022/10/17 22:48:10  ------------------will-quit------------------
+INFO 2022/10/17 22:48:10  -----------------quit------------------
+INFO 2022/10/17 22:48:10  closeLogging
+INFO 2022/10/17 22:48:13  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/17 22:48:14  start LM in devVersion=false
+INFO 2022/10/17 22:48:14  [Raven] instanceKey = b1c78af3-155b-4a73-81fe-9b47818b8cdd
+INFO 2022/10/17 22:48:14  [watch L]
+INFO 2022/10/17 22:48:14  [L] installDate is 10/16/2022, trail remains: 14 days
+INFO 2022/10/17 22:48:14  [watch L] hasL: true
+INFO 2022/10/17 22:48:14  ------------------start------------------
+INFO 2022/10/17 22:48:14  typora version: 1.4.7
+INFO 2022/10/17 22:48:14  undefined
+INFO 2022/10/17 22:48:14  updateTheme
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/17 22:48:14  [focus] 1
+INFO 2022/10/17 22:48:14  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/17 22:48:14  synced recovery
+INFO 2022/10/17 22:48:14  handle document.loadData
+INFO 2022/10/17 22:48:14  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 22:48:14  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/17 22:48:14  synced recovery
+INFO 2022/10/17 22:48:14  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/17 22:48:14  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/17 22:48:15  [blur] 1
+INFO 2022/10/17 22:48:15  [win] blur
+INFO 2022/10/17 22:48:15  [focus] 1
+INFO 2022/10/17 22:48:15  ls put SLicense
+INFO 2022/10/17 22:48:16  synced recovery
+INFO 2022/10/17 22:48:16  ----------------before-quit-----------------
+INFO 2022/10/17 22:48:16  ------------------will-quit------------------
+INFO 2022/10/17 22:48:16  -----------------quit------------------
+INFO 2022/10/17 22:48:16  closeLogging
+INFO 2022/10/17 22:48:57  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/17 22:48:57  start LM in devVersion=false
+INFO 2022/10/17 22:48:57  [Raven] instanceKey = d8ef07ca-bb44-4e19-a312-01c692c47026
+INFO 2022/10/17 22:48:57  [watch L]
+INFO 2022/10/17 22:48:57  [L] installDate is 10/16/2022, trail remains: 14 days
+INFO 2022/10/17 22:48:57  [watch L] hasL: true
+INFO 2022/10/17 22:48:57  ------------------start------------------
+INFO 2022/10/17 22:48:57  typora version: 1.4.7
+INFO 2022/10/17 22:48:57  undefined
+INFO 2022/10/17 22:48:57  updateTheme
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/17 22:48:57  [focus] 1
+INFO 2022/10/17 22:48:57  synced recovery
+INFO 2022/10/17 22:48:57  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/17 22:48:58  handle document.loadData
+INFO 2022/10/17 22:48:58  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 22:48:58  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/17 22:48:58  synced recovery
+INFO 2022/10/17 22:48:58  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/17 22:48:58  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/17 22:48:58  [blur] 1
+INFO 2022/10/17 22:48:58  [win] blur
+INFO 2022/10/17 22:48:58  [focus] 1
+INFO 2022/10/17 22:48:58  ls put SLicense
+INFO 2022/10/17 22:49:02  [blur] 1
+INFO 2022/10/17 22:49:02  [win] blur
+INFO 2022/10/17 22:49:02  [focus] 1
+INFO 2022/10/17 22:49:02  [blur] 1
+INFO 2022/10/17 22:49:02  [win] blur
+INFO 2022/10/17 22:49:02  [focus] 1
+INFO 2022/10/17 22:49:10  [blur] 1
+INFO 2022/10/17 22:49:10  [win] blur
+INFO 2022/10/17 22:49:10  [focus] 1
+INFO 2022/10/17 22:49:20  [blur] 1
+INFO 2022/10/17 22:49:20  [win] blur
+INFO 2022/10/17 22:49:20  [focus] 1
+INFO 2022/10/17 22:49:20  [blur] 1
+INFO 2022/10/17 22:49:20  [win] blur
+INFO 2022/10/17 22:49:30  [focus] 1
+INFO 2022/10/17 22:49:30  [blur] 1
+INFO 2022/10/17 22:49:30  [win] blur
+INFO 2022/10/17 22:49:30  [focus] 1
+INFO 2022/10/17 22:49:37  addRecentFolder
+INFO 2022/10/17 22:49:39  switchDocument 1 [/home/ayaka/学习资料/笔记/Arch  dwm文档.md]
+INFO 2022/10/17 22:49:39  addRecentDocument
+INFO 2022/10/17 22:49:39  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/17 22:49:39  synced recovery
+INFO 2022/10/17 22:49:39  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 22:49:39  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/17 22:49:39  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Arch  dwm文档.md
+INFO 2022/10/17 22:49:39  synced recovery
+INFO 2022/10/17 22:49:41  synced recovery
+INFO 2022/10/17 22:49:43  synced recovery
+INFO 2022/10/17 22:49:45  synced recovery
+INFO 2022/10/17 22:49:47  [blur] 1
+INFO 2022/10/17 22:49:47  [win] blur
+INFO 2022/10/17 22:49:47  [focus] 1
+INFO 2022/10/17 22:49:49  [blur] 1
+INFO 2022/10/17 22:49:49  [win] blur
+INFO 2022/10/17 22:49:49  [focus] 1
+INFO 2022/10/17 22:50:14  File.option.useCustomFontSize=true
+INFO 2022/10/17 22:50:14  document.body.parentElement.style.fontSize = '14px'
+INFO 2022/10/17 22:50:15  File.option.customFontSize=15
+INFO 2022/10/17 22:50:15  document.body.parentElement.style.fontSize = '15px'
+INFO 2022/10/17 22:50:16  File.option.customFontSize=16
+INFO 2022/10/17 22:50:16  document.body.parentElement.style.fontSize = '16px'
+INFO 2022/10/17 22:50:16  File.option.customFontSize=17
+INFO 2022/10/17 22:50:16  document.body.parentElement.style.fontSize = '17px'
+INFO 2022/10/17 22:50:16  File.option.customFontSize=18
+INFO 2022/10/17 22:50:16  document.body.parentElement.style.fontSize = '18px'
+INFO 2022/10/17 22:50:18  File.option.customFontSize=19
+INFO 2022/10/17 22:50:18  document.body.parentElement.style.fontSize = '19px'
+INFO 2022/10/17 22:50:18  File.option.customFontSize=20
+INFO 2022/10/17 22:50:18  document.body.parentElement.style.fontSize = '20px'
+INFO 2022/10/17 22:50:20  File.option.customFontSize=20
+INFO 2022/10/17 22:50:20  document.body.parentElement.style.fontSize = '20px'
+INFO 2022/10/17 22:50:22  synced recovery
+INFO 2022/10/17 22:50:25  [blur] 1
+INFO 2022/10/17 22:50:25  [win] blur
+INFO 2022/10/17 22:50:25  [focus] 1
+INFO 2022/10/17 22:50:26  [blur] 1
+INFO 2022/10/17 22:50:26  [win] blur
+INFO 2022/10/17 22:50:26  [focus] 1
+INFO 2022/10/17 22:50:34  [blur] 1
+INFO 2022/10/17 22:50:34  [win] blur
+INFO 2022/10/17 22:50:45  [focus] 1
+INFO 2022/10/17 22:50:47  [blur] 1
+INFO 2022/10/17 22:50:47  [win] blur
+INFO 2022/10/17 22:53:28  synced recovery
+INFO 2022/10/17 23:09:24  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/17 23:09:24  start LM in devVersion=false
+INFO 2022/10/17 23:09:24  [Raven] instanceKey = f52bba23-a15d-463a-9f9a-77bb79bcca1e
+INFO 2022/10/17 23:09:24  [watch L]
+INFO 2022/10/17 23:09:24  [L] installDate is 10/16/2022, trail remains: 14 days
+INFO 2022/10/17 23:09:24  [watch L] hasL: true
+INFO 2022/10/17 23:09:24  ------------------start------------------
+INFO 2022/10/17 23:09:24  typora version: 1.4.7
+INFO 2022/10/17 23:09:24  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/17 23:09:24  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/17 23:09:24  [focus] 1
+INFO 2022/10/17 23:09:24  synced recovery
+INFO 2022/10/17 23:09:25  handle document.loadData
+INFO 2022/10/17 23:09:25  addRecentFolder
+INFO 2022/10/17 23:09:25  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 23:09:25  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/17 23:09:25  synced recovery
+INFO 2022/10/17 23:09:25  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/17 23:09:25  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/17 23:09:27  [blur] 1
+INFO 2022/10/17 23:09:27  [win] blur
+INFO 2022/10/17 23:09:28  [focus] 1
+INFO 2022/10/17 23:09:28  switchDocument 1 [/home/ayaka/学习资料/笔记/Arch  dwm文档.md]
+INFO 2022/10/17 23:09:28  addRecentDocument
+INFO 2022/10/17 23:09:28  synced recovery
+INFO 2022/10/17 23:09:28  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/17 23:09:28  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/17 23:09:28  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/17 23:09:28  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Arch  dwm文档.md
+INFO 2022/10/17 23:09:28  synced recovery
+INFO 2022/10/17 23:09:33  ls put SLicense
+INFO 2022/10/17 23:09:33  [blur] 1
+INFO 2022/10/17 23:09:33  [win] blur
+INFO 2022/10/17 23:09:34  [focus] 1
+INFO 2022/10/17 23:09:53  synced recovery
+INFO 2022/10/17 23:09:56  synced recovery
+INFO 2022/10/17 23:10:00  synced recovery
+INFO 2022/10/17 23:10:03  synced recovery
+INFO 2022/10/17 23:10:06  [blur] 1
+INFO 2022/10/17 23:10:06  [win] blur
+INFO 2022/10/17 23:10:21  [focus] 1
+INFO 2022/10/17 23:10:21  [blur] 1
+INFO 2022/10/17 23:10:21  [win] blur
+INFO 2022/10/17 23:10:22  [focus] 1
+INFO 2022/10/17 23:10:24  synced recovery
+INFO 2022/10/17 23:10:25  synced recovery
+INFO 2022/10/17 23:10:27  synced recovery
+INFO 2022/10/17 23:10:33  synced recovery
+INFO 2022/10/17 23:10:34  synced recovery
+INFO 2022/10/17 23:10:36  synced recovery
+INFO 2022/10/17 23:10:38  synced recovery
+INFO 2022/10/17 23:10:41  synced recovery
+INFO 2022/10/17 23:10:44  synced recovery
+INFO 2022/10/17 23:10:46  synced recovery
+INFO 2022/10/17 23:10:52  synced recovery
+INFO 2022/10/17 23:10:54  synced recovery
+INFO 2022/10/17 23:10:56  synced recovery
+INFO 2022/10/17 23:10:59  synced recovery
+INFO 2022/10/17 23:11:01  synced recovery
+INFO 2022/10/17 23:11:06  synced recovery
+INFO 2022/10/17 23:11:08  synced recovery
+INFO 2022/10/17 23:11:12  synced recovery
+INFO 2022/10/17 23:11:19  synced recovery
+INFO 2022/10/17 23:11:22  synced recovery
+INFO 2022/10/17 23:11:24  synced recovery
+INFO 2022/10/17 23:11:25  synced recovery
+INFO 2022/10/17 23:11:27  [blur] 1
+INFO 2022/10/17 23:11:27  [win] blur
+INFO 2022/10/17 23:11:36  [focus] 1
+INFO 2022/10/17 23:11:39  synced recovery
+INFO 2022/10/17 23:11:40  synced recovery
+INFO 2022/10/17 23:11:52  File.option.customFontSize=21
+INFO 2022/10/17 23:11:52  document.body.parentElement.style.fontSize = '21px'
+INFO 2022/10/17 23:11:53  File.option.customFontSize=22
+INFO 2022/10/17 23:11:53  document.body.parentElement.style.fontSize = '22px'
+INFO 2022/10/17 23:11:53  File.option.customFontSize=23
+INFO 2022/10/17 23:11:53  document.body.parentElement.style.fontSize = '23px'
+INFO 2022/10/17 23:11:53  File.option.customFontSize=24
+INFO 2022/10/17 23:11:53  document.body.parentElement.style.fontSize = '24px'
+INFO 2022/10/17 23:11:54  File.option.customFontSize=24
+INFO 2022/10/17 23:11:54  document.body.parentElement.style.fontSize = '24px'
+INFO 2022/10/17 23:11:58  [blur] 1
+INFO 2022/10/17 23:11:58  [win] blur
+INFO 2022/10/17 23:12:06  [focus] 1
+INFO 2022/10/17 23:12:07  [blur] 1
+INFO 2022/10/17 23:12:07  [win] blur
+INFO 2022/10/17 23:12:08  [focus] 1
+INFO 2022/10/17 23:12:10  synced recovery
+INFO 2022/10/17 23:12:14  synced recovery
+INFO 2022/10/17 23:12:15  synced recovery
+INFO 2022/10/17 23:12:21  [blur] 1
+INFO 2022/10/17 23:12:21  [win] blur
+INFO 2022/10/17 23:12:24  [focus] 1
+INFO 2022/10/17 23:12:24  [blur] 1
+INFO 2022/10/17 23:12:24  [win] blur
+INFO 2022/10/17 23:12:24  [focus] 1
+INFO 2022/10/17 23:12:46  window.File && (function() {$("[data-group='dev-tool']").show();})();
+INFO 2022/10/17 23:13:03  File.option.expandSimpleBlock = true;
+INFO 2022/10/17 23:13:08  synced recovery
+INFO 2022/10/17 23:13:08  [blur] 1
+INFO 2022/10/17 23:13:08  [win] blur
+INFO 2022/10/17 23:15:42  [focus] 1
+INFO 2022/10/17 23:15:54  [blur] 1
+INFO 2022/10/17 23:15:54  [win] blur
+INFO 2022/10/17 23:29:33  synced recovery
+INFO 2022/10/17 23:29:33  ----------------before-quit-----------------
+INFO 2022/10/18 08:03:40  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/18 08:03:40  start LM in devVersion=false
+INFO 2022/10/18 08:03:40  [Raven] instanceKey = c0a00795-6ed1-49d4-bb4a-f5122f41ef29
+INFO 2022/10/18 08:03:40  [watch L]
+INFO 2022/10/18 08:03:40  [L] installDate is 10/16/2022, trail remains: 13 days
+INFO 2022/10/18 08:03:40  [watch L] hasL: true
+INFO 2022/10/18 08:03:40  ------------------start------------------
+INFO 2022/10/18 08:03:40  typora version: 1.4.7
+INFO 2022/10/18 08:03:40  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/18 08:03:40  addRecentDocument
+INFO 2022/10/18 08:03:40  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/18 08:03:40  [focus] 1
+INFO 2022/10/18 08:03:40  synced recovery
+INFO 2022/10/18 08:03:41  handle document.loadData
+INFO 2022/10/18 08:03:41  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/18 08:03:41  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/18 08:03:41  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Arch  dwm文档.md
+INFO 2022/10/18 08:03:41  ls put SLicense
+INFO 2022/10/18 08:03:41  synced recovery
+INFO 2022/10/18 08:03:41  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/18 08:03:41  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/18 08:04:10  synced recovery
+INFO 2022/10/18 08:04:12  synced recovery
+INFO 2022/10/18 08:04:32  [blur] 1
+INFO 2022/10/18 08:04:32  [win] blur
+INFO 2022/10/18 08:04:47  [focus] 1
+INFO 2022/10/18 08:04:48  [blur] 1
+INFO 2022/10/18 08:04:48  [win] blur
+INFO 2022/10/18 08:05:23  [focus] 1
+INFO 2022/10/18 08:05:26  synced recovery
+INFO 2022/10/18 08:05:26  ----------------before-quit-----------------
+INFO 2022/10/18 08:05:26  ------------------will-quit------------------
+INFO 2022/10/18 08:05:26  -----------------quit------------------
+INFO 2022/10/18 08:05:26  closeLogging
+INFO 2022/10/18 20:59:15  launch with argv [/usr/share/typora/Typora, /home/ayaka/.config/waybar/dotfiles/README.MD]
+INFO 2022/10/18 20:59:15  start LM in devVersion=false
+INFO 2022/10/18 20:59:15  [Raven] instanceKey = 11769f77-d524-4886-8b94-66cc57cc74ee
+INFO 2022/10/18 20:59:15  [watch L]
+INFO 2022/10/18 20:59:15  [L] installDate is 10/16/2022, trail remains: 13 days
+INFO 2022/10/18 20:59:15  [watch L] hasL: true
+INFO 2022/10/18 20:59:15  ------------------start------------------
+INFO 2022/10/18 20:59:15  typora version: 1.4.7
+INFO 2022/10/18 20:59:15  undefined
+INFO 2022/10/18 20:59:15  addRecentDocument
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/18 20:59:15  [focus] 1
+INFO 2022/10/18 20:59:15  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/18 20:59:15  synced recovery
+INFO 2022/10/18 20:59:15  handle document.loadData
+INFO 2022/10/18 20:59:16  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/18 20:59:16  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/18 20:59:16  [RenderProcess 1][Log] readContentFrom /home/ayaka/.config/waybar/dotfiles/README.MD
+Failed to Renew L
+INFO 2022/10/18 20:59:16  ls put SLicense
+INFO 2022/10/18 20:59:16  synced recovery
+INFO 2022/10/18 20:59:16  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/18 20:59:16  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/18 20:59:20  synced recovery
+INFO 2022/10/18 20:59:20  ----------------before-quit-----------------
+INFO 2022/10/18 20:59:20  ------------------will-quit------------------
+INFO 2022/10/18 20:59:20  -----------------quit------------------
+INFO 2022/10/18 20:59:20  closeLogging
+INFO 2022/10/19 00:59:01  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/19 00:59:01  start LM in devVersion=false
+INFO 2022/10/19 00:59:01  [Raven] instanceKey = 5c010b6c-f1fd-46f5-af5f-bdf3672684c6
+INFO 2022/10/19 00:59:01  [watch L]
+INFO 2022/10/19 00:59:01  [L] installDate is 10/16/2022, trail remains: 12 days
+INFO 2022/10/19 00:59:01  [watch L] hasL: true
+INFO 2022/10/19 00:59:01  ------------------start------------------
+INFO 2022/10/19 00:59:01  typora version: 1.4.7
+INFO 2022/10/19 00:59:01  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/19 00:59:01  addRecentDocument
+INFO 2022/10/19 00:59:01  [focus] 1
+INFO 2022/10/19 00:59:01  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/19 00:59:01  synced recovery
+INFO 2022/10/19 00:59:02  handle document.loadData
+INFO 2022/10/19 00:59:02  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 00:59:02  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/19 00:59:02  synced recovery
+INFO 2022/10/19 00:59:02  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/19 00:59:02  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/19 00:59:04  ls put SLicense
+INFO 2022/10/19 00:59:04  [blur] 1
+INFO 2022/10/19 00:59:04  [win] blur
+INFO 2022/10/19 00:59:06  [focus] 1
+INFO 2022/10/19 00:59:06  synced recovery
+INFO 2022/10/19 00:59:06  ----------------before-quit-----------------
+INFO 2022/10/19 00:59:06  ------------------will-quit------------------
+INFO 2022/10/19 00:59:06  -----------------quit------------------
+INFO 2022/10/19 00:59:06  closeLogging
+INFO 2022/10/19 03:57:53  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/19 03:57:53  start LM in devVersion=false
+INFO 2022/10/19 03:57:53  [Raven] instanceKey = d21d8097-f260-44a6-8e9c-44997be9314f
+INFO 2022/10/19 03:57:53  [watch L]
+INFO 2022/10/19 03:57:53  [L] installDate is 10/16/2022, trail remains: 12 days
+INFO 2022/10/19 03:57:53  [watch L] hasL: true
+INFO 2022/10/19 03:57:53  ------------------start------------------
+INFO 2022/10/19 03:57:53  typora version: 1.4.7
+INFO 2022/10/19 03:57:53  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/19 03:57:53  [focus] 1
+INFO 2022/10/19 03:57:53  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/19 03:57:53  synced recovery
+INFO 2022/10/19 03:57:54  handle document.loadData
+INFO 2022/10/19 03:57:54  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 03:57:54  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/19 03:57:54  synced recovery
+INFO 2022/10/19 03:57:54  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/19 03:57:54  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/19 03:57:55  [blur] 1
+INFO 2022/10/19 03:57:55  [win] blur
+INFO 2022/10/19 03:58:17  [focus] 1
+INFO 2022/10/19 03:58:17  [blur] 1
+INFO 2022/10/19 03:58:17  [win] blur
+INFO 2022/10/19 04:04:14  [focus] 1
+INFO 2022/10/19 04:04:17  synced recovery
+INFO 2022/10/19 04:04:19  synced recovery
+INFO 2022/10/19 04:04:20  [blur] 1
+INFO 2022/10/19 04:04:20  [win] blur
+INFO 2022/10/19 04:06:08  [focus] 1
+INFO 2022/10/19 04:06:08  [blur] 1
+INFO 2022/10/19 04:06:08  [win] blur
+INFO 2022/10/19 04:06:47  [focus] 1
+INFO 2022/10/19 04:06:48  [blur] 1
+INFO 2022/10/19 04:06:48  [win] blur
+INFO 2022/10/19 04:07:02  [focus] 1
+INFO 2022/10/19 04:07:06  [blur] 1
+INFO 2022/10/19 04:07:06  [win] blur
+INFO 2022/10/19 04:07:13  [focus] 1
+INFO 2022/10/19 04:07:14  [blur] 1
+INFO 2022/10/19 04:07:14  [win] blur
+INFO 2022/10/19 04:07:32  [focus] 1
+INFO 2022/10/19 04:07:32  [blur] 1
+INFO 2022/10/19 04:07:32  [win] blur
+INFO 2022/10/19 04:08:20  [focus] 1
+INFO 2022/10/19 04:08:20  [blur] 1
+INFO 2022/10/19 04:08:20  [win] blur
+INFO 2022/10/19 04:09:09  [focus] 1
+INFO 2022/10/19 04:09:10  [blur] 1
+INFO 2022/10/19 04:09:10  [win] blur
+INFO 2022/10/19 04:11:24  [focus] 1
+INFO 2022/10/19 04:11:26  [blur] 1
+INFO 2022/10/19 04:11:26  [win] blur
+INFO 2022/10/19 04:11:43  [focus] 1
+INFO 2022/10/19 04:11:44  [blur] 1
+INFO 2022/10/19 04:11:44  [win] blur
+INFO 2022/10/19 04:11:50  [focus] 1
+INFO 2022/10/19 04:11:50  [blur] 1
+INFO 2022/10/19 04:11:50  [win] blur
+INFO 2022/10/19 04:11:51  [focus] 1
+INFO 2022/10/19 04:12:11  [blur] 1
+INFO 2022/10/19 04:12:11  [win] blur
+INFO 2022/10/19 04:12:11  [focus] 1
+INFO 2022/10/19 04:12:12  [blur] 1
+INFO 2022/10/19 04:12:12  [win] blur
+INFO 2022/10/19 04:12:14  [focus] 1
+INFO 2022/10/19 04:12:15  [blur] 1
+INFO 2022/10/19 04:12:15  [win] blur
+INFO 2022/10/19 04:12:54  [focus] 1
+INFO 2022/10/19 04:12:55  [blur] 1
+INFO 2022/10/19 04:12:55  [win] blur
+INFO 2022/10/19 04:14:26  [focus] 1
+INFO 2022/10/19 04:14:26  [blur] 1
+INFO 2022/10/19 04:14:26  [win] blur
+INFO 2022/10/19 04:14:29  [focus] 1
+INFO 2022/10/19 04:14:32  [blur] 1
+INFO 2022/10/19 04:14:32  [win] blur
+INFO 2022/10/19 04:14:32  [focus] 1
+INFO 2022/10/19 04:14:38  [blur] 1
+INFO 2022/10/19 04:14:38  [win] blur
+INFO 2022/10/19 04:14:38  [focus] 1
+INFO 2022/10/19 04:14:43  synced recovery
+INFO 2022/10/19 04:14:43  ----------------before-quit-----------------
+INFO 2022/10/19 04:14:43  ------------------will-quit------------------
+INFO 2022/10/19 04:14:43  -----------------quit------------------
+INFO 2022/10/19 04:14:43  closeLogging
+INFO 2022/10/19 12:24:14  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/19 12:24:14  start LM in devVersion=false
+INFO 2022/10/19 12:24:14  [Raven] instanceKey = 0b91c7ca-f2c1-4391-ae82-1a9daef202b5
+INFO 2022/10/19 12:24:14  [watch L]
+INFO 2022/10/19 12:24:14  [L] installDate is 10/16/2022, trail remains: 12 days
+INFO 2022/10/19 12:24:14  [watch L] hasL: true
+INFO 2022/10/19 12:24:14  ------------------start------------------
+INFO 2022/10/19 12:24:14  typora version: 1.4.7
+INFO 2022/10/19 12:24:14  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/19 12:24:14  [focus] 1
+INFO 2022/10/19 12:24:14  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/19 12:24:14  synced recovery
+INFO 2022/10/19 12:24:15  handle document.loadData
+INFO 2022/10/19 12:24:15  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 12:24:15  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/19 12:24:15  synced recovery
+INFO 2022/10/19 12:24:15  ls put SLicense
+INFO 2022/10/19 12:24:15  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/19 12:24:15  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/19 12:24:17  synced recovery
+INFO 2022/10/19 12:24:17  ----------------before-quit-----------------
+INFO 2022/10/19 12:24:17  ------------------will-quit------------------
+INFO 2022/10/19 12:24:17  -----------------quit------------------
+INFO 2022/10/19 12:24:17  closeLogging
+INFO 2022/10/19 12:29:13  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/19 12:29:13  start LM in devVersion=false
+INFO 2022/10/19 12:29:13  [Raven] instanceKey = 07f5bb52-9c88-49af-bb6f-96ac2ff9091e
+INFO 2022/10/19 12:29:13  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/10/19 12:29:13  [watch L]
+INFO 2022/10/19 12:29:13  [L] installDate is 10/16/2022, trail remains: 12 days
+INFO 2022/10/19 12:29:13  [watch L] hasL: true
+INFO 2022/10/19 12:29:13  ------------------start------------------
+INFO 2022/10/19 12:29:13  typora version: 1.4.7
+INFO 2022/10/19 12:29:13  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/19 12:29:13  [focus] 1
+INFO 2022/10/19 12:29:13  synced recovery
+INFO 2022/10/19 12:29:13  secondary instance would exit
+INFO 2022/10/19 12:29:13  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/19 12:29:14  ls put SLicense
+INFO 2022/10/19 12:29:14  handle document.loadData
+INFO 2022/10/19 12:29:14  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 12:29:14  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/19 12:29:14  synced recovery
+INFO 2022/10/19 12:29:14  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/19 12:29:14  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/19 12:29:15  [blur] 1
+INFO 2022/10/19 12:29:15  [win] blur
+INFO 2022/10/19 12:29:16  [focus] 1
+INFO 2022/10/19 12:29:16  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/10/19 12:29:16  [blur] 1
+INFO 2022/10/19 12:29:16  [win] blur
+INFO 2022/10/19 12:29:16  synced recovery
+INFO 2022/10/19 12:29:16  [focus] 2
+INFO 2022/10/19 12:29:16  secondary instance would exit
+INFO 2022/10/19 12:29:16  handle document.loadData
+INFO 2022/10/19 12:29:17  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 12:29:17  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/19 12:29:17  synced recovery
+INFO 2022/10/19 12:29:17  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/19 12:29:17  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/19 12:29:19  [focus] 1
+INFO 2022/10/19 12:29:19  [blur] 1
+INFO 2022/10/19 12:29:19  [win] blur
+INFO 2022/10/19 12:29:19  [focus] 1
+INFO 2022/10/19 12:29:20  [blur] 1
+INFO 2022/10/19 12:29:20  [win] blur
+INFO 2022/10/19 12:29:21  [focus] 1
+INFO 2022/10/19 12:29:21  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/10/19 12:29:21  [blur] 1
+INFO 2022/10/19 12:29:21  [win] blur
+INFO 2022/10/19 12:29:21  [focus] 3
+INFO 2022/10/19 12:29:21  synced recovery
+INFO 2022/10/19 12:29:21  secondary instance would exit
+INFO 2022/10/19 12:29:21  handle document.loadData
+INFO 2022/10/19 12:29:22  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 12:29:22  [RenderProcess 3][Log] reset NodeMap
+INFO 2022/10/19 12:29:22  synced recovery
+INFO 2022/10/19 12:29:22  [RenderProcess 3][Log] onBecomeActive
+INFO 2022/10/19 12:29:22  [RenderProcess 3][Log] File.activeWindow = true
+INFO 2022/10/19 12:29:22  [focus] 1
+INFO 2022/10/19 12:29:22  [blur] 1
+INFO 2022/10/19 12:29:22  [win] blur
+INFO 2022/10/19 12:29:22  [focus] 1
+INFO 2022/10/19 12:29:23  [blur] 1
+INFO 2022/10/19 12:29:23  [win] blur
+INFO 2022/10/19 12:29:24  [focus] 1
+INFO 2022/10/19 12:29:24  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/10/19 12:29:24  [blur] 1
+INFO 2022/10/19 12:29:24  [win] blur
+INFO 2022/10/19 12:29:24  [focus] 4
+INFO 2022/10/19 12:29:24  synced recovery
+INFO 2022/10/19 12:29:24  secondary instance would exit
+INFO 2022/10/19 12:29:25  handle document.loadData
+INFO 2022/10/19 12:29:25  [RenderProcess 4][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 12:29:25  [RenderProcess 4][Log] reset NodeMap
+INFO 2022/10/19 12:29:25  synced recovery
+INFO 2022/10/19 12:29:25  [RenderProcess 4][Log] onBecomeActive
+INFO 2022/10/19 12:29:25  [RenderProcess 4][Log] File.activeWindow = true
+INFO 2022/10/19 12:29:26  [focus] 1
+INFO 2022/10/19 12:29:26  [blur] 1
+INFO 2022/10/19 12:29:26  [win] blur
+INFO 2022/10/19 12:29:26  [focus] 1
+INFO 2022/10/19 12:29:27  [blur] 1
+INFO 2022/10/19 12:29:27  [win] blur
+INFO 2022/10/19 12:31:27  [focus] 1
+INFO 2022/10/19 12:31:29  [blur] 1
+INFO 2022/10/19 12:31:29  [win] blur
+INFO 2022/10/19 12:31:32  [focus] 1
+INFO 2022/10/19 12:31:33  [blur] 1
+INFO 2022/10/19 12:31:33  [win] blur
+INFO 2022/10/19 12:31:35  [focus] 1
+INFO 2022/10/19 12:31:36  [blur] 1
+INFO 2022/10/19 12:31:36  [win] blur
+INFO 2022/10/19 12:32:11  [focus] 1
+INFO 2022/10/19 12:32:12  [blur] 1
+INFO 2022/10/19 12:32:12  [win] blur
+INFO 2022/10/19 12:33:27  [focus] 1
+INFO 2022/10/19 12:33:28  [blur] 1
+INFO 2022/10/19 12:33:28  [win] blur
+INFO 2022/10/19 12:33:29  [focus] 1
+INFO 2022/10/19 12:33:29  [blur] 1
+INFO 2022/10/19 12:33:29  [win] blur
+INFO 2022/10/19 12:33:30  [focus] 1
+INFO 2022/10/19 12:33:31  [blur] 1
+INFO 2022/10/19 12:33:31  [win] blur
+INFO 2022/10/19 12:33:45  [focus] 1
+INFO 2022/10/19 12:33:47  synced recovery
+INFO 2022/10/19 12:33:47  ----------------before-quit-----------------
+INFO 2022/10/19 12:33:47  ------------------will-quit------------------
+INFO 2022/10/19 12:33:47  -----------------quit------------------
+INFO 2022/10/19 12:33:47  closeLogging
+INFO 2022/10/19 12:33:49  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/19 12:33:49  start LM in devVersion=false
+INFO 2022/10/19 12:33:49  [Raven] instanceKey = 149dd8d1-43b5-4a9e-b73e-3f2253d7e567
+INFO 2022/10/19 12:33:49  [watch L]
+INFO 2022/10/19 12:33:49  [L] installDate is 10/16/2022, trail remains: 12 days
+INFO 2022/10/19 12:33:49  [watch L] hasL: true
+INFO 2022/10/19 12:33:49  ------------------start------------------
+INFO 2022/10/19 12:33:49  typora version: 1.4.7
+INFO 2022/10/19 12:33:49  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/19 12:33:49  [focus] 1
+INFO 2022/10/19 12:33:49  synced recovery
+INFO 2022/10/19 12:33:49  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/19 12:33:49  handle document.loadData
+INFO 2022/10/19 12:33:49  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 12:33:49  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/19 12:33:49  synced recovery
+INFO 2022/10/19 12:33:50  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/19 12:33:50  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/19 12:33:50  [blur] 1
+INFO 2022/10/19 12:33:50  [win] blur
+Failed to Renew L
+INFO 2022/10/19 12:33:53  ls put SLicense
+INFO 2022/10/19 12:34:03  [focus] 1
+INFO 2022/10/19 12:34:06  synced recovery
+INFO 2022/10/19 12:34:07  [blur] 1
+INFO 2022/10/19 12:34:07  [win] blur
+INFO 2022/10/19 12:34:07  synced recovery
+INFO 2022/10/19 12:34:37  [focus] 1
+INFO 2022/10/19 12:34:38  [blur] 1
+INFO 2022/10/19 12:34:38  [win] blur
+INFO 2022/10/19 12:34:43  [focus] 1
+INFO 2022/10/19 12:34:43  [blur] 1
+INFO 2022/10/19 12:34:43  [win] blur
+INFO 2022/10/19 12:34:43  [focus] 1
+INFO 2022/10/19 12:34:43  [blur] 1
+INFO 2022/10/19 12:34:43  [win] blur
+INFO 2022/10/19 12:34:55  [focus] 1
+INFO 2022/10/19 12:34:55  [blur] 1
+INFO 2022/10/19 12:34:55  [win] blur
+INFO 2022/10/19 12:34:58  [focus] 1
+INFO 2022/10/19 12:35:02  synced recovery
+INFO 2022/10/19 12:35:02  ----------------before-quit-----------------
+INFO 2022/10/19 12:35:02  ------------------will-quit------------------
+INFO 2022/10/19 12:35:02  -----------------quit------------------
+INFO 2022/10/19 12:35:02  closeLogging
+INFO 2022/10/19 12:40:53  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/19 12:40:53  start LM in devVersion=false
+INFO 2022/10/19 12:40:53  [Raven] instanceKey = 1494b443-b2a4-40f1-a44c-3be6dc2fca2c
+INFO 2022/10/19 12:40:53  [watch L]
+INFO 2022/10/19 12:40:53  [L] installDate is 10/16/2022, trail remains: 12 days
+INFO 2022/10/19 12:40:53  [watch L] hasL: true
+INFO 2022/10/19 12:40:53  ------------------start------------------
+INFO 2022/10/19 12:40:53  typora version: 1.4.7
+INFO 2022/10/19 12:40:53  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/19 12:40:53  [focus] 1
+INFO 2022/10/19 12:40:53  synced recovery
+INFO 2022/10/19 12:40:53  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/19 12:40:53  ls put SLicense
+INFO 2022/10/19 12:40:54  handle document.loadData
+INFO 2022/10/19 12:40:54  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/19 12:40:54  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/19 12:40:54  synced recovery
+INFO 2022/10/19 12:40:54  [blur] 1
+INFO 2022/10/19 12:40:54  [win] blur
+INFO 2022/10/19 12:40:54  [focus] 1
+INFO 2022/10/19 12:40:54  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/19 12:40:54  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/19 12:40:55  [blur] 1
+INFO 2022/10/19 12:40:55  [win] blur
+INFO 2022/10/19 12:40:55  [focus] 1
+INFO 2022/10/19 12:40:55  [blur] 1
+INFO 2022/10/19 12:40:55  [win] blur
+INFO 2022/10/19 12:40:59  [focus] 1
+INFO 2022/10/19 12:40:59  [blur] 1
+INFO 2022/10/19 12:40:59  [win] blur
+INFO 2022/10/19 12:44:58  [focus] 1
+INFO 2022/10/19 12:44:58  [blur] 1
+INFO 2022/10/19 12:44:58  [win] blur
+INFO 2022/10/19 12:49:07  [focus] 1
+INFO 2022/10/19 12:49:07  [blur] 1
+INFO 2022/10/19 12:49:07  [win] blur
+INFO 2022/10/19 12:49:07  [focus] 1
+INFO 2022/10/19 12:49:07  [blur] 1
+INFO 2022/10/19 12:49:07  [win] blur
+INFO 2022/10/20 08:44:53  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/20 08:44:53  start LM in devVersion=false
+INFO 2022/10/20 08:44:53  [Raven] instanceKey = eac07e83-fdf5-431b-bf6d-3c9b904642e6
+INFO 2022/10/20 08:44:53  [watch L]
+INFO 2022/10/20 08:44:53  [L] installDate is 10/16/2022, trail remains: 11 days
+INFO 2022/10/20 08:44:53  [watch L] hasL: true
+INFO 2022/10/20 08:44:53  ------------------start------------------
+INFO 2022/10/20 08:44:53  typora version: 1.4.7
+INFO 2022/10/20 08:44:53  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/20 08:44:53  launch from abnormal quit
+INFO 2022/10/20 08:44:53  recoverWindow {"id":1,"path":""}
+INFO 2022/10/20 08:44:53  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/20 08:44:53  [focus] 1
+INFO 2022/10/20 08:44:53  synced recovery
+INFO 2022/10/20 08:44:54  handle document.loadData
+INFO 2022/10/20 08:44:54  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/20 08:44:54  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/20 08:44:54  synced recovery
+INFO 2022/10/20 08:44:54  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/20 08:44:54  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/20 08:44:55  synced recovery
+INFO 2022/10/20 08:44:55  ----------------before-quit-----------------
+INFO 2022/10/20 08:44:55  ------------------will-quit------------------
+INFO 2022/10/20 08:44:55  -----------------quit------------------
+INFO 2022/10/20 08:44:55  closeLogging
+INFO 2022/10/21 17:06:17  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/21 17:06:17  start LM in devVersion=false
+INFO 2022/10/21 17:06:17  [Raven] instanceKey = f08df48e-5f0d-4134-9224-c4d498475d22
+INFO 2022/10/21 17:06:17  [watch L]
+INFO 2022/10/21 17:06:17  [L] installDate is 10/16/2022, trail remains: 10 days
+INFO 2022/10/21 17:06:17  [watch L] hasL: true
+INFO 2022/10/21 17:06:17  ------------------start------------------
+INFO 2022/10/21 17:06:17  typora version: 1.4.7
+INFO 2022/10/21 17:06:17  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/21 17:06:17  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/21 17:06:17  [focus] 1
+INFO 2022/10/21 17:06:17  synced recovery
+INFO 2022/10/21 17:06:18  handle document.loadData
+INFO 2022/10/21 17:06:18  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/21 17:06:18  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/21 17:06:18  synced recovery
+INFO 2022/10/21 17:06:18  ls put SLicense
+INFO 2022/10/21 17:06:18  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/21 17:06:18  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/21 17:06:19  synced recovery
+INFO 2022/10/21 17:06:19  ----------------before-quit-----------------
+INFO 2022/10/21 17:06:19  ------------------will-quit------------------
+INFO 2022/10/21 17:06:19  -----------------quit------------------
+INFO 2022/10/21 17:06:19  closeLogging
+INFO 2022/10/21 17:53:07  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/21 17:53:07  start LM in devVersion=false
+INFO 2022/10/21 17:53:07  [Raven] instanceKey = 16f68d97-6a2b-49aa-9c52-66f486a08ca5
+INFO 2022/10/21 17:53:07  [watch L]
+INFO 2022/10/21 17:53:07  [L] installDate is 10/16/2022, trail remains: 10 days
+INFO 2022/10/21 17:53:07  [watch L] hasL: true
+INFO 2022/10/21 17:53:07  ------------------start------------------
+INFO 2022/10/21 17:53:07  typora version: 1.4.7
+INFO 2022/10/21 17:53:07  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/21 17:53:07  synced recovery
+INFO 2022/10/21 17:53:07  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/21 17:53:07  [focus] 1
+INFO 2022/10/21 17:53:08  handle document.loadData
+INFO 2022/10/21 17:53:08  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/21 17:53:08  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/21 17:53:08  synced recovery
+INFO 2022/10/21 17:53:08  ls put SLicense
+INFO 2022/10/21 17:53:08  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/21 17:53:08  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/21 17:53:08  [blur] 1
+INFO 2022/10/21 17:53:08  [win] blur
+INFO 2022/10/21 17:53:08  [focus] 1
+INFO 2022/10/21 17:53:09  [blur] 1
+INFO 2022/10/21 17:53:09  [win] blur
+INFO 2022/10/21 17:53:09  [focus] 1
+INFO 2022/10/21 17:53:11  [blur] 1
+INFO 2022/10/21 17:53:11  [win] blur
+INFO 2022/10/21 17:53:11  [focus] 1
+INFO 2022/10/21 17:53:13  [blur] 1
+INFO 2022/10/21 17:53:13  [win] blur
+INFO 2022/10/21 17:53:13  [focus] 1
+INFO 2022/10/21 17:53:15  [blur] 1
+INFO 2022/10/21 17:53:15  [win] blur
+INFO 2022/10/21 17:53:15  [focus] 1
+INFO 2022/10/21 17:53:19  addRecentFolder
+INFO 2022/10/21 17:53:34  switchDocument 1 [/home/ayaka/学习资料/笔记/Arch  dwm文档.md]
+INFO 2022/10/21 17:53:34  addRecentDocument
+INFO 2022/10/21 17:53:34  synced recovery
+INFO 2022/10/21 17:53:34  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/21 17:53:34  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/21 17:53:34  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/21 17:53:34  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Arch  dwm文档.md
+INFO 2022/10/21 17:53:35  synced recovery
+INFO 2022/10/21 17:53:45  switchDocument 1 [/home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md]
+INFO 2022/10/21 17:53:45  addRecentDocument
+INFO 2022/10/21 17:53:45  synced recovery
+INFO 2022/10/21 17:53:45  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/21 17:53:45  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/21 17:53:45  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/21 17:53:45  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/21 17:53:46  synced recovery
+INFO 2022/10/21 17:54:46  [blur] 1
+INFO 2022/10/21 17:54:46  [win] blur
+INFO 2022/10/21 17:54:46  [focus] 1
+INFO 2022/10/21 17:54:49  [blur] 1
+INFO 2022/10/21 17:54:49  [win] blur
+INFO 2022/10/21 17:54:49  [focus] 1
+INFO 2022/10/21 17:54:50  [blur] 1
+INFO 2022/10/21 17:54:50  [win] blur
+INFO 2022/10/21 17:54:50  [focus] 1
+INFO 2022/10/21 17:58:00  [blur] 1
+INFO 2022/10/21 17:58:00  [win] blur
+INFO 2022/10/21 17:58:00  [focus] 1
+INFO 2022/10/21 17:59:21  [blur] 1
+INFO 2022/10/21 17:59:21  [win] blur
+INFO 2022/10/21 17:59:21  [focus] 1
+INFO 2022/10/21 18:01:45  [blur] 1
+INFO 2022/10/21 18:01:45  [win] blur
+INFO 2022/10/21 18:02:47  [focus] 1
+INFO 2022/10/21 18:03:28  [blur] 1
+INFO 2022/10/21 18:03:28  [win] blur
+INFO 2022/10/21 18:03:28  [focus] 1
+INFO 2022/10/21 18:04:07  [blur] 1
+INFO 2022/10/21 18:04:07  [win] blur
+INFO 2022/10/21 18:04:07  [focus] 1
+INFO 2022/10/21 18:05:02  [blur] 1
+INFO 2022/10/21 18:05:02  [win] blur
+INFO 2022/10/21 20:14:09  [focus] 1
+INFO 2022/10/21 20:14:09  synced recovery
+INFO 2022/10/21 20:14:09  ----------------before-quit-----------------
+INFO 2022/10/21 20:14:09  ------------------will-quit------------------
+INFO 2022/10/21 20:14:09  -----------------quit------------------
+INFO 2022/10/21 20:14:09  closeLogging
+INFO 2022/10/21 21:30:51  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/21 21:30:51  start LM in devVersion=false
+INFO 2022/10/21 21:30:51  [Raven] instanceKey = 1cced394-912b-4d3c-9c83-e3cf97382f7b
+INFO 2022/10/21 21:30:51  [watch L]
+INFO 2022/10/21 21:30:51  [L] installDate is 10/16/2022, trail remains: 10 days
+INFO 2022/10/21 21:30:51  [watch L] hasL: true
+INFO 2022/10/21 21:30:51  ------------------start------------------
+INFO 2022/10/21 21:30:51  typora version: 1.4.7
+INFO 2022/10/21 21:30:51  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'
+}
+INFO 2022/10/21 21:30:51  addRecentDocument
+INFO 2022/10/21 21:30:51  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/21 21:30:51  [focus] 1
+INFO 2022/10/21 21:30:51  synced recovery
+INFO 2022/10/21 21:30:52  handle document.loadData
+INFO 2022/10/21 21:30:53  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/21 21:30:53  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/21 21:30:53  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/21 21:30:53  [blur] 1
+INFO 2022/10/21 21:30:53  [win] blur
+INFO 2022/10/21 21:30:53  ls put SLicense
+INFO 2022/10/21 21:30:53  [focus] 1
+INFO 2022/10/21 21:30:53  [blur] 1
+INFO 2022/10/21 21:30:53  [win] blur
+INFO 2022/10/21 21:30:53  [focus] 1
+INFO 2022/10/21 21:30:53  [blur] 1
+INFO 2022/10/21 21:30:53  [win] blur
+INFO 2022/10/21 21:30:53  synced recovery
+INFO 2022/10/21 21:30:54  [focus] 1
+INFO 2022/10/21 21:30:54  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/21 21:30:54  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/21 21:31:04  [blur] 1
+INFO 2022/10/21 21:31:04  [win] blur
+INFO 2022/10/21 21:31:06  [focus] 1
+INFO 2022/10/21 21:31:06  [blur] 1
+INFO 2022/10/21 21:31:06  [win] blur
+INFO 2022/10/21 21:31:13  [focus] 1
+INFO 2022/10/21 21:31:42  [blur] 1
+INFO 2022/10/21 21:31:42  [win] blur
+INFO 2022/10/21 21:32:07  [focus] 1
+INFO 2022/10/21 21:32:08  [blur] 1
+INFO 2022/10/21 21:32:08  [win] blur
+INFO 2022/10/21 21:32:09  [focus] 1
+INFO 2022/10/21 21:32:10  [blur] 1
+INFO 2022/10/21 21:32:10  [win] blur
+INFO 2022/10/21 21:39:21  synced recovery
+INFO 2022/10/23 23:14:03  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/23 23:14:03  start LM in devVersion=false
+INFO 2022/10/23 23:14:03  [Raven] instanceKey = 7c2dd021-13bc-4f17-990a-8f1ebe79ab2b
+INFO 2022/10/23 23:14:03  [watch L]
+INFO 2022/10/23 23:14:03  [L] installDate is 10/16/2022, trail remains: 8 days
+INFO 2022/10/23 23:14:03  [watch L] hasL: true
+INFO 2022/10/23 23:14:03  ------------------start------------------
+INFO 2022/10/23 23:14:03  typora version: 1.4.7
+INFO 2022/10/23 23:14:03  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/23 23:14:03  addRecentDocument
+INFO 2022/10/23 23:14:03  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/23 23:14:03  [focus] 1
+INFO 2022/10/23 23:14:03  [blur] 1
+INFO 2022/10/23 23:14:03  [win] blur
+INFO 2022/10/23 23:14:03  [focus] 1
+INFO 2022/10/23 23:14:03  synced recovery
+INFO 2022/10/23 23:14:04  handle document.loadData
+INFO 2022/10/23 23:14:04  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/23 23:14:04  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 23:14:04  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/23 23:14:04  synced recovery
+INFO 2022/10/23 23:14:04  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/23 23:14:04  [RenderProcess 1][Log] File.activeWindow = true
+Failed to Renew L
+INFO 2022/10/23 23:14:06  ls put SLicense
+INFO 2022/10/23 23:14:07  [blur] 1
+INFO 2022/10/23 23:14:07  [win] blur
+INFO 2022/10/23 23:14:07  [focus] 1
+INFO 2022/10/23 23:14:07  [blur] 1
+INFO 2022/10/23 23:14:07  [win] blur
+INFO 2022/10/23 23:14:07  [focus] 1
+INFO 2022/10/23 23:14:08  [blur] 1
+INFO 2022/10/23 23:14:08  [win] blur
+INFO 2022/10/23 23:14:08  [focus] 1
+INFO 2022/10/23 23:14:10  [blur] 1
+INFO 2022/10/23 23:14:10  [win] blur
+INFO 2022/10/23 23:14:10  [focus] 1
+INFO 2022/10/23 23:14:10  [blur] 1
+INFO 2022/10/23 23:14:10  [win] blur
+INFO 2022/10/23 23:14:10  [focus] 1
+INFO 2022/10/23 23:14:11  [blur] 1
+INFO 2022/10/23 23:14:11  [win] blur
+INFO 2022/10/23 23:14:20  [focus] 1
+INFO 2022/10/23 23:14:22  [blur] 1
+INFO 2022/10/23 23:14:22  [win] blur
+INFO 2022/10/23 23:14:22  [focus] 1
+INFO 2022/10/23 23:14:22  [blur] 1
+INFO 2022/10/23 23:14:22  [win] blur
+INFO 2022/10/23 23:14:23  [focus] 1
+INFO 2022/10/23 23:14:23  [blur] 1
+INFO 2022/10/23 23:14:23  [win] blur
+INFO 2022/10/23 23:14:23  [focus] 1
+INFO 2022/10/23 23:14:26  [blur] 1
+INFO 2022/10/23 23:14:26  [win] blur
+INFO 2022/10/23 23:14:26  [focus] 1
+INFO 2022/10/23 23:14:34  switchDocument 1 [/home/ayaka/学习资料/笔记/Linux学习.md]
+INFO 2022/10/23 23:14:34  addRecentDocument
+INFO 2022/10/23 23:14:34  synced recovery
+INFO 2022/10/23 23:14:34  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/23 23:14:34  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/23 23:14:34  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 23:14:34  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Linux学习.md
+INFO 2022/10/23 23:14:34  synced recovery
+INFO 2022/10/23 23:15:14  [blur] 1
+INFO 2022/10/23 23:15:14  [win] blur
+INFO 2022/10/23 23:15:14  [focus] 1
+INFO 2022/10/23 23:15:41  switchDocument 1 [/home/ayaka/学习资料/笔记/Arch  dwm文档.md]
+INFO 2022/10/23 23:15:41  addRecentDocument
+INFO 2022/10/23 23:15:41  synced recovery
+INFO 2022/10/23 23:15:41  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/23 23:15:41  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/23 23:15:41  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 23:15:41  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Arch  dwm文档.md
+INFO 2022/10/23 23:15:41  synced recovery
+INFO 2022/10/23 23:15:46  synced recovery
+INFO 2022/10/23 23:15:48  synced recovery
+INFO 2022/10/23 23:15:49  synced recovery
+INFO 2022/10/23 23:15:52  synced recovery
+INFO 2022/10/23 23:15:54  synced recovery
+INFO 2022/10/23 23:15:58  synced recovery
+INFO 2022/10/23 23:16:04  [blur] 1
+INFO 2022/10/23 23:16:04  [win] blur
+INFO 2022/10/23 23:16:04  [focus] 1
+INFO 2022/10/23 23:16:06  synced recovery
+INFO 2022/10/23 23:16:14  synced recovery
+INFO 2022/10/23 23:16:23  [blur] 1
+INFO 2022/10/23 23:16:23  [win] blur
+INFO 2022/10/23 23:16:23  [focus] 1
+INFO 2022/10/23 23:16:25  synced recovery
+INFO 2022/10/23 23:16:37  synced recovery
+INFO 2022/10/23 23:17:01  addRecentDocument
+INFO 2022/10/23 23:17:03  synced recovery
+INFO 2022/10/23 23:17:05  synced recovery
+INFO 2022/10/23 23:17:08  synced recovery
+INFO 2022/10/23 23:17:09  synced recovery
+INFO 2022/10/23 23:17:12  synced recovery
+INFO 2022/10/23 23:17:13  synced recovery
+INFO 2022/10/23 23:17:15  synced recovery
+INFO 2022/10/23 23:17:18  synced recovery
+INFO 2022/10/23 23:17:20  synced recovery
+INFO 2022/10/23 23:17:21  synced recovery
+INFO 2022/10/23 23:17:23  synced recovery
+INFO 2022/10/23 23:17:25  synced recovery
+INFO 2022/10/23 23:17:26  synced recovery
+INFO 2022/10/23 23:17:30  synced recovery
+INFO 2022/10/23 23:17:32  synced recovery
+INFO 2022/10/23 23:17:35  synced recovery
+INFO 2022/10/23 23:17:37  synced recovery
+INFO 2022/10/23 23:17:40  synced recovery
+INFO 2022/10/23 23:17:42  synced recovery
+INFO 2022/10/23 23:17:44  synced recovery
+INFO 2022/10/23 23:17:45  synced recovery
+INFO 2022/10/23 23:17:46  synced recovery
+INFO 2022/10/23 23:17:49  synced recovery
+INFO 2022/10/23 23:17:52  [blur] 1
+INFO 2022/10/23 23:17:52  [win] blur
+INFO 2022/10/23 23:17:54  [focus] 1
+INFO 2022/10/23 23:17:55  [blur] 1
+INFO 2022/10/23 23:17:55  [win] blur
+INFO 2022/10/23 23:18:04  [focus] 1
+INFO 2022/10/23 23:18:11  [blur] 1
+INFO 2022/10/23 23:18:11  [win] blur
+INFO 2022/10/23 23:18:12  [focus] 1
+INFO 2022/10/23 23:18:14  [blur] 1
+INFO 2022/10/23 23:18:14  [win] blur
+INFO 2022/10/23 23:18:14  [focus] 1
+INFO 2022/10/23 23:18:16  [blur] 1
+INFO 2022/10/23 23:18:16  [win] blur
+INFO 2022/10/23 23:18:16  synced recovery
+INFO 2022/10/23 23:18:23  [focus] 1
+INFO 2022/10/23 23:18:25  [blur] 1
+INFO 2022/10/23 23:18:25  [win] blur
+INFO 2022/10/23 23:20:12  [focus] 1
+INFO 2022/10/23 23:20:16  [blur] 1
+INFO 2022/10/23 23:20:16  [win] blur
+INFO 2022/10/23 23:20:16  [focus] 1
+INFO 2022/10/23 23:20:22  [blur] 1
+INFO 2022/10/23 23:20:22  [win] blur
+INFO 2022/10/23 23:20:24  [focus] 1
+INFO 2022/10/23 23:20:27  synced recovery
+INFO 2022/10/23 23:20:30  synced recovery
+INFO 2022/10/23 23:20:34  synced recovery
+INFO 2022/10/23 23:20:36  synced recovery
+INFO 2022/10/23 23:20:42  synced recovery
+INFO 2022/10/23 23:20:42  [blur] 1
+INFO 2022/10/23 23:20:42  [win] blur
+INFO 2022/10/23 23:24:19  [focus] 1
+INFO 2022/10/23 23:24:19  [blur] 1
+INFO 2022/10/23 23:24:19  [win] blur
+INFO 2022/10/23 23:26:03  [focus] 1
+INFO 2022/10/23 23:26:04  [blur] 1
+INFO 2022/10/23 23:26:04  [win] blur
+INFO 2022/10/23 23:26:04  synced recovery
+INFO 2022/10/23 23:27:03  [focus] 1
+INFO 2022/10/23 23:27:17  synced recovery
+INFO 2022/10/23 23:27:20  [blur] 1
+INFO 2022/10/23 23:27:20  [win] blur
+INFO 2022/10/23 23:27:20  synced recovery
+INFO 2022/10/23 23:27:31  [focus] 1
+INFO 2022/10/23 23:27:40  synced recovery
+INFO 2022/10/23 23:27:42  [blur] 1
+INFO 2022/10/23 23:27:42  [win] blur
+INFO 2022/10/23 23:28:01  [focus] 1
+INFO 2022/10/23 23:28:05  synced recovery
+INFO 2022/10/23 23:28:08  synced recovery
+INFO 2022/10/23 23:28:12  synced recovery
+INFO 2022/10/23 23:28:14  [blur] 1
+INFO 2022/10/23 23:28:14  [win] blur
+INFO 2022/10/23 23:29:34  [focus] 1
+INFO 2022/10/23 23:29:37  [blur] 1
+INFO 2022/10/23 23:29:37  [win] blur
+INFO 2022/10/23 23:29:49  [focus] 1
+INFO 2022/10/23 23:29:52  synced recovery
+INFO 2022/10/23 23:29:54  synced recovery
+INFO 2022/10/23 23:29:55  synced recovery
+INFO 2022/10/23 23:29:57  synced recovery
+INFO 2022/10/23 23:30:01  synced recovery
+INFO 2022/10/23 23:30:07  synced recovery
+INFO 2022/10/23 23:30:10  [blur] 1
+INFO 2022/10/23 23:30:10  [win] blur
+INFO 2022/10/23 15:31:10  [focus] 1
+INFO 2022/10/23 15:31:15  synced recovery
+INFO 2022/10/23 15:31:17  synced recovery
+INFO 2022/10/23 15:31:21  synced recovery
+INFO 2022/10/23 15:31:22  synced recovery
+INFO 2022/10/23 15:31:26  synced recovery
+INFO 2022/10/23 15:31:35  [blur] 1
+INFO 2022/10/23 15:31:35  [win] blur
+INFO 2022/10/23 15:31:35  synced recovery
+INFO 2022/10/23 15:31:40  [focus] 1
+INFO 2022/10/23 15:31:44  synced recovery
+INFO 2022/10/23 15:31:45  [blur] 1
+INFO 2022/10/23 15:31:45  [win] blur
+INFO 2022/10/23 15:31:45  synced recovery
+INFO 2022/10/23 15:31:46  [focus] 1
+INFO 2022/10/23 15:31:48  synced recovery
+INFO 2022/10/23 15:31:51  synced recovery
+INFO 2022/10/23 15:32:05  synced recovery
+INFO 2022/10/23 15:32:07  [blur] 1
+INFO 2022/10/23 15:32:07  [win] blur
+INFO 2022/10/23 15:32:07  synced recovery
+INFO 2022/10/23 15:32:10  [focus] 1
+INFO 2022/10/23 15:32:15  synced recovery
+INFO 2022/10/23 15:32:18  synced recovery
+INFO 2022/10/23 15:32:23  [blur] 1
+INFO 2022/10/23 15:32:23  [win] blur
+INFO 2022/10/23 15:32:39  [focus] 1
+INFO 2022/10/23 15:32:40  synced recovery
+INFO 2022/10/23 15:32:48  synced recovery
+INFO 2022/10/23 15:32:50  [blur] 1
+INFO 2022/10/23 15:32:50  [win] blur
+INFO 2022/10/23 15:32:51  [focus] 1
+INFO 2022/10/23 15:33:05  synced recovery
+INFO 2022/10/23 15:33:17  synced recovery
+INFO 2022/10/23 15:33:21  synced recovery
+INFO 2022/10/23 15:33:26  synced recovery
+INFO 2022/10/23 15:33:28  synced recovery
+INFO 2022/10/23 15:33:31  synced recovery
+INFO 2022/10/23 15:33:36  synced recovery
+INFO 2022/10/23 15:33:38  synced recovery
+INFO 2022/10/23 15:33:40  synced recovery
+INFO 2022/10/23 15:33:44  synced recovery
+INFO 2022/10/23 15:33:45  synced recovery
+INFO 2022/10/23 15:33:51  [blur] 1
+INFO 2022/10/23 15:33:51  [win] blur
+INFO 2022/10/23 15:33:59  [focus] 1
+INFO 2022/10/23 15:34:01  [blur] 1
+INFO 2022/10/23 15:34:01  [win] blur
+INFO 2022/10/23 15:34:54  [focus] 1
+INFO 2022/10/23 15:34:57  synced recovery
+INFO 2022/10/23 15:34:59  synced recovery
+INFO 2022/10/23 15:35:02  synced recovery
+INFO 2022/10/23 15:35:03  synced recovery
+INFO 2022/10/23 15:35:04  [blur] 1
+INFO 2022/10/23 15:35:04  [win] blur
+INFO 2022/10/23 15:35:07  [focus] 1
+INFO 2022/10/23 15:35:10  synced recovery
+INFO 2022/10/23 15:35:11  [blur] 1
+INFO 2022/10/23 15:35:11  [win] blur
+INFO 2022/10/23 15:40:12  [focus] 1
+INFO 2022/10/23 15:40:15  [blur] 1
+INFO 2022/10/23 15:40:15  [win] blur
+INFO 2022/10/23 15:41:12  [focus] 1
+INFO 2022/10/23 15:41:13  [blur] 1
+INFO 2022/10/23 15:41:13  [win] blur
+INFO 2022/10/23 15:46:02  [focus] 1
+INFO 2022/10/23 15:46:05  synced recovery
+INFO 2022/10/23 15:46:07  [blur] 1
+INFO 2022/10/23 15:46:07  [win] blur
+INFO 2022/10/23 15:46:12  [focus] 1
+INFO 2022/10/23 15:46:12  [blur] 1
+INFO 2022/10/23 15:46:12  [win] blur
+INFO 2022/10/23 15:46:13  [focus] 1
+INFO 2022/10/23 15:46:16  synced recovery
+INFO 2022/10/23 15:46:18  synced recovery
+INFO 2022/10/23 15:46:20  synced recovery
+INFO 2022/10/23 15:46:21  [blur] 1
+INFO 2022/10/23 15:46:21  [win] blur
+INFO 2022/10/23 15:46:28  [focus] 1
+INFO 2022/10/23 15:46:28  [blur] 1
+INFO 2022/10/23 15:46:28  [win] blur
+INFO 2022/10/23 15:46:28  [focus] 1
+INFO 2022/10/23 15:46:31  synced recovery
+INFO 2022/10/23 15:46:33  synced recovery
+INFO 2022/10/23 15:46:33  [blur] 1
+INFO 2022/10/23 15:46:33  [win] blur
+INFO 2022/10/23 15:46:40  [focus] 1
+INFO 2022/10/23 15:46:40  [blur] 1
+INFO 2022/10/23 15:46:40  [win] blur
+INFO 2022/10/23 15:46:41  [focus] 1
+INFO 2022/10/23 15:46:43  synced recovery
+INFO 2022/10/23 15:46:43  [blur] 1
+INFO 2022/10/23 15:46:43  [win] blur
+INFO 2022/10/23 15:47:24  [focus] 1
+INFO 2022/10/23 15:47:24  [blur] 1
+INFO 2022/10/23 15:47:24  [win] blur
+INFO 2022/10/23 15:47:24  [focus] 1
+INFO 2022/10/23 15:47:27  synced recovery
+INFO 2022/10/23 15:47:29  synced recovery
+INFO 2022/10/23 15:47:30  [blur] 1
+INFO 2022/10/23 15:47:30  [win] blur
+INFO 2022/10/23 15:48:16  [focus] 1
+INFO 2022/10/23 15:48:18  synced recovery
+INFO 2022/10/23 15:48:19  [blur] 1
+INFO 2022/10/23 15:48:19  [win] blur
+INFO 2022/10/23 15:48:19  synced recovery
+INFO 2022/10/23 15:48:28  [focus] 1
+INFO 2022/10/23 15:48:28  [blur] 1
+INFO 2022/10/23 15:48:28  [win] blur
+INFO 2022/10/23 15:49:57  [focus] 1
+INFO 2022/10/23 15:49:57  [blur] 1
+INFO 2022/10/23 15:49:57  [win] blur
+INFO 2022/10/23 15:53:06  [focus] 1
+INFO 2022/10/23 15:53:08  [blur] 1
+INFO 2022/10/23 15:53:08  [win] blur
+INFO 2022/10/23 15:53:45  [focus] 1
+INFO 2022/10/23 15:53:47  [blur] 1
+INFO 2022/10/23 15:53:47  [win] blur
+INFO 2022/10/23 15:56:47  [focus] 1
+INFO 2022/10/23 15:56:50  [blur] 1
+INFO 2022/10/23 15:56:50  [win] blur
+INFO 2022/10/23 16:00:49  [focus] 1
+INFO 2022/10/23 16:00:49  [blur] 1
+INFO 2022/10/23 16:00:49  [win] blur
+INFO 2022/10/23 16:03:59  [focus] 1
+INFO 2022/10/23 16:04:00  [blur] 1
+INFO 2022/10/23 16:04:00  [win] blur
+INFO 2022/10/23 16:05:15  [focus] 1
+INFO 2022/10/23 16:05:16  [blur] 1
+INFO 2022/10/23 16:05:16  [win] blur
+INFO 2022/10/23 16:05:29  [focus] 1
+INFO 2022/10/23 16:07:05  [blur] 1
+INFO 2022/10/23 16:07:05  [win] blur
+INFO 2022/10/23 16:07:41  [focus] 1
+INFO 2022/10/23 16:07:41  [blur] 1
+INFO 2022/10/23 16:07:41  [win] blur
+INFO 2022/10/23 16:07:45  [focus] 1
+INFO 2022/10/23 16:07:58  [blur] 1
+INFO 2022/10/23 16:07:58  [win] blur
+INFO 2022/10/23 16:07:59  [focus] 1
+INFO 2022/10/23 16:07:59  [blur] 1
+INFO 2022/10/23 16:07:59  [win] blur
+INFO 2022/10/23 16:22:18  [focus] 1
+INFO 2022/10/23 16:22:18  [blur] 1
+INFO 2022/10/23 16:22:18  [win] blur
+INFO 2022/10/23 16:22:20  [focus] 1
+INFO 2022/10/23 16:22:21  [blur] 1
+INFO 2022/10/23 16:22:21  [win] blur
+INFO 2022/10/23 16:22:21  [focus] 1
+INFO 2022/10/23 16:22:21  [blur] 1
+INFO 2022/10/23 16:22:21  [win] blur
+INFO 2022/10/23 16:22:21  [focus] 1
+INFO 2022/10/23 16:22:23  synced recovery
+INFO 2022/10/23 16:22:26  synced recovery
+INFO 2022/10/23 16:22:28  synced recovery
+INFO 2022/10/23 16:22:35  synced recovery
+INFO 2022/10/23 16:22:40  synced recovery
+INFO 2022/10/23 16:22:43  synced recovery
+INFO 2022/10/23 16:22:47  synced recovery
+INFO 2022/10/23 16:22:49  synced recovery
+INFO 2022/10/23 16:22:51  synced recovery
+INFO 2022/10/23 16:22:57  synced recovery
+INFO 2022/10/23 16:23:00  synced recovery
+INFO 2022/10/23 16:23:08  synced recovery
+INFO 2022/10/23 16:23:10  synced recovery
+INFO 2022/10/23 16:23:12  synced recovery
+INFO 2022/10/23 16:23:16  synced recovery
+INFO 2022/10/23 16:23:20  synced recovery
+INFO 2022/10/23 16:23:27  synced recovery
+INFO 2022/10/23 16:23:34  synced recovery
+INFO 2022/10/23 16:23:37  synced recovery
+INFO 2022/10/23 16:23:37  synced recovery
+INFO 2022/10/23 16:23:40  [blur] 1
+INFO 2022/10/23 16:23:40  [win] blur
+INFO 2022/10/23 16:30:37  [focus] 1
+INFO 2022/10/23 16:30:41  synced recovery
+INFO 2022/10/23 16:30:45  synced recovery
+INFO 2022/10/23 16:30:49  synced recovery
+INFO 2022/10/23 16:30:52  [blur] 1
+INFO 2022/10/23 16:30:52  [win] blur
+INFO 2022/10/23 16:31:03  [focus] 1
+INFO 2022/10/23 16:31:03  [blur] 1
+INFO 2022/10/23 16:31:03  [win] blur
+INFO 2022/10/23 16:31:18  [focus] 1
+INFO 2022/10/23 16:31:18  [blur] 1
+INFO 2022/10/23 16:31:18  [win] blur
+INFO 2022/10/23 16:31:19  [focus] 1
+INFO 2022/10/23 16:31:23  synced recovery
+INFO 2022/10/23 16:31:25  synced recovery
+INFO 2022/10/23 16:31:27  synced recovery
+INFO 2022/10/23 16:31:33  synced recovery
+INFO 2022/10/23 16:31:36  synced recovery
+INFO 2022/10/23 16:31:38  synced recovery
+INFO 2022/10/23 16:31:40  synced recovery
+INFO 2022/10/23 16:31:44  synced recovery
+INFO 2022/10/23 16:31:47  [blur] 1
+INFO 2022/10/23 16:31:47  [win] blur
+INFO 2022/10/23 16:31:55  [focus] 1
+INFO 2022/10/23 16:31:56  [blur] 1
+INFO 2022/10/23 16:31:56  [win] blur
+INFO 2022/10/23 16:31:56  [focus] 1
+INFO 2022/10/23 16:31:59  synced recovery
+INFO 2022/10/23 16:32:17  [blur] 1
+INFO 2022/10/23 16:32:17  [win] blur
+INFO 2022/10/23 16:32:51  [focus] 1
+INFO 2022/10/23 16:32:54  [blur] 1
+INFO 2022/10/23 16:32:54  [win] blur
+INFO 2022/10/23 16:32:59  [focus] 1
+INFO 2022/10/23 16:33:04  synced recovery
+INFO 2022/10/23 16:33:05  [blur] 1
+INFO 2022/10/23 16:33:05  [win] blur
+INFO 2022/10/23 16:33:06  [focus] 1
+INFO 2022/10/23 16:33:06  [blur] 1
+INFO 2022/10/23 16:33:06  [win] blur
+INFO 2022/10/23 16:33:15  [focus] 1
+INFO 2022/10/23 16:33:22  synced recovery
+INFO 2022/10/23 16:33:24  synced recovery
+INFO 2022/10/23 16:33:26  synced recovery
+INFO 2022/10/23 16:33:28  synced recovery
+INFO 2022/10/23 16:33:30  [blur] 1
+INFO 2022/10/23 16:33:30  [win] blur
+INFO 2022/10/23 16:34:01  [focus] 1
+INFO 2022/10/23 16:34:06  synced recovery
+INFO 2022/10/23 16:34:10  synced recovery
+INFO 2022/10/23 16:34:14  synced recovery
+INFO 2022/10/23 16:34:16  synced recovery
+INFO 2022/10/23 16:34:22  synced recovery
+INFO 2022/10/23 16:34:23  [blur] 1
+INFO 2022/10/23 16:34:23  [win] blur
+INFO 2022/10/23 16:34:29  [focus] 1
+INFO 2022/10/23 16:34:31  [blur] 1
+INFO 2022/10/23 16:34:31  [win] blur
+INFO 2022/10/23 16:34:44  [focus] 1
+INFO 2022/10/23 16:34:44  [blur] 1
+INFO 2022/10/23 16:34:44  [win] blur
+INFO 2022/10/23 16:34:44  [focus] 1
+INFO 2022/10/23 16:34:47  synced recovery
+INFO 2022/10/23 16:34:52  synced recovery
+INFO 2022/10/23 16:34:54  [blur] 1
+INFO 2022/10/23 16:34:54  [win] blur
+INFO 2022/10/23 16:34:54  [focus] 1
+INFO 2022/10/23 16:34:55  [blur] 1
+INFO 2022/10/23 16:34:55  [win] blur
+INFO 2022/10/23 16:35:07  [focus] 1
+INFO 2022/10/23 16:35:23  synced recovery
+INFO 2022/10/23 16:35:25  synced recovery
+INFO 2022/10/23 16:35:28  synced recovery
+INFO 2022/10/23 16:35:30  synced recovery
+INFO 2022/10/23 16:35:33  synced recovery
+INFO 2022/10/23 16:35:36  [blur] 1
+INFO 2022/10/23 16:35:36  [win] blur
+INFO 2022/10/23 16:35:44  [focus] 1
+INFO 2022/10/23 16:35:45  [blur] 1
+INFO 2022/10/23 16:35:45  [win] blur
+INFO 2022/10/23 16:35:47  [focus] 1
+INFO 2022/10/23 16:35:50  synced recovery
+INFO 2022/10/23 16:35:51  [blur] 1
+INFO 2022/10/23 16:35:51  [win] blur
+INFO 2022/10/23 16:36:02  [focus] 1
+INFO 2022/10/23 16:36:07  synced recovery
+INFO 2022/10/23 16:36:13  [blur] 1
+INFO 2022/10/23 16:36:13  [win] blur
+INFO 2022/10/23 16:36:13  synced recovery
+INFO 2022/10/23 16:36:15  [focus] 1
+INFO 2022/10/23 16:36:17  synced recovery
+INFO 2022/10/23 16:36:20  [blur] 1
+INFO 2022/10/23 16:36:20  [win] blur
+INFO 2022/10/23 16:36:20  synced recovery
+INFO 2022/10/23 16:36:59  [focus] 1
+INFO 2022/10/23 16:37:01  synced recovery
+INFO 2022/10/23 16:37:05  synced recovery
+INFO 2022/10/23 16:37:07  synced recovery
+INFO 2022/10/23 16:37:11  [blur] 1
+INFO 2022/10/23 16:37:11  [win] blur
+INFO 2022/10/23 16:37:26  [focus] 1
+INFO 2022/10/23 16:37:29  [blur] 1
+INFO 2022/10/23 16:37:29  [win] blur
+INFO 2022/10/23 16:37:48  [focus] 1
+INFO 2022/10/23 16:37:48  [blur] 1
+INFO 2022/10/23 16:37:48  [win] blur
+INFO 2022/10/23 16:38:01  [focus] 1
+INFO 2022/10/23 16:38:07  synced recovery
+INFO 2022/10/23 16:38:10  synced recovery
+INFO 2022/10/23 16:38:13  [blur] 1
+INFO 2022/10/23 16:38:13  [win] blur
+INFO 2022/10/23 16:38:15  [focus] 1
+INFO 2022/10/23 16:38:17  [blur] 1
+INFO 2022/10/23 16:38:17  [win] blur
+INFO 2022/10/23 16:38:17  synced recovery
+INFO 2022/10/23 16:38:44  [focus] 1
+INFO 2022/10/23 16:38:50  synced recovery
+INFO 2022/10/23 16:38:52  [blur] 1
+INFO 2022/10/23 16:38:52  [win] blur
+INFO 2022/10/23 16:38:57  [focus] 1
+INFO 2022/10/23 16:38:57  [blur] 1
+INFO 2022/10/23 16:38:57  [win] blur
+INFO 2022/10/23 16:39:06  [focus] 1
+INFO 2022/10/23 16:39:10  synced recovery
+INFO 2022/10/23 16:39:11  [blur] 1
+INFO 2022/10/23 16:39:11  [win] blur
+INFO 2022/10/23 16:39:11  synced recovery
+INFO 2022/10/23 16:39:20  [focus] 1
+INFO 2022/10/23 16:39:26  synced recovery
+INFO 2022/10/23 16:39:28  synced recovery
+INFO 2022/10/23 16:39:31  synced recovery
+INFO 2022/10/23 16:39:34  synced recovery
+INFO 2022/10/23 16:39:36  synced recovery
+INFO 2022/10/23 16:39:48  synced recovery
+INFO 2022/10/23 16:39:50  synced recovery
+INFO 2022/10/23 16:39:51  synced recovery
+INFO 2022/10/23 16:39:51  [blur] 1
+INFO 2022/10/23 16:39:51  [win] blur
+INFO 2022/10/23 16:39:53  [focus] 1
+INFO 2022/10/23 16:39:58  [blur] 1
+INFO 2022/10/23 16:39:58  [win] blur
+INFO 2022/10/23 16:40:05  [focus] 1
+INFO 2022/10/23 16:40:07  [blur] 1
+INFO 2022/10/23 16:40:07  [win] blur
+INFO 2022/10/23 16:40:09  [focus] 1
+INFO 2022/10/23 16:40:11  synced recovery
+INFO 2022/10/23 16:40:12  [blur] 1
+INFO 2022/10/23 16:40:12  [win] blur
+INFO 2022/10/23 16:40:23  [focus] 1
+INFO 2022/10/23 16:40:27  synced recovery
+INFO 2022/10/23 16:40:29  synced recovery
+INFO 2022/10/23 16:40:37  synced recovery
+INFO 2022/10/23 16:40:39  synced recovery
+INFO 2022/10/23 16:40:42  synced recovery
+INFO 2022/10/23 16:40:44  synced recovery
+INFO 2022/10/23 16:40:45  [blur] 1
+INFO 2022/10/23 16:40:45  [win] blur
+INFO 2022/10/23 16:40:47  [focus] 1
+INFO 2022/10/23 16:40:49  synced recovery
+INFO 2022/10/23 16:40:57  [blur] 1
+INFO 2022/10/23 16:40:57  [win] blur
+INFO 2022/10/23 16:41:00  [focus] 1
+INFO 2022/10/23 16:41:03  synced recovery
+INFO 2022/10/23 16:41:07  synced recovery
+INFO 2022/10/23 16:41:10  synced recovery
+INFO 2022/10/23 16:41:16  synced recovery
+INFO 2022/10/23 16:41:22  synced recovery
+INFO 2022/10/23 16:41:27  synced recovery
+INFO 2022/10/23 16:41:28  synced recovery
+INFO 2022/10/23 16:41:32  synced recovery
+INFO 2022/10/23 16:41:35  [blur] 1
+INFO 2022/10/23 16:41:35  [win] blur
+INFO 2022/10/23 16:41:48  [focus] 1
+INFO 2022/10/23 16:41:50  synced recovery
+INFO 2022/10/23 16:41:53  synced recovery
+INFO 2022/10/23 16:41:54  synced recovery
+INFO 2022/10/23 16:41:56  synced recovery
+INFO 2022/10/23 16:41:57  synced recovery
+INFO 2022/10/23 16:41:58  synced recovery
+INFO 2022/10/23 16:41:59  [blur] 1
+INFO 2022/10/23 16:41:59  [win] blur
+INFO 2022/10/23 16:42:08  [focus] 1
+INFO 2022/10/23 16:42:15  [blur] 1
+INFO 2022/10/23 16:42:15  [win] blur
+INFO 2022/10/23 16:42:21  [focus] 1
+INFO 2022/10/23 16:42:24  synced recovery
+INFO 2022/10/23 16:42:25  synced recovery
+INFO 2022/10/23 16:42:26  synced recovery
+INFO 2022/10/23 16:42:32  synced recovery
+INFO 2022/10/23 16:42:34  synced recovery
+INFO 2022/10/23 16:42:35  synced recovery
+INFO 2022/10/23 16:42:43  [blur] 1
+INFO 2022/10/23 16:42:43  [win] blur
+INFO 2022/10/23 16:42:56  [focus] 1
+INFO 2022/10/23 16:42:59  synced recovery
+INFO 2022/10/23 16:43:01  synced recovery
+INFO 2022/10/23 16:43:04  [blur] 1
+INFO 2022/10/23 16:43:04  [win] blur
+INFO 2022/10/23 16:43:08  [focus] 1
+INFO 2022/10/23 16:43:11  synced recovery
+INFO 2022/10/23 16:43:15  [blur] 1
+INFO 2022/10/23 16:43:15  [win] blur
+INFO 2022/10/23 16:43:18  [focus] 1
+INFO 2022/10/23 16:43:20  [blur] 1
+INFO 2022/10/23 16:43:20  [win] blur
+INFO 2022/10/23 16:43:26  [focus] 1
+INFO 2022/10/23 16:43:28  synced recovery
+INFO 2022/10/23 16:43:32  [blur] 1
+INFO 2022/10/23 16:43:32  [win] blur
+INFO 2022/10/23 16:43:33  [focus] 1
+INFO 2022/10/23 16:43:35  [blur] 1
+INFO 2022/10/23 16:43:35  [win] blur
+INFO 2022/10/23 16:43:35  synced recovery
+INFO 2022/10/23 16:43:45  [focus] 1
+INFO 2022/10/23 16:43:47  [blur] 1
+INFO 2022/10/23 16:43:47  [win] blur
+INFO 2022/10/23 16:43:47  synced recovery
+INFO 2022/10/23 16:43:49  [focus] 1
+INFO 2022/10/23 16:43:51  synced recovery
+INFO 2022/10/23 16:43:55  synced recovery
+INFO 2022/10/23 16:44:00  synced recovery
+INFO 2022/10/23 16:44:02  synced recovery
+INFO 2022/10/23 16:44:05  synced recovery
+INFO 2022/10/23 16:44:06  synced recovery
+INFO 2022/10/23 16:44:08  synced recovery
+INFO 2022/10/23 16:44:10  synced recovery
+INFO 2022/10/23 16:44:15  synced recovery
+INFO 2022/10/23 16:44:17  synced recovery
+INFO 2022/10/23 16:44:22  synced recovery
+INFO 2022/10/23 16:44:26  synced recovery
+INFO 2022/10/23 16:44:28  synced recovery
+INFO 2022/10/23 16:44:29  synced recovery
+INFO 2022/10/23 16:44:32  synced recovery
+INFO 2022/10/23 16:44:35  synced recovery
+INFO 2022/10/23 16:44:37  synced recovery
+INFO 2022/10/23 16:44:40  synced recovery
+INFO 2022/10/23 16:44:41  synced recovery
+INFO 2022/10/23 16:44:43  synced recovery
+INFO 2022/10/23 16:44:47  [blur] 1
+INFO 2022/10/23 16:44:47  [win] blur
+INFO 2022/10/23 16:44:50  [focus] 1
+INFO 2022/10/23 16:44:53  synced recovery
+INFO 2022/10/23 16:44:53  [blur] 1
+INFO 2022/10/23 16:44:53  [win] blur
+INFO 2022/10/23 16:44:57  [focus] 1
+INFO 2022/10/23 16:45:00  synced recovery
+INFO 2022/10/23 16:45:01  synced recovery
+INFO 2022/10/23 16:45:04  synced recovery
+INFO 2022/10/23 16:45:05  [blur] 1
+INFO 2022/10/23 16:45:05  [win] blur
+INFO 2022/10/23 16:45:11  [focus] 1
+INFO 2022/10/23 16:45:13  synced recovery
+INFO 2022/10/23 16:45:14  [blur] 1
+INFO 2022/10/23 16:45:14  [win] blur
+INFO 2022/10/23 16:45:23  [focus] 1
+INFO 2022/10/23 16:45:26  synced recovery
+INFO 2022/10/23 16:45:32  synced recovery
+INFO 2022/10/23 16:45:36  synced recovery
+INFO 2022/10/23 16:45:37  [blur] 1
+INFO 2022/10/23 16:45:37  [win] blur
+INFO 2022/10/23 16:45:37  synced recovery
+INFO 2022/10/23 16:45:39  [focus] 1
+INFO 2022/10/23 16:45:41  synced recovery
+INFO 2022/10/23 16:45:45  synced recovery
+INFO 2022/10/23 16:45:47  synced recovery
+INFO 2022/10/23 16:45:49  synced recovery
+INFO 2022/10/23 16:45:50  [blur] 1
+INFO 2022/10/23 16:45:50  [win] blur
+INFO 2022/10/23 16:45:53  [focus] 1
+INFO 2022/10/23 16:45:55  synced recovery
+INFO 2022/10/23 16:45:56  [blur] 1
+INFO 2022/10/23 16:45:56  [win] blur
+INFO 2022/10/23 16:45:57  [focus] 1
+INFO 2022/10/23 16:46:00  synced recovery
+INFO 2022/10/23 16:46:03  synced recovery
+INFO 2022/10/23 16:46:12  synced recovery
+INFO 2022/10/23 16:46:14  synced recovery
+INFO 2022/10/23 16:46:20  synced recovery
+INFO 2022/10/23 16:46:22  synced recovery
+INFO 2022/10/23 16:46:31  synced recovery
+INFO 2022/10/23 16:46:33  synced recovery
+INFO 2022/10/23 16:46:40  synced recovery
+INFO 2022/10/23 16:46:49  synced recovery
+INFO 2022/10/23 16:46:56  synced recovery
+INFO 2022/10/23 16:46:57  synced recovery
+INFO 2022/10/23 16:46:58  synced recovery
+INFO 2022/10/23 16:47:08  [blur] 1
+INFO 2022/10/23 16:47:08  [win] blur
+INFO 2022/10/23 16:47:17  [focus] 1
+INFO 2022/10/23 16:47:19  [blur] 1
+INFO 2022/10/23 16:47:19  [win] blur
+INFO 2022/10/23 16:47:20  [focus] 1
+INFO 2022/10/23 16:47:22  synced recovery
+INFO 2022/10/23 16:47:23  [blur] 1
+INFO 2022/10/23 16:47:23  [win] blur
+INFO 2022/10/23 16:47:23  synced recovery
+INFO 2022/10/23 16:47:25  [focus] 1
+INFO 2022/10/23 16:47:27  synced recovery
+INFO 2022/10/23 16:47:27  [blur] 1
+INFO 2022/10/23 16:47:27  [win] blur
+INFO 2022/10/23 16:47:29  [focus] 1
+INFO 2022/10/23 16:47:32  synced recovery
+INFO 2022/10/23 16:47:34  synced recovery
+INFO 2022/10/23 16:47:36  [blur] 1
+INFO 2022/10/23 16:47:36  [win] blur
+INFO 2022/10/23 16:47:38  [focus] 1
+INFO 2022/10/23 16:47:40  [blur] 1
+INFO 2022/10/23 16:47:40  [win] blur
+INFO 2022/10/23 16:47:45  [focus] 1
+INFO 2022/10/23 16:47:48  synced recovery
+INFO 2022/10/23 16:48:02  synced recovery
+INFO 2022/10/23 16:48:06  synced recovery
+INFO 2022/10/23 16:48:09  [blur] 1
+INFO 2022/10/23 16:48:09  [win] blur
+INFO 2022/10/23 16:48:09  synced recovery
+INFO 2022/10/23 16:48:10  [focus] 1
+INFO 2022/10/23 16:48:14  synced recovery
+INFO 2022/10/23 16:48:15  synced recovery
+INFO 2022/10/23 16:48:17  synced recovery
+INFO 2022/10/23 16:48:18  [blur] 1
+INFO 2022/10/23 16:48:18  [win] blur
+INFO 2022/10/23 16:48:18  synced recovery
+INFO 2022/10/23 16:48:20  [focus] 1
+INFO 2022/10/23 16:48:24  synced recovery
+INFO 2022/10/23 16:48:27  synced recovery
+INFO 2022/10/23 16:48:34  synced recovery
+INFO 2022/10/23 16:48:45  synced recovery
+INFO 2022/10/23 16:48:47  synced recovery
+INFO 2022/10/23 16:48:49  synced recovery
+INFO 2022/10/23 16:48:51  synced recovery
+INFO 2022/10/23 16:48:53  synced recovery
+INFO 2022/10/23 16:49:06  [blur] 1
+INFO 2022/10/23 16:49:06  [win] blur
+INFO 2022/10/23 16:49:11  [focus] 1
+INFO 2022/10/23 16:49:12  [blur] 1
+INFO 2022/10/23 16:49:12  [win] blur
+INFO 2022/10/23 16:49:16  [focus] 1
+INFO 2022/10/23 16:49:21  synced recovery
+INFO 2022/10/23 16:49:25  synced recovery
+INFO 2022/10/23 16:49:26  synced recovery
+INFO 2022/10/23 16:49:28  synced recovery
+INFO 2022/10/23 16:49:33  synced recovery
+INFO 2022/10/23 16:49:38  synced recovery
+INFO 2022/10/23 16:49:41  synced recovery
+INFO 2022/10/23 16:49:42  synced recovery
+INFO 2022/10/23 16:49:44  synced recovery
+INFO 2022/10/23 16:49:45  [blur] 1
+INFO 2022/10/23 16:49:45  [win] blur
+INFO 2022/10/23 16:50:00  [focus] 1
+INFO 2022/10/23 16:50:02  synced recovery
+INFO 2022/10/23 16:50:06  synced recovery
+INFO 2022/10/23 16:50:07  synced recovery
+INFO 2022/10/23 16:50:10  synced recovery
+INFO 2022/10/23 16:50:16  synced recovery
+INFO 2022/10/23 16:50:18  synced recovery
+INFO 2022/10/23 16:50:20  synced recovery
+INFO 2022/10/23 16:50:21  [blur] 1
+INFO 2022/10/23 16:50:21  [win] blur
+INFO 2022/10/23 16:50:26  [focus] 1
+INFO 2022/10/23 16:50:28  synced recovery
+INFO 2022/10/23 16:50:31  synced recovery
+INFO 2022/10/23 16:50:33  synced recovery
+INFO 2022/10/23 16:50:41  synced recovery
+INFO 2022/10/23 16:50:43  synced recovery
+INFO 2022/10/23 16:50:47  synced recovery
+INFO 2022/10/23 16:50:49  [blur] 1
+INFO 2022/10/23 16:50:49  [win] blur
+INFO 2022/10/23 16:50:49  [focus] 1
+INFO 2022/10/23 16:50:50  [blur] 1
+INFO 2022/10/23 16:50:50  [win] blur
+INFO 2022/10/23 16:50:58  [focus] 1
+INFO 2022/10/23 16:51:01  synced recovery
+INFO 2022/10/23 16:51:02  synced recovery
+INFO 2022/10/23 16:51:04  synced recovery
+INFO 2022/10/23 16:51:04  [blur] 1
+INFO 2022/10/23 16:51:04  [win] blur
+INFO 2022/10/23 16:51:09  [focus] 1
+INFO 2022/10/23 16:51:12  synced recovery
+INFO 2022/10/23 16:51:15  [blur] 1
+INFO 2022/10/23 16:51:15  [win] blur
+INFO 2022/10/23 16:51:15  synced recovery
+INFO 2022/10/23 16:51:18  [focus] 1
+INFO 2022/10/23 16:51:22  synced recovery
+INFO 2022/10/23 16:51:24  [blur] 1
+INFO 2022/10/23 16:51:24  [win] blur
+INFO 2022/10/23 16:51:24  synced recovery
+INFO 2022/10/23 16:51:30  [focus] 1
+INFO 2022/10/23 16:51:39  synced recovery
+INFO 2022/10/23 16:51:47  synced recovery
+INFO 2022/10/23 16:51:52  synced recovery
+INFO 2022/10/23 16:51:56  synced recovery
+INFO 2022/10/23 16:51:58  synced recovery
+INFO 2022/10/23 16:52:03  synced recovery
+INFO 2022/10/23 16:52:04  [blur] 1
+INFO 2022/10/23 16:52:04  [win] blur
+INFO 2022/10/23 16:52:15  [focus] 1
+INFO 2022/10/23 16:52:22  synced recovery
+INFO 2022/10/23 16:52:24  synced recovery
+INFO 2022/10/23 16:52:27  synced recovery
+INFO 2022/10/23 16:52:29  synced recovery
+INFO 2022/10/23 16:52:31  synced recovery
+INFO 2022/10/23 16:52:33  synced recovery
+INFO 2022/10/23 16:52:36  synced recovery
+INFO 2022/10/23 16:52:38  [blur] 1
+INFO 2022/10/23 16:52:38  [win] blur
+INFO 2022/10/23 16:52:44  [focus] 1
+INFO 2022/10/23 16:52:46  synced recovery
+INFO 2022/10/23 16:52:52  synced recovery
+INFO 2022/10/23 17:35:11  synced recovery
+INFO 2022/10/23 17:35:12  [blur] 1
+INFO 2022/10/23 17:35:12  [win] blur
+INFO 2022/10/23 17:35:12  synced recovery
+INFO 2022/10/23 17:35:14  [focus] 1
+INFO 2022/10/23 17:35:17  [blur] 1
+INFO 2022/10/23 17:35:17  [win] blur
+INFO 2022/10/23 17:35:18  [focus] 1
+INFO 2022/10/23 17:36:02  [blur] 1
+INFO 2022/10/23 17:36:02  [win] blur
+INFO 2022/10/23 17:36:38  [focus] 1
+INFO 2022/10/23 17:36:38  [blur] 1
+INFO 2022/10/23 17:36:38  [win] blur
+INFO 2022/10/23 17:37:45  [focus] 1
+INFO 2022/10/23 17:37:46  [blur] 1
+INFO 2022/10/23 17:37:46  [win] blur
+INFO 2022/10/23 17:37:46  [focus] 1
+INFO 2022/10/23 17:37:49  [blur] 1
+INFO 2022/10/23 17:37:49  [win] blur
+INFO 2022/10/23 17:37:51  [focus] 1
+INFO 2022/10/23 17:37:54  synced recovery
+INFO 2022/10/23 17:37:54  [blur] 1
+INFO 2022/10/23 17:37:54  [win] blur
+INFO 2022/10/23 17:38:04  [focus] 1
+INFO 2022/10/23 17:38:06  synced recovery
+INFO 2022/10/23 17:38:13  synced recovery
+INFO 2022/10/23 17:38:20  synced recovery
+INFO 2022/10/23 17:38:24  synced recovery
+INFO 2022/10/23 17:38:27  synced recovery
+INFO 2022/10/23 17:38:30  synced recovery
+INFO 2022/10/23 17:38:33  synced recovery
+INFO 2022/10/23 17:38:37  synced recovery
+INFO 2022/10/23 17:38:40  synced recovery
+INFO 2022/10/23 17:38:56  synced recovery
+INFO 2022/10/23 17:39:16  synced recovery
+INFO 2022/10/23 17:39:22  synced recovery
+INFO 2022/10/23 17:39:24  synced recovery
+INFO 2022/10/23 17:39:27  synced recovery
+INFO 2022/10/23 17:39:28  [blur] 1
+INFO 2022/10/23 17:39:28  [win] blur
+INFO 2022/10/23 17:39:54  [focus] 1
+INFO 2022/10/23 17:40:02  synced recovery
+INFO 2022/10/23 17:40:06  synced recovery
+INFO 2022/10/23 17:40:08  synced recovery
+INFO 2022/10/23 17:40:08  [blur] 1
+INFO 2022/10/23 17:40:08  [win] blur
+INFO 2022/10/23 17:40:11  [focus] 1
+INFO 2022/10/23 17:40:13  synced recovery
+INFO 2022/10/23 17:40:13  [blur] 1
+INFO 2022/10/23 17:40:13  [win] blur
+INFO 2022/10/23 17:40:33  [focus] 1
+INFO 2022/10/23 17:40:35  [blur] 1
+INFO 2022/10/23 17:40:35  [win] blur
+INFO 2022/10/23 17:40:45  [focus] 1
+INFO 2022/10/23 17:40:49  synced recovery
+INFO 2022/10/23 17:40:51  synced recovery
+INFO 2022/10/23 17:40:52  synced recovery
+INFO 2022/10/23 17:40:53  [blur] 1
+INFO 2022/10/23 17:40:53  [win] blur
+INFO 2022/10/23 17:40:55  [focus] 1
+INFO 2022/10/23 17:40:58  [blur] 1
+INFO 2022/10/23 17:40:58  [win] blur
+INFO 2022/10/23 17:41:42  [focus] 1
+INFO 2022/10/23 17:41:44  synced recovery
+INFO 2022/10/23 17:41:47  synced recovery
+INFO 2022/10/23 17:41:49  synced recovery
+INFO 2022/10/23 17:41:56  synced recovery
+INFO 2022/10/23 17:41:59  synced recovery
+INFO 2022/10/23 17:42:02  synced recovery
+INFO 2022/10/23 17:42:16  synced recovery
+INFO 2022/10/23 17:42:18  synced recovery
+INFO 2022/10/23 17:42:20  synced recovery
+INFO 2022/10/23 17:42:23  [blur] 1
+INFO 2022/10/23 17:42:23  [win] blur
+INFO 2022/10/23 17:42:35  [focus] 1
+INFO 2022/10/23 17:42:36  [blur] 1
+INFO 2022/10/23 17:42:36  [win] blur
+INFO 2022/10/23 17:42:37  [focus] 1
+INFO 2022/10/23 17:42:39  [blur] 1
+INFO 2022/10/23 17:42:39  [win] blur
+INFO 2022/10/23 17:42:39  synced recovery
+INFO 2022/10/23 17:42:41  [focus] 1
+INFO 2022/10/23 17:42:44  [blur] 1
+INFO 2022/10/23 17:42:44  [win] blur
+INFO 2022/10/23 17:42:52  [focus] 1
+INFO 2022/10/23 17:42:57  [blur] 1
+INFO 2022/10/23 17:42:57  [win] blur
+INFO 2022/10/23 17:42:59  [focus] 1
+INFO 2022/10/23 17:43:07  synced recovery
+INFO 2022/10/23 17:43:08  synced recovery
+INFO 2022/10/23 17:43:09  [blur] 1
+INFO 2022/10/23 17:43:09  [win] blur
+INFO 2022/10/23 17:43:13  [focus] 1
+INFO 2022/10/23 17:43:15  synced recovery
+INFO 2022/10/23 17:43:16  [blur] 1
+INFO 2022/10/23 17:43:16  [win] blur
+INFO 2022/10/23 17:43:16  synced recovery
+INFO 2022/10/23 17:43:17  [focus] 1
+INFO 2022/10/23 17:43:19  synced recovery
+INFO 2022/10/23 17:43:20  [blur] 1
+INFO 2022/10/23 17:43:20  [win] blur
+INFO 2022/10/23 17:43:24  [focus] 1
+INFO 2022/10/23 17:43:24  [blur] 1
+INFO 2022/10/23 17:43:24  [win] blur
+INFO 2022/10/23 17:43:28  [focus] 1
+INFO 2022/10/23 17:43:29  synced recovery
+INFO 2022/10/23 17:43:32  [blur] 1
+INFO 2022/10/23 17:43:32  [win] blur
+INFO 2022/10/23 17:43:32  synced recovery
+INFO 2022/10/23 17:43:34  [focus] 1
+INFO 2022/10/23 17:43:35  [blur] 1
+INFO 2022/10/23 17:43:35  [win] blur
+INFO 2022/10/23 17:43:38  [focus] 1
+INFO 2022/10/23 17:43:41  synced recovery
+INFO 2022/10/23 17:43:49  [blur] 1
+INFO 2022/10/23 17:43:49  [win] blur
+INFO 2022/10/23 17:43:50  [focus] 1
+INFO 2022/10/23 17:43:52  [blur] 1
+INFO 2022/10/23 17:43:52  [win] blur
+INFO 2022/10/23 17:43:53  [focus] 1
+INFO 2022/10/23 17:43:58  synced recovery
+INFO 2022/10/23 17:44:01  synced recovery
+INFO 2022/10/23 17:44:07  synced recovery
+INFO 2022/10/23 17:44:08  [blur] 1
+INFO 2022/10/23 17:44:08  [win] blur
+INFO 2022/10/23 17:44:10  [focus] 1
+INFO 2022/10/23 17:44:11  [blur] 1
+INFO 2022/10/23 17:44:11  [win] blur
+INFO 2022/10/23 17:44:19  [focus] 1
+INFO 2022/10/23 17:44:21  synced recovery
+INFO 2022/10/23 17:44:28  [blur] 1
+INFO 2022/10/23 17:44:28  [win] blur
+INFO 2022/10/23 17:44:34  [focus] 1
+INFO 2022/10/23 17:44:37  [blur] 1
+INFO 2022/10/23 17:44:37  [win] blur
+INFO 2022/10/23 17:44:38  [focus] 1
+INFO 2022/10/23 17:44:46  [blur] 1
+INFO 2022/10/23 17:44:46  [win] blur
+INFO 2022/10/23 17:44:46  synced recovery
+INFO 2022/10/23 17:44:47  [focus] 1
+INFO 2022/10/23 17:44:48  [blur] 1
+INFO 2022/10/23 17:44:48  [win] blur
+INFO 2022/10/23 17:44:48  synced recovery
+INFO 2022/10/23 17:44:50  [focus] 1
+INFO 2022/10/23 17:44:52  synced recovery
+INFO 2022/10/23 17:44:56  synced recovery
+INFO 2022/10/23 17:45:00  synced recovery
+INFO 2022/10/23 17:45:06  synced recovery
+INFO 2022/10/23 17:45:07  synced recovery
+INFO 2022/10/23 17:45:09  synced recovery
+INFO 2022/10/23 17:45:13  synced recovery
+INFO 2022/10/23 17:45:17  synced recovery
+INFO 2022/10/23 17:45:18  synced recovery
+INFO 2022/10/23 17:45:20  synced recovery
+INFO 2022/10/23 17:45:22  synced recovery
+INFO 2022/10/23 17:45:24  synced recovery
+INFO 2022/10/23 17:45:26  synced recovery
+INFO 2022/10/23 17:45:28  synced recovery
+INFO 2022/10/23 17:45:29  [blur] 1
+INFO 2022/10/23 17:45:29  [win] blur
+INFO 2022/10/23 17:45:32  [focus] 1
+INFO 2022/10/23 17:45:34  [blur] 1
+INFO 2022/10/23 17:45:34  [win] blur
+INFO 2022/10/23 17:45:34  synced recovery
+INFO 2022/10/23 17:45:36  [focus] 1
+INFO 2022/10/23 17:45:39  synced recovery
+INFO 2022/10/23 17:45:40  synced recovery
+INFO 2022/10/23 17:45:42  [blur] 1
+INFO 2022/10/23 17:45:42  [win] blur
+INFO 2022/10/23 17:45:43  [focus] 1
+INFO 2022/10/23 17:45:47  synced recovery
+INFO 2022/10/23 17:45:48  [blur] 1
+INFO 2022/10/23 17:45:48  [win] blur
+INFO 2022/10/23 17:45:49  [focus] 1
+INFO 2022/10/23 17:45:54  synced recovery
+INFO 2022/10/23 17:45:55  [blur] 1
+INFO 2022/10/23 17:45:55  [win] blur
+INFO 2022/10/23 17:45:57  [focus] 1
+INFO 2022/10/23 17:45:58  [blur] 1
+INFO 2022/10/23 17:45:58  [win] blur
+INFO 2022/10/23 17:45:58  synced recovery
+INFO 2022/10/23 17:45:59  [focus] 1
+INFO 2022/10/23 17:46:00  [blur] 1
+INFO 2022/10/23 17:46:00  [win] blur
+INFO 2022/10/23 17:46:01  [focus] 1
+INFO 2022/10/23 17:46:03  synced recovery
+INFO 2022/10/23 17:46:04  [blur] 1
+INFO 2022/10/23 17:46:04  [win] blur
+INFO 2022/10/23 17:46:04  synced recovery
+INFO 2022/10/23 17:46:16  [focus] 1
+INFO 2022/10/23 17:46:20  synced recovery
+INFO 2022/10/23 17:46:22  synced recovery
+INFO 2022/10/23 17:46:28  synced recovery
+INFO 2022/10/23 17:46:33  synced recovery
+INFO 2022/10/23 17:46:38  synced recovery
+INFO 2022/10/23 17:46:40  synced recovery
+INFO 2022/10/23 17:46:42  synced recovery
+INFO 2022/10/23 17:46:46  synced recovery
+INFO 2022/10/23 17:46:53  synced recovery
+INFO 2022/10/23 17:46:56  synced recovery
+INFO 2022/10/23 17:47:00  [blur] 1
+INFO 2022/10/23 17:47:00  [win] blur
+INFO 2022/10/23 17:47:00  synced recovery
+INFO 2022/10/23 17:47:10  [focus] 1
+INFO 2022/10/23 17:47:12  synced recovery
+INFO 2022/10/23 17:47:15  synced recovery
+INFO 2022/10/23 17:47:16  synced recovery
+INFO 2022/10/23 17:47:19  synced recovery
+INFO 2022/10/23 17:47:23  synced recovery
+INFO 2022/10/23 17:47:25  synced recovery
+INFO 2022/10/23 17:47:27  synced recovery
+INFO 2022/10/23 17:47:35  [blur] 1
+INFO 2022/10/23 17:47:35  [win] blur
+INFO 2022/10/23 17:48:34  [focus] 1
+INFO 2022/10/23 17:48:35  [blur] 1
+INFO 2022/10/23 17:48:35  [win] blur
+INFO 2022/10/23 17:49:45  [focus] 1
+INFO 2022/10/23 17:49:47  [blur] 1
+INFO 2022/10/23 17:49:47  [win] blur
+INFO 2022/10/23 17:54:13  [focus] 1
+INFO 2022/10/23 17:54:18  [blur] 1
+INFO 2022/10/23 17:54:18  [win] blur
+INFO 2022/10/23 17:54:18  synced recovery
+INFO 2022/10/23 17:54:18  [focus] 1
+INFO 2022/10/23 17:54:26  synced recovery
+INFO 2022/10/23 17:54:28  synced recovery
+INFO 2022/10/23 17:54:33  synced recovery
+INFO 2022/10/23 17:54:35  synced recovery
+INFO 2022/10/23 17:54:43  synced recovery
+INFO 2022/10/23 17:54:46  synced recovery
+INFO 2022/10/23 17:54:46  [blur] 1
+INFO 2022/10/23 17:54:46  [win] blur
+INFO 2022/10/23 17:56:50  [focus] 1
+INFO 2022/10/23 17:56:53  [blur] 1
+INFO 2022/10/23 17:56:53  [win] blur
+INFO 2022/10/23 17:57:04  [focus] 1
+INFO 2022/10/23 17:57:05  [blur] 1
+INFO 2022/10/23 17:57:05  [win] blur
+INFO 2022/10/23 17:58:04  [focus] 1
+INFO 2022/10/23 17:58:04  [blur] 1
+INFO 2022/10/23 17:58:04  [win] blur
+INFO 2022/10/23 17:58:08  [focus] 1
+INFO 2022/10/23 17:58:08  [blur] 1
+INFO 2022/10/23 17:58:08  [win] blur
+INFO 2022/10/23 17:58:12  [focus] 1
+INFO 2022/10/23 17:58:12  [blur] 1
+INFO 2022/10/23 17:58:12  [win] blur
+INFO 2022/10/23 18:00:53  [focus] 1
+INFO 2022/10/23 18:00:53  [blur] 1
+INFO 2022/10/23 18:00:53  [win] blur
+INFO 2022/10/23 18:00:53  [focus] 1
+INFO 2022/10/23 18:00:54  [blur] 1
+INFO 2022/10/23 18:00:54  [win] blur
+INFO 2022/10/23 18:01:06  [focus] 1
+INFO 2022/10/23 18:01:11  [blur] 1
+INFO 2022/10/23 18:01:11  [win] blur
+INFO 2022/10/23 18:01:32  [focus] 1
+INFO 2022/10/23 18:01:37  synced recovery
+INFO 2022/10/23 18:01:45  synced recovery
+INFO 2022/10/23 18:01:48  synced recovery
+INFO 2022/10/23 18:01:50  synced recovery
+INFO 2022/10/23 18:01:51  [blur] 1
+INFO 2022/10/23 18:01:51  [win] blur
+INFO 2022/10/23 18:01:53  [focus] 1
+INFO 2022/10/23 18:01:53  [blur] 1
+INFO 2022/10/23 18:01:53  [win] blur
+INFO 2022/10/23 18:02:01  [focus] 1
+INFO 2022/10/23 18:02:14  synced recovery
+INFO 2022/10/23 18:02:15  [blur] 1
+INFO 2022/10/23 18:02:15  [win] blur
+INFO 2022/10/23 18:02:33  [focus] 1
+INFO 2022/10/23 18:02:35  [blur] 1
+INFO 2022/10/23 18:02:35  [win] blur
+INFO 2022/10/23 18:02:35  [focus] 1
+INFO 2022/10/23 18:02:35  [blur] 1
+INFO 2022/10/23 18:02:35  [win] blur
+INFO 2022/10/23 18:03:00  [focus] 1
+INFO 2022/10/23 18:03:24  [blur] 1
+INFO 2022/10/23 18:03:24  [win] blur
+INFO 2022/10/23 18:03:24  [focus] 1
+INFO 2022/10/23 18:03:25  [blur] 1
+INFO 2022/10/23 18:03:25  [win] blur
+INFO 2022/10/23 18:09:08  [focus] 1
+INFO 2022/10/23 18:09:21  [blur] 1
+INFO 2022/10/23 18:09:21  [win] blur
+INFO 2022/10/23 18:09:23  [focus] 1
+INFO 2022/10/23 18:09:23  [blur] 1
+INFO 2022/10/23 18:09:23  [win] blur
+INFO 2022/10/23 18:14:09  [focus] 1
+INFO 2022/10/23 18:14:10  [blur] 1
+INFO 2022/10/23 18:14:10  [win] blur
+INFO 2022/10/23 18:14:15  [focus] 1
+INFO 2022/10/23 18:14:16  [blur] 1
+INFO 2022/10/23 18:14:16  [win] blur
+INFO 2022/10/23 18:14:21  [focus] 1
+INFO 2022/10/23 18:14:21  [blur] 1
+INFO 2022/10/23 18:14:21  [win] blur
+INFO 2022/10/23 18:14:21  synced recovery
+INFO 2022/10/23 18:14:24  [focus] 1
+INFO 2022/10/23 18:14:26  [blur] 1
+INFO 2022/10/23 18:14:26  [win] blur
+INFO 2022/10/23 18:14:28  [focus] 1
+INFO 2022/10/23 18:14:30  synced recovery
+INFO 2022/10/23 18:14:31  [blur] 1
+INFO 2022/10/23 18:14:31  [win] blur
+INFO 2022/10/23 18:14:31  synced recovery
+INFO 2022/10/23 18:14:34  [focus] 1
+INFO 2022/10/23 18:14:37  synced recovery
+INFO 2022/10/23 18:14:38  synced recovery
+INFO 2022/10/23 18:14:38  [blur] 1
+INFO 2022/10/23 18:14:38  [win] blur
+INFO 2022/10/23 18:14:47  [focus] 1
+INFO 2022/10/23 18:14:49  synced recovery
+INFO 2022/10/23 18:14:50  [blur] 1
+INFO 2022/10/23 18:14:50  [win] blur
+INFO 2022/10/23 18:14:50  synced recovery
+INFO 2022/10/23 18:15:06  [focus] 1
+INFO 2022/10/23 18:15:11  [blur] 1
+INFO 2022/10/23 18:15:11  [win] blur
+INFO 2022/10/23 18:15:11  synced recovery
+INFO 2022/10/23 18:15:13  [focus] 1
+INFO 2022/10/23 18:15:16  synced recovery
+INFO 2022/10/23 18:15:18  synced recovery
+INFO 2022/10/23 18:15:22  synced recovery
+INFO 2022/10/23 18:15:23  synced recovery
+INFO 2022/10/23 18:15:25  synced recovery
+INFO 2022/10/23 18:15:26  synced recovery
+INFO 2022/10/23 18:15:29  synced recovery
+INFO 2022/10/23 18:15:31  synced recovery
+INFO 2022/10/23 18:15:34  [blur] 1
+INFO 2022/10/23 18:15:34  [win] blur
+INFO 2022/10/23 18:15:51  [focus] 1
+INFO 2022/10/23 18:15:51  [blur] 1
+INFO 2022/10/23 18:15:51  [win] blur
+INFO 2022/10/23 18:15:52  [focus] 1
+INFO 2022/10/23 18:15:55  synced recovery
+INFO 2022/10/23 18:15:58  synced recovery
+INFO 2022/10/23 18:16:00  synced recovery
+INFO 2022/10/23 18:16:08  synced recovery
+INFO 2022/10/23 18:16:10  [blur] 1
+INFO 2022/10/23 18:16:10  [win] blur
+INFO 2022/10/23 18:16:15  [focus] 1
+INFO 2022/10/23 18:16:18  synced recovery
+INFO 2022/10/23 18:16:21  synced recovery
+INFO 2022/10/23 18:16:23  synced recovery
+INFO 2022/10/23 18:16:27  synced recovery
+INFO 2022/10/23 18:16:28  synced recovery
+INFO 2022/10/23 18:16:29  [blur] 1
+INFO 2022/10/23 18:16:29  [win] blur
+INFO 2022/10/23 18:16:59  [focus] 1
+INFO 2022/10/23 18:17:06  [blur] 1
+INFO 2022/10/23 18:17:06  [win] blur
+INFO 2022/10/23 18:17:39  [focus] 1
+INFO 2022/10/23 18:17:51  [blur] 1
+INFO 2022/10/23 18:17:51  [win] blur
+INFO 2022/10/23 18:18:42  [focus] 1
+INFO 2022/10/23 18:18:43  [blur] 1
+INFO 2022/10/23 18:18:43  [win] blur
+INFO 2022/10/23 18:18:51  [focus] 1
+INFO 2022/10/23 18:18:57  synced recovery
+INFO 2022/10/23 18:19:00  synced recovery
+INFO 2022/10/23 18:19:04  synced recovery
+INFO 2022/10/23 18:19:05  synced recovery
+INFO 2022/10/23 18:19:08  synced recovery
+INFO 2022/10/23 18:19:20  synced recovery
+INFO 2022/10/23 18:19:39  synced recovery
+INFO 2022/10/23 18:19:42  synced recovery
+INFO 2022/10/23 18:19:43  [blur] 1
+INFO 2022/10/23 18:19:43  [win] blur
+INFO 2022/10/23 18:20:14  [focus] 1
+INFO 2022/10/23 18:20:16  synced recovery
+INFO 2022/10/23 18:20:21  synced recovery
+INFO 2022/10/23 18:20:24  synced recovery
+INFO 2022/10/23 18:20:26  synced recovery
+INFO 2022/10/23 18:20:28  [blur] 1
+INFO 2022/10/23 18:20:28  [win] blur
+INFO 2022/10/23 18:20:35  [focus] 1
+INFO 2022/10/23 18:20:36  [blur] 1
+INFO 2022/10/23 18:20:36  [win] blur
+INFO 2022/10/23 18:20:45  [focus] 1
+INFO 2022/10/23 18:20:48  synced recovery
+INFO 2022/10/23 18:20:50  synced recovery
+INFO 2022/10/23 18:20:56  synced recovery
+INFO 2022/10/23 18:21:01  synced recovery
+INFO 2022/10/23 18:21:01  [blur] 1
+INFO 2022/10/23 18:21:01  [win] blur
+INFO 2022/10/23 18:21:04  [focus] 1
+INFO 2022/10/23 18:21:07  synced recovery
+INFO 2022/10/23 18:21:11  synced recovery
+INFO 2022/10/23 18:21:15  [blur] 1
+INFO 2022/10/23 18:21:15  [win] blur
+INFO 2022/10/23 18:21:19  [focus] 1
+INFO 2022/10/23 18:21:20  synced recovery
+INFO 2022/10/23 18:21:23  synced recovery
+INFO 2022/10/23 18:21:24  [blur] 1
+INFO 2022/10/23 18:21:24  [win] blur
+INFO 2022/10/23 18:21:30  [focus] 1
+INFO 2022/10/23 18:21:36  synced recovery
+INFO 2022/10/23 18:21:38  synced recovery
+INFO 2022/10/23 18:21:40  synced recovery
+INFO 2022/10/23 18:21:41  [RenderProcess 1][Log] File.reloadContent, {"delayRefresh":true,"skipChangeCount":true,"skipStore":true}
+INFO 2022/10/23 18:21:41  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 18:21:50  synced recovery
+INFO 2022/10/23 18:21:54  synced recovery
+INFO 2022/10/23 18:21:56  synced recovery
+INFO 2022/10/23 18:22:06  [blur] 1
+INFO 2022/10/23 18:22:06  [win] blur
+INFO 2022/10/23 18:22:07  [focus] 1
+INFO 2022/10/23 18:22:18  synced recovery
+INFO 2022/10/23 18:22:22  synced recovery
+INFO 2022/10/23 18:22:24  synced recovery
+INFO 2022/10/23 18:22:30  synced recovery
+INFO 2022/10/23 18:22:33  synced recovery
+INFO 2022/10/23 18:22:42  synced recovery
+INFO 2022/10/23 18:22:54  synced recovery
+INFO 2022/10/23 18:23:00  [blur] 1
+INFO 2022/10/23 18:23:00  [win] blur
+INFO 2022/10/23 18:23:11  [focus] 1
+INFO 2022/10/23 18:23:13  synced recovery
+INFO 2022/10/23 18:23:14  synced recovery
+INFO 2022/10/23 18:23:16  synced recovery
+INFO 2022/10/23 18:23:20  synced recovery
+INFO 2022/10/23 18:23:21  synced recovery
+INFO 2022/10/23 18:23:28  synced recovery
+INFO 2022/10/23 18:23:36  synced recovery
+INFO 2022/10/23 18:23:38  synced recovery
+INFO 2022/10/23 18:23:40  synced recovery
+INFO 2022/10/23 18:23:42  synced recovery
+INFO 2022/10/23 18:23:44  synced recovery
+INFO 2022/10/23 18:23:48  synced recovery
+INFO 2022/10/23 18:23:50  synced recovery
+INFO 2022/10/23 18:23:52  synced recovery
+INFO 2022/10/23 18:23:58  synced recovery
+INFO 2022/10/23 18:24:04  synced recovery
+INFO 2022/10/23 18:24:07  synced recovery
+INFO 2022/10/23 18:24:09  synced recovery
+INFO 2022/10/23 18:24:20  synced recovery
+INFO 2022/10/23 18:24:20  [blur] 1
+INFO 2022/10/23 18:24:20  [win] blur
+INFO 2022/10/23 18:24:35  [focus] 1
+INFO 2022/10/23 18:24:38  synced recovery
+INFO 2022/10/23 18:24:42  synced recovery
+INFO 2022/10/23 18:24:44  synced recovery
+INFO 2022/10/23 18:24:45  synced recovery
+INFO 2022/10/23 18:24:45  [blur] 1
+INFO 2022/10/23 18:24:45  [win] blur
+INFO 2022/10/23 18:24:49  [focus] 1
+INFO 2022/10/23 18:24:51  synced recovery
+INFO 2022/10/23 18:24:57  synced recovery
+INFO 2022/10/23 18:24:58  synced recovery
+INFO 2022/10/23 18:25:01  [blur] 1
+INFO 2022/10/23 18:25:01  [win] blur
+INFO 2022/10/23 18:25:01  [focus] 1
+INFO 2022/10/23 18:25:04  [blur] 1
+INFO 2022/10/23 18:25:04  [win] blur
+INFO 2022/10/23 18:25:14  [focus] 1
+INFO 2022/10/23 18:25:17  synced recovery
+INFO 2022/10/23 18:25:18  synced recovery
+INFO 2022/10/23 18:25:20  synced recovery
+INFO 2022/10/23 18:25:25  synced recovery
+INFO 2022/10/23 18:25:26  [blur] 1
+INFO 2022/10/23 18:25:26  [win] blur
+INFO 2022/10/23 18:25:38  [focus] 1
+INFO 2022/10/23 18:25:41  synced recovery
+INFO 2022/10/23 18:25:46  synced recovery
+INFO 2022/10/23 18:25:49  [blur] 1
+INFO 2022/10/23 18:25:49  [win] blur
+INFO 2022/10/23 18:25:53  [focus] 1
+INFO 2022/10/23 18:25:56  synced recovery
+INFO 2022/10/23 18:25:59  synced recovery
+INFO 2022/10/23 18:26:03  synced recovery
+INFO 2022/10/23 18:26:04  [blur] 1
+INFO 2022/10/23 18:26:04  [win] blur
+INFO 2022/10/23 18:26:05  [focus] 1
+INFO 2022/10/23 18:26:08  [blur] 1
+INFO 2022/10/23 18:26:08  [win] blur
+INFO 2022/10/23 18:26:10  [focus] 1
+INFO 2022/10/23 18:26:12  synced recovery
+INFO 2022/10/23 18:26:12  [blur] 1
+INFO 2022/10/23 18:26:12  [win] blur
+INFO 2022/10/23 18:26:17  [focus] 1
+INFO 2022/10/23 18:26:18  synced recovery
+INFO 2022/10/23 18:26:20  synced recovery
+INFO 2022/10/23 18:26:23  synced recovery
+INFO 2022/10/23 18:26:32  [blur] 1
+INFO 2022/10/23 18:26:32  [win] blur
+INFO 2022/10/23 18:26:32  synced recovery
+INFO 2022/10/23 18:26:52  [focus] 1
+INFO 2022/10/23 18:26:53  synced recovery
+INFO 2022/10/23 18:26:58  [blur] 1
+INFO 2022/10/23 18:26:58  [win] blur
+INFO 2022/10/23 18:26:59  [focus] 1
+INFO 2022/10/23 18:27:08  synced recovery
+INFO 2022/10/23 18:27:12  synced recovery
+INFO 2022/10/23 18:27:14  synced recovery
+INFO 2022/10/23 18:27:16  synced recovery
+INFO 2022/10/23 18:27:18  [blur] 1
+INFO 2022/10/23 18:27:18  [win] blur
+INFO 2022/10/23 18:27:21  [focus] 1
+INFO 2022/10/23 18:27:33  synced recovery
+INFO 2022/10/23 18:27:38  synced recovery
+INFO 2022/10/23 18:27:42  synced recovery
+INFO 2022/10/23 18:27:46  synced recovery
+INFO 2022/10/23 18:27:50  [blur] 1
+INFO 2022/10/23 18:27:50  [win] blur
+INFO 2022/10/23 18:27:54  [focus] 1
+INFO 2022/10/23 18:28:06  synced recovery
+INFO 2022/10/23 18:28:09  synced recovery
+INFO 2022/10/23 18:28:16  synced recovery
+INFO 2022/10/23 18:28:17  [RenderProcess 1][Log] File.reloadContent, {"delayRefresh":true,"skipChangeCount":true,"skipStore":true}
+INFO 2022/10/23 18:28:17  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 18:28:27  synced recovery
+INFO 2022/10/23 18:28:32  synced recovery
+INFO 2022/10/23 18:28:33  synced recovery
+INFO 2022/10/23 18:28:34  synced recovery
+INFO 2022/10/23 18:28:37  synced recovery
+INFO 2022/10/23 18:28:38  synced recovery
+INFO 2022/10/23 18:28:43  synced recovery
+INFO 2022/10/23 18:28:46  synced recovery
+INFO 2022/10/23 18:28:49  synced recovery
+INFO 2022/10/23 18:28:56  synced recovery
+INFO 2022/10/23 18:28:59  synced recovery
+INFO 2022/10/23 18:29:10  synced recovery
+INFO 2022/10/23 18:29:12  synced recovery
+INFO 2022/10/23 18:29:13  synced recovery
+INFO 2022/10/23 18:29:15  synced recovery
+INFO 2022/10/23 18:29:17  synced recovery
+INFO 2022/10/23 18:29:22  [blur] 1
+INFO 2022/10/23 18:29:22  [win] blur
+INFO 2022/10/23 18:29:50  [focus] 1
+INFO 2022/10/23 18:29:55  [blur] 1
+INFO 2022/10/23 18:29:55  [win] blur
+INFO 2022/10/23 18:29:55  [focus] 1
+INFO 2022/10/23 18:29:59  synced recovery
+INFO 2022/10/23 18:30:02  synced recovery
+INFO 2022/10/23 18:30:03  synced recovery
+INFO 2022/10/23 18:30:05  synced recovery
+INFO 2022/10/23 18:30:07  synced recovery
+INFO 2022/10/23 18:30:13  synced recovery
+INFO 2022/10/23 18:30:17  synced recovery
+INFO 2022/10/23 18:30:25  [blur] 1
+INFO 2022/10/23 18:30:25  [win] blur
+INFO 2022/10/23 18:30:25  [focus] 1
+INFO 2022/10/23 18:30:32  [blur] 1
+INFO 2022/10/23 18:30:32  [win] blur
+INFO 2022/10/23 18:30:47  [focus] 1
+INFO 2022/10/23 18:30:51  [blur] 1
+INFO 2022/10/23 18:30:51  [win] blur
+INFO 2022/10/23 18:30:59  [focus] 1
+INFO 2022/10/23 18:31:01  synced recovery
+INFO 2022/10/23 18:31:03  synced recovery
+INFO 2022/10/23 18:31:03  [blur] 1
+INFO 2022/10/23 18:31:03  [win] blur
+INFO 2022/10/23 18:31:08  [focus] 1
+INFO 2022/10/23 18:31:09  [blur] 1
+INFO 2022/10/23 18:31:09  [win] blur
+INFO 2022/10/23 18:31:13  [focus] 1
+INFO 2022/10/23 18:31:14  [blur] 1
+INFO 2022/10/23 18:31:14  [win] blur
+INFO 2022/10/23 18:31:14  synced recovery
+INFO 2022/10/23 18:31:16  [focus] 1
+INFO 2022/10/23 18:31:19  synced recovery
+INFO 2022/10/23 18:31:21  synced recovery
+INFO 2022/10/23 18:31:24  synced recovery
+INFO 2022/10/23 18:31:25  [blur] 1
+INFO 2022/10/23 18:31:25  [win] blur
+INFO 2022/10/23 18:31:25  synced recovery
+INFO 2022/10/23 18:31:25  synced recovery
+INFO 2022/10/23 18:31:38  [focus] 1
+INFO 2022/10/23 18:31:40  synced recovery
+INFO 2022/10/23 18:31:43  synced recovery
+INFO 2022/10/23 18:31:43  [blur] 1
+INFO 2022/10/23 18:31:43  [win] blur
+INFO 2022/10/23 18:32:24  [focus] 1
+INFO 2022/10/23 18:32:30  synced recovery
+INFO 2022/10/23 18:32:33  synced recovery
+INFO 2022/10/23 18:32:34  synced recovery
+INFO 2022/10/23 18:32:39  synced recovery
+INFO 2022/10/23 18:32:41  synced recovery
+INFO 2022/10/23 18:32:45  synced recovery
+INFO 2022/10/23 18:32:47  synced recovery
+INFO 2022/10/23 18:32:51  synced recovery
+INFO 2022/10/23 18:32:53  synced recovery
+INFO 2022/10/23 18:32:59  synced recovery
+INFO 2022/10/23 18:33:34  [blur] 1
+INFO 2022/10/23 18:33:34  [win] blur
+INFO 2022/10/23 18:33:51  [focus] 1
+INFO 2022/10/23 18:33:55  synced recovery
+INFO 2022/10/23 18:33:58  synced recovery
+INFO 2022/10/23 18:34:00  synced recovery
+INFO 2022/10/23 18:34:04  synced recovery
+INFO 2022/10/23 18:34:06  synced recovery
+INFO 2022/10/23 18:34:08  synced recovery
+INFO 2022/10/23 18:34:15  synced recovery
+INFO 2022/10/23 18:34:17  synced recovery
+INFO 2022/10/23 18:34:23  synced recovery
+INFO 2022/10/23 18:34:24  synced recovery
+INFO 2022/10/23 18:34:28  synced recovery
+INFO 2022/10/23 18:34:31  synced recovery
+INFO 2022/10/23 18:34:34  [blur] 1
+INFO 2022/10/23 18:34:34  [win] blur
+INFO 2022/10/23 18:34:35  [focus] 1
+INFO 2022/10/23 18:34:39  synced recovery
+INFO 2022/10/23 18:34:42  synced recovery
+INFO 2022/10/23 18:34:45  synced recovery
+INFO 2022/10/23 18:34:47  synced recovery
+INFO 2022/10/23 18:34:52  [blur] 1
+INFO 2022/10/23 18:34:52  [win] blur
+INFO 2022/10/23 18:34:56  [focus] 1
+INFO 2022/10/23 18:34:58  synced recovery
+INFO 2022/10/23 18:35:01  synced recovery
+INFO 2022/10/23 18:35:04  synced recovery
+INFO 2022/10/23 18:35:17  synced recovery
+INFO 2022/10/23 18:35:19  [blur] 1
+INFO 2022/10/23 18:35:19  [win] blur
+INFO 2022/10/23 18:35:23  [focus] 1
+INFO 2022/10/23 18:35:28  synced recovery
+INFO 2022/10/23 18:35:29  synced recovery
+INFO 2022/10/23 18:35:33  synced recovery
+INFO 2022/10/23 18:35:46  synced recovery
+INFO 2022/10/23 18:35:47  [blur] 1
+INFO 2022/10/23 18:35:47  [win] blur
+INFO 2022/10/23 18:35:49  [focus] 1
+INFO 2022/10/23 18:36:02  synced recovery
+INFO 2022/10/23 18:36:03  synced recovery
+INFO 2022/10/23 18:36:11  synced recovery
+INFO 2022/10/23 18:36:14  synced recovery
+INFO 2022/10/23 18:36:18  synced recovery
+INFO 2022/10/23 18:36:23  synced recovery
+INFO 2022/10/23 18:36:28  [blur] 1
+INFO 2022/10/23 18:36:28  [win] blur
+INFO 2022/10/23 18:36:35  [focus] 1
+INFO 2022/10/23 18:36:44  synced recovery
+INFO 2022/10/23 18:36:47  synced recovery
+INFO 2022/10/23 18:36:50  synced recovery
+INFO 2022/10/23 18:36:52  [blur] 1
+INFO 2022/10/23 18:36:52  [win] blur
+INFO 2022/10/23 18:36:59  [focus] 1
+INFO 2022/10/23 18:37:01  synced recovery
+INFO 2022/10/23 18:37:06  synced recovery
+INFO 2022/10/23 18:37:10  synced recovery
+INFO 2022/10/23 18:37:12  synced recovery
+INFO 2022/10/23 18:37:17  synced recovery
+INFO 2022/10/23 18:37:17  [blur] 1
+INFO 2022/10/23 18:37:17  [win] blur
+INFO 2022/10/23 18:37:20  [focus] 1
+INFO 2022/10/23 18:37:23  [blur] 1
+INFO 2022/10/23 18:37:23  [win] blur
+INFO 2022/10/23 18:37:38  [focus] 1
+INFO 2022/10/23 18:37:52  synced recovery
+INFO 2022/10/23 18:37:54  synced recovery
+INFO 2022/10/23 18:38:12  [blur] 1
+INFO 2022/10/23 18:38:12  [win] blur
+INFO 2022/10/23 18:38:15  [focus] 1
+INFO 2022/10/23 18:38:19  [blur] 1
+INFO 2022/10/23 18:38:19  [win] blur
+INFO 2022/10/23 18:38:19  [focus] 1
+INFO 2022/10/23 18:38:22  [blur] 1
+INFO 2022/10/23 18:38:22  [win] blur
+INFO 2022/10/23 18:38:41  [focus] 1
+INFO 2022/10/23 18:38:47  synced recovery
+INFO 2022/10/23 18:38:58  synced recovery
+INFO 2022/10/23 18:39:00  synced recovery
+INFO 2022/10/23 18:39:11  synced recovery
+INFO 2022/10/23 18:39:16  synced recovery
+INFO 2022/10/23 18:39:17  synced recovery
+INFO 2022/10/23 18:39:27  [blur] 1
+INFO 2022/10/23 18:39:27  [win] blur
+INFO 2022/10/23 18:39:30  [focus] 1
+INFO 2022/10/23 18:39:33  synced recovery
+INFO 2022/10/23 18:39:35  synced recovery
+INFO 2022/10/23 18:39:37  synced recovery
+INFO 2022/10/23 18:39:37  [blur] 1
+INFO 2022/10/23 18:39:37  [win] blur
+INFO 2022/10/23 18:39:50  [focus] 1
+INFO 2022/10/23 18:39:52  synced recovery
+INFO 2022/10/23 18:39:58  [blur] 1
+INFO 2022/10/23 18:39:58  [win] blur
+INFO 2022/10/23 18:40:02  [focus] 1
+INFO 2022/10/23 18:40:04  [blur] 1
+INFO 2022/10/23 18:40:04  [win] blur
+INFO 2022/10/23 18:40:09  [focus] 1
+INFO 2022/10/23 18:40:10  [blur] 1
+INFO 2022/10/23 18:40:10  [win] blur
+INFO 2022/10/23 18:40:15  [focus] 1
+INFO 2022/10/23 18:40:18  [blur] 1
+INFO 2022/10/23 18:40:18  [win] blur
+INFO 2022/10/23 18:40:19  [focus] 1
+INFO 2022/10/23 18:40:20  synced recovery
+INFO 2022/10/23 18:40:29  synced recovery
+INFO 2022/10/23 18:40:37  synced recovery
+INFO 2022/10/23 18:40:43  synced recovery
+INFO 2022/10/23 18:40:46  synced recovery
+INFO 2022/10/23 18:40:48  synced recovery
+INFO 2022/10/23 18:40:51  synced recovery
+INFO 2022/10/23 18:40:54  synced recovery
+INFO 2022/10/23 18:40:56  synced recovery
+INFO 2022/10/23 18:40:57  synced recovery
+INFO 2022/10/23 18:41:01  synced recovery
+INFO 2022/10/23 18:41:03  synced recovery
+INFO 2022/10/23 18:41:07  synced recovery
+INFO 2022/10/23 18:41:08  synced recovery
+INFO 2022/10/23 18:41:45  synced recovery
+INFO 2022/10/23 18:41:46  synced recovery
+INFO 2022/10/23 18:41:48  synced recovery
+INFO 2022/10/23 18:41:51  synced recovery
+INFO 2022/10/23 18:41:53  synced recovery
+INFO 2022/10/23 18:41:55  synced recovery
+INFO 2022/10/23 18:41:57  synced recovery
+INFO 2022/10/23 18:46:07  synced recovery
+INFO 2022/10/23 18:46:07  [blur] 1
+INFO 2022/10/23 18:46:07  [win] blur
+INFO 2022/10/23 18:46:12  [focus] 1
+INFO 2022/10/23 18:46:55  [blur] 1
+INFO 2022/10/23 18:46:55  [win] blur
+INFO 2022/10/23 18:46:57  [focus] 1
+INFO 2022/10/23 18:47:01  synced recovery
+INFO 2022/10/23 18:47:02  synced recovery
+INFO 2022/10/23 18:47:09  [blur] 1
+INFO 2022/10/23 18:47:09  [win] blur
+INFO 2022/10/23 18:47:34  [focus] 1
+INFO 2022/10/23 18:47:40  synced recovery
+INFO 2022/10/23 18:47:44  synced recovery
+INFO 2022/10/23 18:47:46  synced recovery
+INFO 2022/10/23 18:47:47  synced recovery
+INFO 2022/10/23 18:47:49  synced recovery
+INFO 2022/10/23 18:47:49  [blur] 1
+INFO 2022/10/23 18:47:49  [win] blur
+INFO 2022/10/23 18:47:52  [focus] 1
+INFO 2022/10/23 18:47:54  synced recovery
+INFO 2022/10/23 18:47:55  [blur] 1
+INFO 2022/10/23 18:47:55  [win] blur
+INFO 2022/10/23 18:47:55  synced recovery
+INFO 2022/10/23 18:47:56  [focus] 1
+INFO 2022/10/23 18:49:06  [blur] 1
+INFO 2022/10/23 18:49:06  [win] blur
+INFO 2022/10/23 18:49:06  [focus] 1
+INFO 2022/10/23 18:49:20  [blur] 1
+INFO 2022/10/23 18:49:20  [win] blur
+INFO 2022/10/23 18:49:22  [focus] 1
+INFO 2022/10/23 18:49:27  synced recovery
+INFO 2022/10/23 18:49:39  [blur] 1
+INFO 2022/10/23 18:49:39  [win] blur
+INFO 2022/10/23 18:50:18  [focus] 1
+INFO 2022/10/23 18:50:19  [blur] 1
+INFO 2022/10/23 18:50:19  [win] blur
+INFO 2022/10/23 18:50:37  [focus] 1
+INFO 2022/10/23 18:50:39  [blur] 1
+INFO 2022/10/23 18:50:39  [win] blur
+INFO 2022/10/23 18:50:44  [focus] 1
+INFO 2022/10/23 18:50:45  [blur] 1
+INFO 2022/10/23 18:50:45  [win] blur
+INFO 2022/10/23 18:51:08  [focus] 1
+INFO 2022/10/23 18:51:10  [blur] 1
+INFO 2022/10/23 18:51:10  [win] blur
+INFO 2022/10/23 18:51:10  synced recovery
+INFO 2022/10/23 18:51:14  [focus] 1
+INFO 2022/10/23 18:51:15  synced recovery
+INFO 2022/10/23 18:51:23  synced recovery
+INFO 2022/10/23 18:51:24  synced recovery
+INFO 2022/10/23 18:51:28  synced recovery
+INFO 2022/10/23 18:51:31  synced recovery
+INFO 2022/10/23 18:51:33  [blur] 1
+INFO 2022/10/23 18:51:33  [win] blur
+INFO 2022/10/23 18:51:42  [focus] 1
+INFO 2022/10/23 18:51:44  synced recovery
+INFO 2022/10/23 18:51:48  synced recovery
+INFO 2022/10/23 18:51:49  synced recovery
+INFO 2022/10/23 18:52:02  synced recovery
+INFO 2022/10/23 18:52:04  synced recovery
+INFO 2022/10/23 18:52:07  synced recovery
+INFO 2022/10/23 18:52:24  synced recovery
+INFO 2022/10/23 18:52:26  [RenderProcess 1][Log] File.reloadContent, {"delayRefresh":true,"skipChangeCount":true,"skipStore":true}
+INFO 2022/10/23 18:52:26  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 18:52:49  [RenderProcess 1][Log] File.reloadContent, {"delayRefresh":true,"skipChangeCount":true,"skipStore":true}
+INFO 2022/10/23 18:52:49  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 18:52:50  synced recovery
+INFO 2022/10/23 18:52:53  [blur] 1
+INFO 2022/10/23 18:52:53  [win] blur
+INFO 2022/10/23 18:53:13  [focus] 1
+INFO 2022/10/23 18:53:15  [blur] 1
+INFO 2022/10/23 18:53:15  [win] blur
+INFO 2022/10/23 18:53:17  [focus] 1
+INFO 2022/10/23 18:53:17  [blur] 1
+INFO 2022/10/23 18:53:17  [win] blur
+INFO 2022/10/23 18:53:18  [focus] 1
+INFO 2022/10/23 18:53:33  synced recovery
+INFO 2022/10/23 18:53:37  synced recovery
+INFO 2022/10/23 18:53:40  synced recovery
+INFO 2022/10/23 18:53:43  synced recovery
+INFO 2022/10/23 18:53:47  synced recovery
+INFO 2022/10/23 18:53:53  synced recovery
+INFO 2022/10/23 18:53:55  synced recovery
+INFO 2022/10/23 18:53:57  synced recovery
+INFO 2022/10/23 18:54:01  synced recovery
+INFO 2022/10/23 18:54:07  synced recovery
+INFO 2022/10/23 18:54:11  synced recovery
+INFO 2022/10/23 18:54:13  synced recovery
+INFO 2022/10/23 18:54:15  synced recovery
+INFO 2022/10/23 18:54:17  synced recovery
+INFO 2022/10/23 18:54:18  synced recovery
+INFO 2022/10/23 18:54:20  synced recovery
+INFO 2022/10/23 18:54:22  synced recovery
+INFO 2022/10/23 18:54:24  synced recovery
+INFO 2022/10/23 18:54:28  synced recovery
+INFO 2022/10/23 18:54:30  synced recovery
+INFO 2022/10/23 18:54:38  synced recovery
+INFO 2022/10/23 18:54:40  synced recovery
+INFO 2022/10/23 18:54:43  synced recovery
+INFO 2022/10/23 18:54:48  synced recovery
+INFO 2022/10/23 18:54:51  synced recovery
+INFO 2022/10/23 18:54:52  [blur] 1
+INFO 2022/10/23 18:54:52  [win] blur
+INFO 2022/10/23 18:54:59  [focus] 1
+INFO 2022/10/23 18:55:00  [blur] 1
+INFO 2022/10/23 18:55:00  [win] blur
+INFO 2022/10/23 18:55:01  [focus] 1
+INFO 2022/10/23 18:55:07  synced recovery
+INFO 2022/10/23 18:55:08  synced recovery
+INFO 2022/10/23 18:55:08  [blur] 1
+INFO 2022/10/23 18:55:08  [win] blur
+INFO 2022/10/23 18:55:10  [focus] 1
+INFO 2022/10/23 18:55:12  synced recovery
+INFO 2022/10/23 18:55:15  synced recovery
+INFO 2022/10/23 18:55:17  synced recovery
+INFO 2022/10/23 18:55:19  synced recovery
+INFO 2022/10/23 18:55:22  synced recovery
+INFO 2022/10/23 18:55:25  synced recovery
+INFO 2022/10/23 18:55:26  synced recovery
+INFO 2022/10/23 18:55:28  synced recovery
+INFO 2022/10/23 18:55:32  synced recovery
+INFO 2022/10/23 18:55:33  [blur] 1
+INFO 2022/10/23 18:55:33  [win] blur
+INFO 2022/10/23 18:55:37  [focus] 1
+INFO 2022/10/23 18:55:40  synced recovery
+INFO 2022/10/23 18:55:42  synced recovery
+INFO 2022/10/23 18:55:44  synced recovery
+INFO 2022/10/23 18:55:45  synced recovery
+INFO 2022/10/23 18:55:47  synced recovery
+INFO 2022/10/23 18:55:49  synced recovery
+INFO 2022/10/23 18:55:50  [blur] 1
+INFO 2022/10/23 18:55:50  [win] blur
+INFO 2022/10/23 18:55:54  [focus] 1
+INFO 2022/10/23 18:55:57  synced recovery
+INFO 2022/10/23 18:55:57  [blur] 1
+INFO 2022/10/23 18:55:57  [win] blur
+INFO 2022/10/23 18:56:03  [focus] 1
+INFO 2022/10/23 18:56:07  synced recovery
+INFO 2022/10/23 18:56:09  synced recovery
+INFO 2022/10/23 18:56:14  synced recovery
+INFO 2022/10/23 18:56:15  [blur] 1
+INFO 2022/10/23 18:56:15  [win] blur
+INFO 2022/10/23 18:56:45  [focus] 1
+INFO 2022/10/23 18:56:49  synced recovery
+INFO 2022/10/23 18:56:52  synced recovery
+INFO 2022/10/23 18:56:54  synced recovery
+INFO 2022/10/23 18:56:56  synced recovery
+INFO 2022/10/23 18:56:58  synced recovery
+INFO 2022/10/23 18:57:00  synced recovery
+INFO 2022/10/23 18:57:02  synced recovery
+INFO 2022/10/23 18:57:05  [blur] 1
+INFO 2022/10/23 18:57:05  [win] blur
+INFO 2022/10/23 18:57:10  [focus] 1
+INFO 2022/10/23 18:57:13  synced recovery
+INFO 2022/10/23 18:57:15  synced recovery
+INFO 2022/10/23 18:57:16  synced recovery
+INFO 2022/10/23 18:57:17  [blur] 1
+INFO 2022/10/23 18:57:17  [win] blur
+INFO 2022/10/23 18:58:07  [focus] 1
+INFO 2022/10/23 18:58:10  [blur] 1
+INFO 2022/10/23 18:58:10  [win] blur
+INFO 2022/10/23 18:58:11  [focus] 1
+INFO 2022/10/23 18:58:11  [blur] 1
+INFO 2022/10/23 18:58:11  [win] blur
+INFO 2022/10/23 18:58:12  [focus] 1
+INFO 2022/10/23 18:58:12  [blur] 1
+INFO 2022/10/23 18:58:12  [win] blur
+INFO 2022/10/23 18:58:18  synced recovery
+INFO 2022/10/23 18:58:18  ----------------before-quit-----------------
+INFO 2022/10/23 21:34:49  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/23 21:34:49  start LM in devVersion=false
+INFO 2022/10/23 21:34:49  [Raven] instanceKey = 7ad47006-49cb-4cbc-8141-51e058967c66
+INFO 2022/10/23 21:34:49  [watch L]
+INFO 2022/10/23 21:34:49  [L] installDate is 10/16/2022, trail remains: 8 days
+INFO 2022/10/23 21:34:49  [watch L] hasL: true
+INFO 2022/10/23 21:34:49  ------------------start------------------
+INFO 2022/10/23 21:34:49  typora version: 1.4.7
+INFO 2022/10/23 21:34:49  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/23 21:34:49  addRecentDocument
+INFO 2022/10/23 21:34:49  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/23 21:34:49  [focus] 1
+INFO 2022/10/23 21:34:49  synced recovery
+INFO 2022/10/23 21:34:50  synced recovery
+INFO 2022/10/23 21:34:50  ----------------before-quit-----------------
+INFO 2022/10/23 21:34:50  ------------------will-quit------------------
+INFO 2022/10/23 21:34:50  -----------------quit------------------
+INFO 2022/10/23 21:34:50  closeLogging
+INFO 2022/10/23 21:37:54  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/23 21:37:54  start LM in devVersion=false
+INFO 2022/10/23 21:37:54  [Raven] instanceKey = 1d521192-ecbb-412e-a0ba-3856965897f6
+INFO 2022/10/23 21:37:54  [watch L]
+INFO 2022/10/23 21:37:54  [L] installDate is 10/16/2022, trail remains: 8 days
+INFO 2022/10/23 21:37:54  [watch L] hasL: true
+INFO 2022/10/23 21:37:54  ------------------start------------------
+INFO 2022/10/23 21:37:54  typora version: 1.4.7
+INFO 2022/10/23 21:37:54  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/23 21:37:54  addRecentDocument
+INFO 2022/10/23 21:37:54  synced recovery
+INFO 2022/10/23 21:37:54  [focus] 1
+INFO 2022/10/23 21:37:54  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/23 21:37:55  handle document.loadData
+INFO 2022/10/23 21:37:55  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/23 21:37:55  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 21:37:55  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/23 21:37:55  synced recovery
+INFO 2022/10/23 21:37:55  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/23 21:37:55  [RenderProcess 1][Log] File.activeWindow = true
+Failed to Renew L
+INFO 2022/10/23 21:37:56  ls put SLicense
+INFO 2022/10/23 21:37:59  [blur] 1
+INFO 2022/10/23 21:37:59  [win] blur
+INFO 2022/10/23 21:46:22  [focus] 1
+INFO 2022/10/23 21:46:23  [blur] 1
+INFO 2022/10/23 21:46:23  [win] blur
+INFO 2022/10/23 22:17:48  [focus] 1
+INFO 2022/10/23 22:17:48  [blur] 1
+INFO 2022/10/23 22:17:48  [win] blur
+INFO 2022/10/23 22:17:48  [focus] 1
+INFO 2022/10/23 22:17:50  [blur] 1
+INFO 2022/10/23 22:17:50  [win] blur
+INFO 2022/10/23 23:04:51  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/23 23:04:51  start LM in devVersion=false
+INFO 2022/10/23 23:04:51  [Raven] instanceKey = f4bc32b0-e304-46ba-8717-f5f71752ac6f
+INFO 2022/10/23 23:04:51  [watch L]
+INFO 2022/10/23 23:04:51  [L] installDate is 10/16/2022, trail remains: 8 days
+INFO 2022/10/23 23:04:51  [watch L] hasL: true
+INFO 2022/10/23 23:04:51  ------------------start------------------
+INFO 2022/10/23 23:04:51  typora version: 1.4.7
+INFO 2022/10/23 23:04:51  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/23 23:04:51  launch from abnormal quit
+INFO 2022/10/23 23:04:51  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/ArchLInux使用.md","mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/10/23 23:04:51  addRecentDocument
+INFO 2022/10/23 23:04:51  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/23 23:04:51  [focus] 1
+INFO 2022/10/23 23:04:51  synced recovery
+INFO 2022/10/23 23:04:53  handle document.loadData
+INFO 2022/10/23 23:04:53  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/23 23:04:53  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 23:04:53  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/23 23:04:53  synced recovery
+INFO 2022/10/23 23:04:53  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/23 23:04:53  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/23 23:04:54  ls put SLicense
+INFO 2022/10/23 23:05:01  synced recovery
+INFO 2022/10/23 23:05:03  synced recovery
+INFO 2022/10/23 23:05:18  [blur] 1
+INFO 2022/10/23 23:05:18  [win] blur
+INFO 2022/10/23 23:05:39  [focus] 1
+INFO 2022/10/23 23:05:54  [blur] 1
+INFO 2022/10/23 23:05:54  [win] blur
+INFO 2022/10/23 23:05:54  [focus] 1
+INFO 2022/10/23 23:05:54  [blur] 1
+INFO 2022/10/23 23:05:54  [win] blur
+INFO 2022/10/23 23:05:54  [focus] 1
+INFO 2022/10/23 23:05:54  [blur] 1
+INFO 2022/10/23 23:05:54  [win] blur
+INFO 2022/10/23 23:07:20  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/10/23 23:07:20  synced recovery
+INFO 2022/10/23 23:07:20  [focus] 2
+INFO 2022/10/23 23:07:20  secondary instance would exit
+INFO 2022/10/23 23:07:20  handle document.loadData
+INFO 2022/10/23 23:07:20  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/23 23:07:20  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/23 23:07:20  synced recovery
+INFO 2022/10/23 23:07:21  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/23 23:07:21  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/23 23:11:03  [focus] 1
+INFO 2022/10/23 23:11:03  [blur] 1
+INFO 2022/10/23 23:11:03  [win] blur
+INFO 2022/10/23 23:11:04  [focus] 1
+INFO 2022/10/23 23:11:06  [blur] 1
+INFO 2022/10/23 23:11:06  [win] blur
+INFO 2022/10/23 23:11:06  [focus] 1
+INFO 2022/10/23 23:11:08  [blur] 1
+INFO 2022/10/23 23:11:08  [win] blur
+INFO 2022/10/23 23:11:09  [focus] 1
+INFO 2022/10/23 23:11:10  [blur] 1
+INFO 2022/10/23 23:11:10  [win] blur
+INFO 2022/10/23 23:30:00  synced recovery
+INFO 2022/10/23 23:30:00  ----------------before-quit-----------------
+INFO 2022/10/23 23:31:31  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/23 23:31:31  start LM in devVersion=false
+INFO 2022/10/23 23:31:31  [Raven] instanceKey = 83710c46-bd1b-44b7-bfdf-3ae5b99928ea
+INFO 2022/10/23 23:31:31  [watch L]
+INFO 2022/10/23 23:31:31  [L] installDate is 10/16/2022, trail remains: 8 days
+INFO 2022/10/23 23:31:31  [watch L] hasL: true
+INFO 2022/10/23 23:31:31  ------------------start------------------
+INFO 2022/10/23 23:31:31  typora version: 1.4.7
+INFO 2022/10/23 23:31:31  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/23 23:31:31  addRecentDocument
+INFO 2022/10/23 23:31:31  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/23 23:31:31  [focus] 1
+INFO 2022/10/23 23:31:31  [blur] 1
+INFO 2022/10/23 23:31:31  [win] blur
+INFO 2022/10/23 23:31:31  [focus] 1
+INFO 2022/10/23 23:31:31  synced recovery
+Failed to Renew L
+INFO 2022/10/23 23:31:32  ls put SLicense
+INFO 2022/10/23 23:31:32  handle document.loadData
+INFO 2022/10/23 23:31:32  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/23 23:31:32  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/23 23:31:32  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/23 23:31:33  synced recovery
+INFO 2022/10/23 23:31:33  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/23 23:31:33  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/23 23:32:22  synced recovery
+INFO 2022/10/23 23:32:28  synced recovery
+INFO 2022/10/23 23:32:32  synced recovery
+INFO 2022/10/23 23:32:34  synced recovery
+INFO 2022/10/23 23:32:39  synced recovery
+INFO 2022/10/23 23:32:45  [blur] 1
+INFO 2022/10/23 23:32:45  [win] blur
+INFO 2022/10/23 23:32:51  [focus] 1
+INFO 2022/10/23 23:32:51  [blur] 1
+INFO 2022/10/23 23:32:51  [win] blur
+INFO 2022/10/23 23:39:29  [focus] 1
+INFO 2022/10/23 23:41:06  [blur] 1
+INFO 2022/10/23 23:41:06  [win] blur
+INFO 2022/10/23 23:41:06  [focus] 1
+INFO 2022/10/23 23:42:29  [blur] 1
+INFO 2022/10/23 23:42:29  [win] blur
+INFO 2022/10/23 23:42:29  [focus] 1
+INFO 2022/10/23 23:43:09  [blur] 1
+INFO 2022/10/23 23:43:09  [win] blur
+INFO 2022/10/23 23:43:09  [focus] 1
+INFO 2022/10/23 23:44:35  [blur] 1
+INFO 2022/10/23 23:44:35  [win] blur
+INFO 2022/10/23 23:44:35  [focus] 1
+INFO 2022/10/24 11:22:37  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/24 11:22:37  start LM in devVersion=false
+INFO 2022/10/24 11:22:37  [Raven] instanceKey = 2f058069-c9ef-41cd-b956-6d29b7982eae
+INFO 2022/10/24 11:22:37  [watch L]
+INFO 2022/10/24 11:22:37  [L] installDate is 10/16/2022, trail remains: 7 days
+INFO 2022/10/24 11:22:37  [watch L] hasL: true
+INFO 2022/10/24 11:22:37  ------------------start------------------
+INFO 2022/10/24 11:22:37  typora version: 1.4.7
+INFO 2022/10/24 11:22:37  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/24 11:22:38  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/24 11:22:38  [focus] 1
+INFO 2022/10/24 11:22:38  synced recovery
+INFO 2022/10/24 11:22:39  handle document.loadData
+Failed to Renew L
+INFO 2022/10/24 11:22:39  ls put SLicense
+INFO 2022/10/24 11:22:39  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/24 11:22:39  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/24 11:22:39  synced recovery
+INFO 2022/10/24 11:22:39  [blur] 1
+INFO 2022/10/24 11:22:39  [win] blur
+INFO 2022/10/24 11:22:39  [focus] 1
+INFO 2022/10/24 11:22:39  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/24 11:22:39  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/24 11:22:43  [blur] 1
+INFO 2022/10/24 11:22:43  [win] blur
+INFO 2022/10/24 11:22:43  [focus] 1
+INFO 2022/10/24 11:22:43  [blur] 1
+INFO 2022/10/24 11:22:43  [win] blur
+INFO 2022/10/24 11:23:18  [focus] 1
+INFO 2022/10/24 11:23:19  [blur] 1
+INFO 2022/10/24 11:23:19  [win] blur
+INFO 2022/10/24 11:23:23  [focus] 1
+INFO 2022/10/24 11:23:23  [blur] 1
+INFO 2022/10/24 11:23:23  [win] blur
+INFO 2022/10/24 11:23:23  [focus] 1
+INFO 2022/10/24 11:23:24  [blur] 1
+INFO 2022/10/24 11:23:24  [win] blur
+INFO 2022/10/24 11:23:24  [focus] 1
+INFO 2022/10/24 11:23:24  [blur] 1
+INFO 2022/10/24 11:23:24  [win] blur
+INFO 2022/10/24 11:23:26  [focus] 1
+INFO 2022/10/24 11:23:26  [blur] 1
+INFO 2022/10/24 11:23:26  [win] blur
+INFO 2022/10/24 11:23:27  [focus] 1
+INFO 2022/10/24 11:23:27  [blur] 1
+INFO 2022/10/24 11:23:27  [win] blur
+INFO 2022/10/24 11:23:29  [focus] 1
+INFO 2022/10/24 11:23:30  [blur] 1
+INFO 2022/10/24 11:23:30  [win] blur
+INFO 2022/10/24 11:23:38  [focus] 1
+INFO 2022/10/24 11:23:38  [blur] 1
+INFO 2022/10/24 11:23:38  [win] blur
+INFO 2022/10/24 11:23:39  [focus] 1
+INFO 2022/10/24 11:23:39  [blur] 1
+INFO 2022/10/24 11:23:39  [win] blur
+INFO 2022/10/24 11:23:40  [focus] 1
+INFO 2022/10/24 11:23:40  [blur] 1
+INFO 2022/10/24 11:23:40  [win] blur
+INFO 2022/10/24 11:23:41  [focus] 1
+INFO 2022/10/24 11:23:41  [blur] 1
+INFO 2022/10/24 11:23:41  [win] blur
+INFO 2022/10/24 11:23:42  [focus] 1
+INFO 2022/10/24 11:23:42  [blur] 1
+INFO 2022/10/24 11:23:42  [win] blur
+INFO 2022/10/24 11:23:43  [focus] 1
+INFO 2022/10/24 11:23:43  [blur] 1
+INFO 2022/10/24 11:23:43  [win] blur
+INFO 2022/10/24 11:23:44  [focus] 1
+INFO 2022/10/24 11:23:44  [blur] 1
+INFO 2022/10/24 11:23:44  [win] blur
+INFO 2022/10/24 11:23:45  [focus] 1
+INFO 2022/10/24 11:23:45  [blur] 1
+INFO 2022/10/24 11:23:45  [win] blur
+INFO 2022/10/24 11:23:46  [focus] 1
+INFO 2022/10/24 11:23:47  [blur] 1
+INFO 2022/10/24 11:23:47  [win] blur
+INFO 2022/10/24 11:23:48  [focus] 1
+INFO 2022/10/24 11:23:49  [blur] 1
+INFO 2022/10/24 11:23:49  [win] blur
+INFO 2022/10/24 11:23:50  [focus] 1
+INFO 2022/10/24 11:23:50  [blur] 1
+INFO 2022/10/24 11:23:50  [win] blur
+INFO 2022/10/24 11:23:52  [focus] 1
+INFO 2022/10/24 11:23:53  [blur] 1
+INFO 2022/10/24 11:23:53  [win] blur
+INFO 2022/10/24 11:23:53  [focus] 1
+INFO 2022/10/24 11:23:53  [blur] 1
+INFO 2022/10/24 11:23:53  [win] blur
+INFO 2022/10/24 11:23:55  [focus] 1
+INFO 2022/10/24 11:23:55  [blur] 1
+INFO 2022/10/24 11:23:55  [win] blur
+INFO 2022/10/24 11:23:56  [focus] 1
+INFO 2022/10/24 11:23:56  [blur] 1
+INFO 2022/10/24 11:23:56  [win] blur
+INFO 2022/10/24 11:23:56  [focus] 1
+INFO 2022/10/24 11:23:56  [blur] 1
+INFO 2022/10/24 11:23:56  [win] blur
+INFO 2022/10/24 11:23:56  [focus] 1
+INFO 2022/10/24 11:23:57  [blur] 1
+INFO 2022/10/24 11:23:57  [win] blur
+INFO 2022/10/24 11:23:57  [focus] 1
+INFO 2022/10/24 11:23:57  [blur] 1
+INFO 2022/10/24 11:23:57  [win] blur
+INFO 2022/10/24 11:29:24  [focus] 1
+INFO 2022/10/24 11:29:25  [blur] 1
+INFO 2022/10/24 11:29:25  [win] blur
+INFO 2022/10/24 16:43:27  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/24 16:43:27  start LM in devVersion=false
+INFO 2022/10/24 16:43:27  [Raven] instanceKey = 14e16a27-ce56-4470-8bae-ff47432ce2cf
+INFO 2022/10/24 16:43:27  [watch L]
+INFO 2022/10/24 16:43:27  [L] installDate is 10/16/2022, trail remains: 7 days
+INFO 2022/10/24 16:43:27  [watch L] hasL: true
+INFO 2022/10/24 16:43:27  ------------------start------------------
+INFO 2022/10/24 16:43:27  typora version: 1.4.7
+INFO 2022/10/24 16:43:27  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/24 16:43:27  launch from abnormal quit
+INFO 2022/10/24 16:43:27  recoverWindow {"id":1,"path":""}
+INFO 2022/10/24 16:43:27  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+Failed to Renew L
+INFO 2022/10/24 16:43:27  ls put SLicense
+INFO 2022/10/24 16:43:27  [focus] 1
+INFO 2022/10/24 16:43:27  [blur] 1
+INFO 2022/10/24 16:43:27  [win] blur
+INFO 2022/10/24 16:43:27  [focus] 1
+INFO 2022/10/24 16:43:27  synced recovery
+INFO 2022/10/24 16:43:28  handle document.loadData
+INFO 2022/10/24 16:43:28  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/24 16:43:28  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/24 16:43:28  synced recovery
+INFO 2022/10/24 16:43:29  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/24 16:43:29  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/24 16:43:29  [blur] 1
+INFO 2022/10/24 16:43:29  [win] blur
+INFO 2022/10/24 16:43:29  [focus] 1
+INFO 2022/10/24 16:43:39  addRecentFolder
+INFO 2022/10/24 16:43:42  switchDocument 1 [/home/ayaka/学习资料/笔记/ArchLInux使用.md]
+INFO 2022/10/24 16:43:42  addRecentDocument
+INFO 2022/10/24 16:43:42  synced recovery
+INFO 2022/10/24 16:43:42  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/24 16:43:42  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/24 16:43:42  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/24 16:43:42  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/24 16:43:43  synced recovery
+INFO 2022/10/24 16:46:25  synced recovery
+INFO 2022/10/24 16:46:27  synced recovery
+INFO 2022/10/24 16:46:28  synced recovery
+INFO 2022/10/24 16:46:31  synced recovery
+INFO 2022/10/24 16:46:33  synced recovery
+INFO 2022/10/24 16:46:36  synced recovery
+INFO 2022/10/24 16:46:38  [blur] 1
+INFO 2022/10/24 16:46:38  [win] blur
+INFO 2022/10/24 17:04:11  [focus] 1
+INFO 2022/10/24 17:04:13  [blur] 1
+INFO 2022/10/24 17:04:13  [win] blur
+INFO 2022/10/24 17:04:13  [focus] 1
+INFO 2022/10/24 17:04:15  synced recovery
+INFO 2022/10/24 17:04:23  [blur] 1
+INFO 2022/10/24 17:04:23  [win] blur
+INFO 2022/10/24 17:04:23  [focus] 1
+INFO 2022/10/24 17:04:24  [blur] 1
+INFO 2022/10/24 17:04:24  [win] blur
+INFO 2022/10/24 17:04:24  [focus] 1
+INFO 2022/10/24 17:04:27  [blur] 1
+INFO 2022/10/24 17:04:27  [win] blur
+INFO 2022/10/24 17:04:28  [focus] 1
+INFO 2022/10/24 17:04:28  [blur] 1
+INFO 2022/10/24 17:04:28  [win] blur
+INFO 2022/10/24 17:04:33  [focus] 1
+INFO 2022/10/24 17:04:33  [blur] 1
+INFO 2022/10/24 17:04:33  [win] blur
+INFO 2022/10/24 17:04:35  [focus] 1
+INFO 2022/10/24 17:04:35  [blur] 1
+INFO 2022/10/24 17:04:35  [win] blur
+INFO 2022/10/24 17:04:38  [focus] 1
+INFO 2022/10/24 17:04:38  [blur] 1
+INFO 2022/10/24 17:04:38  [win] blur
+INFO 2022/10/24 17:04:50  [focus] 1
+INFO 2022/10/24 17:04:50  [blur] 1
+INFO 2022/10/24 17:04:50  [win] blur
+INFO 2022/10/24 17:04:51  [focus] 1
+INFO 2022/10/24 17:04:54  [blur] 1
+INFO 2022/10/24 17:04:54  [win] blur
+INFO 2022/10/24 17:06:42  [focus] 1
+INFO 2022/10/24 17:06:48  synced recovery
+INFO 2022/10/24 17:06:51  synced recovery
+INFO 2022/10/24 17:06:53  synced recovery
+INFO 2022/10/24 17:06:54  synced recovery
+INFO 2022/10/24 17:06:56  synced recovery
+INFO 2022/10/24 17:06:57  synced recovery
+INFO 2022/10/24 17:07:14  synced recovery
+INFO 2022/10/24 17:07:17  synced recovery
+INFO 2022/10/24 17:07:19  synced recovery
+INFO 2022/10/24 17:07:26  synced recovery
+INFO 2022/10/24 17:07:30  synced recovery
+INFO 2022/10/24 17:07:32  synced recovery
+INFO 2022/10/24 17:07:35  synced recovery
+INFO 2022/10/24 17:07:38  [blur] 1
+INFO 2022/10/24 17:07:38  [win] blur
+INFO 2022/10/24 17:08:37  [focus] 1
+INFO 2022/10/24 17:08:39  synced recovery
+INFO 2022/10/24 17:08:41  synced recovery
+INFO 2022/10/24 17:08:44  synced recovery
+INFO 2022/10/24 17:08:46  [blur] 1
+INFO 2022/10/24 17:08:46  [win] blur
+INFO 2022/10/24 17:08:52  [focus] 1
+INFO 2022/10/24 17:09:00  synced recovery
+INFO 2022/10/24 17:09:04  [blur] 1
+INFO 2022/10/24 17:09:04  [win] blur
+INFO 2022/10/24 17:09:04  synced recovery
+INFO 2022/10/24 17:09:09  [focus] 1
+INFO 2022/10/24 17:09:11  synced recovery
+INFO 2022/10/24 17:09:12  synced recovery
+INFO 2022/10/24 17:09:14  synced recovery
+INFO 2022/10/24 17:09:15  synced recovery
+INFO 2022/10/24 17:09:18  synced recovery
+INFO 2022/10/24 17:09:20  synced recovery
+INFO 2022/10/24 17:09:21  [blur] 1
+INFO 2022/10/24 17:09:21  [win] blur
+INFO 2022/10/24 17:09:37  [focus] 1
+INFO 2022/10/24 17:09:40  [blur] 1
+INFO 2022/10/24 17:09:40  [win] blur
+INFO 2022/10/24 17:09:40  synced recovery
+INFO 2022/10/24 17:09:43  [focus] 1
+INFO 2022/10/24 17:09:44  [blur] 1
+INFO 2022/10/24 17:09:44  [win] blur
+INFO 2022/10/24 17:09:45  synced recovery
+INFO 2022/10/24 17:10:06  [focus] 1
+INFO 2022/10/24 17:10:09  synced recovery
+INFO 2022/10/24 17:10:12  synced recovery
+INFO 2022/10/24 17:10:15  synced recovery
+INFO 2022/10/24 17:10:20  synced recovery
+INFO 2022/10/24 17:10:20  [blur] 1
+INFO 2022/10/24 17:10:20  [win] blur
+INFO 2022/10/24 17:10:20  synced recovery
+INFO 2022/10/24 17:10:21  [focus] 1
+INFO 2022/10/24 17:10:23  synced recovery
+INFO 2022/10/24 17:10:23  [blur] 1
+INFO 2022/10/24 17:10:23  [win] blur
+INFO 2022/10/24 17:10:33  [focus] 1
+INFO 2022/10/24 17:10:37  synced recovery
+INFO 2022/10/24 17:10:40  synced recovery
+INFO 2022/10/24 17:10:43  synced recovery
+INFO 2022/10/24 17:10:45  synced recovery
+INFO 2022/10/24 17:10:48  [blur] 1
+INFO 2022/10/24 17:10:48  [win] blur
+INFO 2022/10/24 17:10:48  synced recovery
+INFO 2022/10/24 17:10:48  [focus] 1
+INFO 2022/10/24 17:10:49  [blur] 1
+INFO 2022/10/24 17:10:49  [win] blur
+INFO 2022/10/24 17:10:57  [focus] 1
+INFO 2022/10/24 17:11:01  synced recovery
+INFO 2022/10/24 17:11:03  synced recovery
+INFO 2022/10/24 17:11:03  [blur] 1
+INFO 2022/10/24 17:11:03  [win] blur
+INFO 2022/10/24 17:11:04  [focus] 1
+INFO 2022/10/24 17:11:06  synced recovery
+INFO 2022/10/24 17:11:12  synced recovery
+INFO 2022/10/24 17:11:13  synced recovery
+INFO 2022/10/24 17:11:15  synced recovery
+INFO 2022/10/24 17:11:18  [blur] 1
+INFO 2022/10/24 17:11:18  [win] blur
+INFO 2022/10/24 17:11:18  [focus] 1
+INFO 2022/10/24 17:11:23  [blur] 1
+INFO 2022/10/24 17:11:23  [win] blur
+INFO 2022/10/24 17:11:23  synced recovery
+INFO 2022/10/24 17:11:23  synced recovery
+INFO 2022/10/24 17:11:24  [focus] 1
+INFO 2022/10/24 17:11:25  [blur] 1
+INFO 2022/10/24 17:11:25  [win] blur
+INFO 2022/10/24 17:11:44  [focus] 1
+INFO 2022/10/24 17:11:47  synced recovery
+INFO 2022/10/24 17:11:47  [blur] 1
+INFO 2022/10/24 17:11:47  [win] blur
+INFO 2022/10/24 17:11:48  [focus] 1
+INFO 2022/10/24 17:11:48  [blur] 1
+INFO 2022/10/24 17:11:48  [win] blur
+INFO 2022/10/24 17:11:48  synced recovery
+INFO 2022/10/24 17:11:50  [focus] 1
+INFO 2022/10/24 17:11:51  [blur] 1
+INFO 2022/10/24 17:11:51  [win] blur
+INFO 2022/10/24 17:11:51  synced recovery
+INFO 2022/10/24 17:11:58  [focus] 1
+INFO 2022/10/24 17:12:01  synced recovery
+INFO 2022/10/24 17:12:03  synced recovery
+INFO 2022/10/24 17:12:04  synced recovery
+INFO 2022/10/24 17:12:06  [blur] 1
+INFO 2022/10/24 17:12:06  [win] blur
+INFO 2022/10/24 17:12:08  [focus] 1
+INFO 2022/10/24 17:12:10  [blur] 1
+INFO 2022/10/24 17:12:10  [win] blur
+INFO 2022/10/24 17:13:47  [focus] 1
+INFO 2022/10/24 17:13:48  [blur] 1
+INFO 2022/10/24 17:13:48  [win] blur
+INFO 2022/10/24 17:13:49  [focus] 1
+INFO 2022/10/24 17:13:49  [blur] 1
+INFO 2022/10/24 17:13:49  [win] blur
+INFO 2022/10/24 17:15:06  [focus] 1
+INFO 2022/10/24 17:15:12  synced recovery
+INFO 2022/10/24 17:15:22  [blur] 1
+INFO 2022/10/24 17:15:22  [win] blur
+INFO 2022/10/24 17:17:27  [focus] 1
+INFO 2022/10/24 17:20:37  [blur] 1
+INFO 2022/10/24 17:20:37  [win] blur
+INFO 2022/10/24 17:20:37  [focus] 1
+INFO 2022/10/24 17:21:03  [blur] 1
+INFO 2022/10/24 17:21:03  [win] blur
+INFO 2022/10/24 17:21:03  [focus] 1
+INFO 2022/10/24 17:21:05  [blur] 1
+INFO 2022/10/24 17:21:05  [win] blur
+INFO 2022/10/24 17:21:05  [focus] 1
+INFO 2022/10/24 17:21:08  [blur] 1
+INFO 2022/10/24 17:21:08  [win] blur
+INFO 2022/10/24 17:21:08  [focus] 1
+INFO 2022/10/24 17:25:42  [blur] 1
+INFO 2022/10/24 17:25:42  [win] blur
+INFO 2022/10/24 17:25:42  [focus] 1
+INFO 2022/10/24 17:25:52  [blur] 1
+INFO 2022/10/24 17:25:52  [win] blur
+INFO 2022/10/24 17:25:52  [focus] 1
+INFO 2022/10/24 17:26:17  [blur] 1
+INFO 2022/10/24 17:26:17  [win] blur
+INFO 2022/10/24 17:26:17  [focus] 1
+INFO 2022/10/24 17:26:20  [blur] 1
+INFO 2022/10/24 17:26:20  [win] blur
+INFO 2022/10/24 17:26:20  [focus] 1
+INFO 2022/10/24 17:28:09  [blur] 1
+INFO 2022/10/24 17:28:09  [win] blur
+INFO 2022/10/24 17:30:51  [focus] 1
+INFO 2022/10/24 17:30:52  synced recovery
+INFO 2022/10/24 17:30:59  [blur] 1
+INFO 2022/10/24 17:30:59  [win] blur
+INFO 2022/10/24 17:30:59  [focus] 1
+INFO 2022/10/24 17:31:02  [blur] 1
+INFO 2022/10/24 17:31:02  [win] blur
+INFO 2022/10/24 17:31:02  [focus] 1
+INFO 2022/10/24 17:31:36  [blur] 1
+INFO 2022/10/24 17:31:36  [win] blur
+INFO 2022/10/24 17:32:49  [focus] 1
+INFO 2022/10/24 17:32:50  [blur] 1
+INFO 2022/10/24 17:32:50  [win] blur
+INFO 2022/10/24 17:32:50  [focus] 1
+INFO 2022/10/24 17:33:23  [blur] 1
+INFO 2022/10/24 17:33:23  [win] blur
+INFO 2022/10/24 17:33:23  [focus] 1
+INFO 2022/10/24 17:33:33  [blur] 1
+INFO 2022/10/24 17:33:33  [win] blur
+INFO 2022/10/24 17:33:33  [focus] 1
+INFO 2022/10/24 17:33:38  synced recovery
+INFO 2022/10/24 17:33:38  ----------------before-quit-----------------
+INFO 2022/10/24 17:33:38  ------------------will-quit------------------
+INFO 2022/10/24 17:33:38  -----------------quit------------------
+INFO 2022/10/24 17:33:38  closeLogging
+INFO 2022/10/24 17:42:13  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/24 17:42:13  start LM in devVersion=false
+INFO 2022/10/24 17:42:13  [Raven] instanceKey = e1af6171-a269-4151-bd08-7f7fb2b18a25
+INFO 2022/10/24 17:42:13  [watch L]
+INFO 2022/10/24 17:42:13  [L] installDate is 10/16/2022, trail remains: 7 days
+INFO 2022/10/24 17:42:13  [watch L] hasL: true
+INFO 2022/10/24 17:42:13  ------------------start------------------
+INFO 2022/10/24 17:42:13  typora version: 1.4.7
+INFO 2022/10/24 17:42:13  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/24 17:42:13  addRecentDocument
+INFO 2022/10/24 17:42:13  synced recovery
+INFO 2022/10/24 17:42:13  [focus] 1
+INFO 2022/10/24 17:42:13  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+Failed to Renew L
+INFO 2022/10/24 17:42:13  ls put SLicense
+INFO 2022/10/24 17:42:14  handle document.loadData
+INFO 2022/10/24 17:42:14  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/24 17:42:14  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/24 17:42:14  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/24 17:42:14  synced recovery
+INFO 2022/10/24 17:42:14  ----------------before-quit-----------------
+INFO 2022/10/24 17:42:14  ------------------will-quit------------------
+INFO 2022/10/24 17:42:14  -----------------quit------------------
+INFO 2022/10/24 17:42:14  closeLogging
+INFO 2022/10/24 17:42:15  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/24 17:42:15  start LM in devVersion=false
+INFO 2022/10/24 17:42:15  [Raven] instanceKey = f79dec2b-efb4-491f-b7cf-96dee8231481
+INFO 2022/10/24 17:42:15  [watch L]
+INFO 2022/10/24 17:42:15  [L] installDate is 10/16/2022, trail remains: 7 days
+INFO 2022/10/24 17:42:15  [watch L] hasL: true
+INFO 2022/10/24 17:42:15  ------------------start------------------
+INFO 2022/10/24 17:42:15  typora version: 1.4.7
+INFO 2022/10/24 17:42:15  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/24 17:42:15  addRecentDocument
+INFO 2022/10/24 17:42:15  synced recovery
+INFO 2022/10/24 17:42:15  [focus] 1
+INFO 2022/10/24 17:42:15  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/24 17:42:16  ls put SLicense
+INFO 2022/10/24 17:42:16  handle document.loadData
+INFO 2022/10/24 17:42:16  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/24 17:42:16  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/24 17:42:16  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/24 17:42:17  synced recovery
+INFO 2022/10/24 17:42:17  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/24 17:42:17  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/24 17:43:03  synced recovery
+INFO 2022/10/24 17:43:04  synced recovery
+INFO 2022/10/24 17:43:06  [blur] 1
+INFO 2022/10/24 17:43:06  [win] blur
+INFO 2022/10/24 17:43:07  [focus] 1
+INFO 2022/10/24 17:43:07  [blur] 1
+INFO 2022/10/24 17:43:07  [win] blur
+INFO 2022/10/24 17:43:07  [focus] 1
+INFO 2022/10/24 17:43:08  [blur] 1
+INFO 2022/10/24 17:43:08  [win] blur
+INFO 2022/10/24 17:43:08  [focus] 1
+INFO 2022/10/24 17:43:11  [blur] 1
+INFO 2022/10/24 17:43:11  [win] blur
+INFO 2022/10/24 17:43:11  [focus] 1
+INFO 2022/10/24 17:43:11  [blur] 1
+INFO 2022/10/24 17:43:11  [win] blur
+INFO 2022/10/24 17:43:12  [focus] 1
+INFO 2022/10/24 17:43:12  [blur] 1
+INFO 2022/10/24 17:43:12  [win] blur
+INFO 2022/10/24 17:43:55  [focus] 1
+INFO 2022/10/24 17:43:56  [blur] 1
+INFO 2022/10/24 17:43:56  [win] blur

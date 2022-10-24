@@ -1,0 +1,120 @@
+{
+    "layer": "top",
+    "modules-left": [
+        "custom/launcher",
+        "cpu",
+        "memory",
+        "tray",
+        "wlr/workspaces"
+    ],
+    "modules-center": [
+    ],
+    "modules-right": [
+        "custom/updates",
+        "backlight",
+        "pulseaudio",
+        "network",
+        "clock",
+        "battery",
+        "custom/power"
+    ], 
+
+    "wlr/workspaces": {
+        "format": "{icon}",
+        "on-click": "activate",
+        "format-icons": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "61": " I",
+            "62": " L",
+            "63": " M",
+            "64": " C",
+            "65": " T",
+            "66": " U",
+            "default":" "
+        }, 
+        "sort-by-number": true
+    },
+    "pulseaudio": {
+        "tooltip": false,
+        "scroll-step": 5,
+        "format": "{icon} {volume}%",
+        "format-muted": "{icon} {volume}%",
+        "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+        "format-icons": {
+            "default": [
+                "",
+                "",
+                ""
+            ]
+        }
+    },
+    "network": {
+        "tooltip": false,
+        "format-wifi": "  {essid}",
+        "format-ethernet": "nmtui"
+    },
+    "backlight": {
+        "tooltip": false,
+        "format": " {}%",
+        "interval": 1,
+        "on-scroll-up": "light -A 5",
+        "on-scroll-down": "light -U 5"
+    },
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 20
+        },
+        "format": "{icon}  {capacity}%",
+        "format-charging": " {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-alt": "{time} {icon} ",
+        "format-icons": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "tray": {
+        "icon-size": 18,
+        "spacing": 10,
+        "show-passive-items": true
+    },
+    "clock": {
+        "format": "{: %I:%M %p   %d/%m/%Y}"
+    },
+    "cpu": {
+        "interval": 15,
+        "format": " {}%",
+        "max-length": 10
+    },
+    "memory": {
+        "interval": 30,
+        "format": " {}%",
+        "max-length": 10
+    },
+    "custom/launcher": {
+        "format": " ",
+        "on-click": "bash $HOME/.config/waybar/app-switch.sh $HOME/.config/rofi/launchers/type-2/launcher.sh rofi",	
+        "on-click-right": "killall rofi"
+    },
+    "custom/power": {
+        "format": "",
+        "on-click": "wlogout"
+    },
+    "custom/updates": {
+        "format": "{} Update(s)",
+        "exec": "checkupdates | wc -l",
+        "exec-if": "[[ $(checkupdates | wc -l) != 0 ]]",
+        "interval": 360,
+        "on-click": "kitty -e paru -Syu && notify-send 'The system has been updated' "
+    }
+}

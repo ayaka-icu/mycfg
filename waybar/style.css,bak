@@ -1,0 +1,157 @@
+* {
+    border: none;
+    border-radius: 14px;
+    font-family: "FiraCode", "MiSans";
+    font-size: 15px;
+    font-weight: bold;
+    min-height: 0;
+}
+
+#waybar {
+    font-family: "FiraCode", "MiSans";
+}
+
+window#waybar {
+    background: rgba(255, 255, 255, 0);
+    /*border-bottom: 3px solid rgba(100, 114, 125, 0.5);*/
+    color: #e5e9f0;
+    border-radius: 0;
+}
+
+#workspaces button {
+    padding: 0 1px;
+    background: transparent;
+    color: #4d5362;
+}
+
+#workspaces button.focused {
+    background: #4d5362;
+    color: #abe9b3;
+}
+
+#workspaces button.urgent {
+    background-color: #bf616a;
+    color: #f28fad;
+}
+
+#mode {
+    background: #4d5362;
+    border-bottom: 3px solid #ffffff;
+}
+
+#clock,
+#battery,
+#cpu,
+#memory,
+#temperature,
+#backlight,
+#network,
+#pulseaudio,
+#custom-media,
+#tray,
+#mode,
+#idle_inhibitor,
+#window {
+    padding: 2 15px;
+    margin: 4px 2px;
+    background: #302d41;
+}
+#window {
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#language {
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#window {
+    background: #302d41;
+    color: #d9e0ee;
+}
+
+#clock {
+    color: #89dceb;
+}
+
+#battery {
+    color: #b4befe;
+}
+
+#battery.charging {
+    color: #fae3b0;
+}
+
+@keyframes blink {
+    to {
+        /*background-color: #ffffff;*/
+        color: #000000;
+    }
+}
+
+#battery.critical:not(.charging) {
+    color: #f28fad;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#cpu {
+    color: #abe9b3;
+}
+
+#memory {
+    color: #b5e8e0;
+}
+
+#backlight {
+    color: #ddb6f2;
+}
+
+#network {
+    color: #96cdfb;
+}
+
+#network.disconnected {
+    color: #fae3b0;
+}
+
+#pulseaudio {
+    color: #f2cdcd;
+}
+
+#pulseaudio.muted {
+    color: #fae3b0;
+}
+
+#custom-media {
+    color: #e8a2af;
+}
+
+.custom-vlc {
+    background: #ffa000;
+}
+
+#temperature {
+    color: #ca4754;
+}
+
+#temperature.critical {
+    color: #f1c232;
+}
+
+#tray {
+    color: #ca4754;
+}
+
+#idle_inhibitor {
+    background-color: #2d3436;
+}
+
+#idle_inhibitor.activated {
+    background-color: #ecf0f1;
+    color: #2d3436;
+}

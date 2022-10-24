@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.file_logs/
+logs/
+log/
+.local.zshrc
+*.log
+**/dump.rdb
+**/.DS_Store
+**/catch
+cache/
+fzfhistory
+config/private.zsh
