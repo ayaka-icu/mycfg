@@ -3790,3 +3790,755 @@ INFO 2022/10/24 17:43:12  [win] blur
 INFO 2022/10/24 17:43:55  [focus] 1
 INFO 2022/10/24 17:43:56  [blur] 1
 INFO 2022/10/24 17:43:56  [win] blur
+INFO 2022/10/24 18:32:08  [focus] 1
+INFO 2022/10/24 18:32:08  [blur] 1
+INFO 2022/10/24 18:32:08  [win] blur
+INFO 2022/10/24 18:32:13  [focus] 1
+INFO 2022/10/24 18:32:13  [blur] 1
+INFO 2022/10/24 18:32:13  [win] blur
+INFO 2022/10/24 18:32:15  [focus] 1
+INFO 2022/10/25 20:44:03  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/25 20:44:03  start LM in devVersion=false
+INFO 2022/10/25 20:44:03  [Raven] instanceKey = bfc0e893-f1c3-4d66-bb5f-483e67e59fb9
+INFO 2022/10/25 20:44:03  [watch L]
+INFO 2022/10/25 20:44:03  [L] installDate is 10/16/2022, trail remains: 6 days
+INFO 2022/10/25 20:44:03  [watch L] hasL: true
+INFO 2022/10/25 20:44:03  ------------------start------------------
+INFO 2022/10/25 20:44:03  typora version: 1.4.7
+INFO 2022/10/25 20:44:03  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/25 20:44:03  launch from abnormal quit
+INFO 2022/10/25 20:44:03  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/ArchLInux使用.md","useCRLF":false,"hasUnsaved":false,"scrollPos":237,"syncDate":1666604584799,"mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/10/25 20:44:03  addRecentDocument
+INFO 2022/10/25 20:44:04  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+Failed to Renew L
+INFO 2022/10/25 20:44:04  ls put SLicense
+INFO 2022/10/25 20:44:04  [focus] 1
+INFO 2022/10/25 20:44:04  [blur] 1
+INFO 2022/10/25 20:44:04  [win] blur
+INFO 2022/10/25 20:44:04  [focus] 1
+INFO 2022/10/25 20:44:04  synced recovery
+INFO 2022/10/25 20:44:05  handle document.loadData
+INFO 2022/10/25 20:44:05  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/25 20:44:05  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/25 20:44:05  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/25 20:44:05  synced recovery
+INFO 2022/10/25 20:44:05  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/25 20:44:05  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/25 20:44:06  [blur] 1
+INFO 2022/10/25 20:44:06  [win] blur
+INFO 2022/10/25 20:44:07  [focus] 1
+INFO 2022/10/25 20:44:09  [blur] 1
+INFO 2022/10/25 20:44:09  [win] blur
+INFO 2022/10/25 20:44:09  [focus] 1
+INFO 2022/10/25 20:44:09  [blur] 1
+INFO 2022/10/25 20:44:09  [win] blur
+INFO 2022/10/25 12:48:47  [focus] 1
+INFO 2022/10/25 12:48:56  synced recovery
+INFO 2022/10/25 12:48:58  synced recovery
+INFO 2022/10/25 12:49:02  synced recovery
+INFO 2022/10/25 12:49:04  synced recovery
+INFO 2022/10/25 12:49:09  synced recovery
+INFO 2022/10/25 12:49:10  [blur] 1
+INFO 2022/10/25 12:49:10  [win] blur
+INFO 2022/10/25 12:52:25  [focus] 1
+INFO 2022/10/25 12:52:25  [blur] 1
+INFO 2022/10/25 12:52:25  [win] blur
+INFO 2022/10/25 12:52:27  [focus] 1
+INFO 2022/10/25 12:52:30  [blur] 1
+INFO 2022/10/25 12:52:30  [win] blur
+INFO 2022/10/25 12:52:31  [focus] 1
+INFO 2022/10/25 12:52:32  [blur] 1
+INFO 2022/10/25 12:52:32  [win] blur
+INFO 2022/10/25 12:52:36  [focus] 1
+INFO 2022/10/25 12:52:42  synced recovery
+INFO 2022/10/25 12:52:45  synced recovery
+INFO 2022/10/25 12:52:48  synced recovery
+INFO 2022/10/25 12:52:53  synced recovery
+INFO 2022/10/25 12:52:59  synced recovery
+INFO 2022/10/25 12:53:01  [blur] 1
+INFO 2022/10/25 12:53:01  [win] blur
+INFO 2022/10/25 12:55:11  [focus] 1
+INFO 2022/10/25 12:56:05  [blur] 1
+INFO 2022/10/25 12:56:05  [win] blur
+INFO 2022/10/25 12:56:05  [focus] 1
+INFO 2022/10/25 12:56:05  [blur] 1
+INFO 2022/10/25 12:56:05  [win] blur
+INFO 2022/10/25 12:56:18  [focus] 1
+INFO 2022/10/25 12:56:25  synced recovery
+INFO 2022/10/25 12:56:29  synced recovery
+INFO 2022/10/25 12:56:31  synced recovery
+INFO 2022/10/25 12:56:33  synced recovery
+INFO 2022/10/25 12:56:38  synced recovery
+INFO 2022/10/25 12:57:00  [blur] 1
+INFO 2022/10/25 12:57:00  [win] blur
+INFO 2022/10/25 12:57:03  [focus] 1
+INFO 2022/10/25 12:57:06  synced recovery
+INFO 2022/10/25 12:57:10  synced recovery
+INFO 2022/10/25 12:57:16  synced recovery
+INFO 2022/10/25 12:57:21  synced recovery
+INFO 2022/10/25 12:57:25  synced recovery
+INFO 2022/10/25 12:57:27  synced recovery
+INFO 2022/10/25 12:57:27  [blur] 1
+INFO 2022/10/25 12:57:27  [win] blur
+INFO 2022/10/25 12:57:36  [focus] 1
+INFO 2022/10/25 12:57:39  synced recovery
+INFO 2022/10/25 12:57:39  [blur] 1
+INFO 2022/10/25 12:57:39  [win] blur
+INFO 2022/10/25 13:02:24  [focus] 1
+INFO 2022/10/25 13:02:25  [blur] 1
+INFO 2022/10/25 13:02:25  [win] blur
+INFO 2022/10/25 13:06:45  [focus] 1
+INFO 2022/10/25 13:06:45  [blur] 1
+INFO 2022/10/25 13:06:45  [win] blur
+INFO 2022/10/25 13:06:52  [focus] 1
+INFO 2022/10/25 13:06:58  [blur] 1
+INFO 2022/10/25 13:06:58  [win] blur
+INFO 2022/10/25 13:06:59  [focus] 1
+INFO 2022/10/25 13:07:00  [blur] 1
+INFO 2022/10/25 13:07:00  [win] blur
+INFO 2022/10/25 13:09:01  [focus] 1
+INFO 2022/10/25 13:09:27  [blur] 1
+INFO 2022/10/25 13:09:27  [win] blur
+INFO 2022/10/25 13:10:11  [focus] 1
+INFO 2022/10/25 13:10:57  [blur] 1
+INFO 2022/10/25 13:10:57  [win] blur
+INFO 2022/10/25 13:11:09  [focus] 1
+INFO 2022/10/25 13:11:09  [blur] 1
+INFO 2022/10/25 13:11:09  [win] blur
+INFO 2022/10/25 13:11:35  [focus] 1
+INFO 2022/10/25 13:11:36  [blur] 1
+INFO 2022/10/25 13:11:36  [win] blur
+INFO 2022/10/25 13:12:35  [focus] 1
+INFO 2022/10/25 13:12:38  [blur] 1
+INFO 2022/10/25 13:12:38  [win] blur
+INFO 2022/10/25 13:12:38  [focus] 1
+INFO 2022/10/25 13:12:42  synced recovery
+INFO 2022/10/25 13:12:43  synced recovery
+INFO 2022/10/25 13:12:49  synced recovery
+INFO 2022/10/25 13:12:51  synced recovery
+INFO 2022/10/25 13:12:53  synced recovery
+INFO 2022/10/25 13:12:56  synced recovery
+INFO 2022/10/25 13:13:03  synced recovery
+INFO 2022/10/25 13:13:06  synced recovery
+INFO 2022/10/25 13:13:12  synced recovery
+INFO 2022/10/25 13:13:13  synced recovery
+INFO 2022/10/25 13:13:14  synced recovery
+INFO 2022/10/25 13:13:19  synced recovery
+INFO 2022/10/25 13:13:22  synced recovery
+INFO 2022/10/25 13:13:29  synced recovery
+INFO 2022/10/25 13:13:31  synced recovery
+INFO 2022/10/25 13:13:32  synced recovery
+INFO 2022/10/25 13:13:38  synced recovery
+INFO 2022/10/25 13:13:40  synced recovery
+INFO 2022/10/25 13:13:45  synced recovery
+INFO 2022/10/25 13:13:47  synced recovery
+INFO 2022/10/25 13:13:49  synced recovery
+INFO 2022/10/25 13:13:52  synced recovery
+INFO 2022/10/25 13:13:54  synced recovery
+INFO 2022/10/25 13:13:57  synced recovery
+INFO 2022/10/25 13:14:01  synced recovery
+INFO 2022/10/25 13:14:03  synced recovery
+INFO 2022/10/25 13:14:07  synced recovery
+INFO 2022/10/25 13:14:13  synced recovery
+INFO 2022/10/25 13:14:16  synced recovery
+INFO 2022/10/25 13:14:18  synced recovery
+INFO 2022/10/25 13:14:25  synced recovery
+INFO 2022/10/25 13:14:27  synced recovery
+INFO 2022/10/25 13:14:29  [blur] 1
+INFO 2022/10/25 13:14:29  [win] blur
+INFO 2022/10/25 13:15:52  [focus] 1
+INFO 2022/10/25 13:15:53  [blur] 1
+INFO 2022/10/25 13:15:53  [win] blur
+INFO 2022/10/25 13:16:34  [focus] 1
+INFO 2022/10/25 13:16:44  synced recovery
+INFO 2022/10/25 13:16:45  synced recovery
+INFO 2022/10/25 13:16:48  synced recovery
+INFO 2022/10/25 13:16:52  synced recovery
+INFO 2022/10/25 13:17:38  [blur] 1
+INFO 2022/10/25 13:17:38  [win] blur
+INFO 2022/10/25 13:17:42  [focus] 1
+INFO 2022/10/25 13:17:45  [blur] 1
+INFO 2022/10/25 13:17:45  [win] blur
+INFO 2022/10/25 13:17:45  synced recovery
+INFO 2022/10/25 13:17:45  [focus] 1
+INFO 2022/10/25 13:17:49  synced recovery
+INFO 2022/10/25 13:17:55  [blur] 1
+INFO 2022/10/25 13:17:55  [win] blur
+INFO 2022/10/25 13:17:55  synced recovery
+INFO 2022/10/25 13:17:56  [focus] 1
+INFO 2022/10/25 13:17:56  [blur] 1
+INFO 2022/10/25 13:17:56  [win] blur
+INFO 2022/10/25 13:18:20  [focus] 1
+INFO 2022/10/25 13:19:05  [blur] 1
+INFO 2022/10/25 13:19:05  [win] blur
+INFO 2022/10/25 13:20:52  [focus] 1
+INFO 2022/10/25 13:20:52  [blur] 1
+INFO 2022/10/25 13:20:52  [win] blur
+INFO 2022/10/25 13:20:52  [focus] 1
+INFO 2022/10/25 13:20:52  [blur] 1
+INFO 2022/10/25 13:20:52  [win] blur
+INFO 2022/10/25 13:21:54  [focus] 1
+INFO 2022/10/25 13:21:54  [blur] 1
+INFO 2022/10/25 13:21:54  [win] blur
+INFO 2022/10/25 13:22:30  [focus] 1
+INFO 2022/10/25 13:22:30  [blur] 1
+INFO 2022/10/25 13:22:30  [win] blur
+INFO 2022/10/25 13:22:30  [focus] 1
+INFO 2022/10/25 13:22:33  [blur] 1
+INFO 2022/10/25 13:22:33  [win] blur
+INFO 2022/10/25 13:22:33  [focus] 1
+INFO 2022/10/25 13:22:42  synced recovery
+INFO 2022/10/25 13:22:44  synced recovery
+INFO 2022/10/25 13:22:47  synced recovery
+INFO 2022/10/25 13:22:53  synced recovery
+INFO 2022/10/25 13:22:58  [blur] 1
+INFO 2022/10/25 13:22:58  [win] blur
+INFO 2022/10/25 13:22:58  [focus] 1
+INFO 2022/10/25 13:23:07  [blur] 1
+INFO 2022/10/25 13:23:07  [win] blur
+INFO 2022/10/25 13:23:10  [focus] 1
+INFO 2022/10/25 13:23:21  [blur] 1
+INFO 2022/10/25 13:23:21  [win] blur
+INFO 2022/10/25 13:23:21  [focus] 1
+INFO 2022/10/25 13:23:24  synced recovery
+INFO 2022/10/25 13:23:27  synced recovery
+INFO 2022/10/25 13:23:28  synced recovery
+INFO 2022/10/25 13:23:31  synced recovery
+INFO 2022/10/25 13:23:33  synced recovery
+INFO 2022/10/25 13:23:36  synced recovery
+INFO 2022/10/25 13:23:39  synced recovery
+INFO 2022/10/25 13:23:42  synced recovery
+INFO 2022/10/25 13:23:44  synced recovery
+INFO 2022/10/25 13:23:46  [blur] 1
+INFO 2022/10/25 13:23:46  [win] blur
+INFO 2022/10/25 13:23:46  [focus] 1
+INFO 2022/10/25 13:23:47  synced recovery
+INFO 2022/10/25 13:23:50  [blur] 1
+INFO 2022/10/25 13:23:50  [win] blur
+INFO 2022/10/25 13:27:19  [focus] 1
+INFO 2022/10/25 13:27:40  [blur] 1
+INFO 2022/10/25 13:27:40  [win] blur
+INFO 2022/10/25 13:27:40  [focus] 1
+INFO 2022/10/25 13:27:40  [blur] 1
+INFO 2022/10/25 13:27:40  [win] blur
+INFO 2022/10/25 13:27:51  [focus] 1
+INFO 2022/10/25 13:28:03  synced recovery
+INFO 2022/10/25 13:28:04  synced recovery
+INFO 2022/10/25 13:28:06  synced recovery
+INFO 2022/10/25 13:28:09  synced recovery
+INFO 2022/10/25 13:28:12  synced recovery
+INFO 2022/10/25 13:28:16  synced recovery
+INFO 2022/10/25 13:28:23  [blur] 1
+INFO 2022/10/25 13:28:23  [win] blur
+INFO 2022/10/25 13:28:23  [focus] 1
+INFO 2022/10/25 13:28:27  synced recovery
+INFO 2022/10/25 13:28:28  synced recovery
+INFO 2022/10/25 13:28:45  [blur] 1
+INFO 2022/10/25 13:28:45  [win] blur
+INFO 2022/10/25 13:28:51  [focus] 1
+INFO 2022/10/25 13:28:57  [blur] 1
+INFO 2022/10/25 13:28:57  [win] blur
+INFO 2022/10/25 13:28:57  [focus] 1
+INFO 2022/10/25 13:28:59  synced recovery
+INFO 2022/10/25 13:29:10  [blur] 1
+INFO 2022/10/25 13:29:10  [win] blur
+INFO 2022/10/25 13:29:13  [focus] 1
+INFO 2022/10/25 13:29:15  synced recovery
+INFO 2022/10/25 13:29:19  synced recovery
+INFO 2022/10/25 13:29:33  synced recovery
+INFO 2022/10/25 13:29:35  synced recovery
+INFO 2022/10/25 13:29:36  synced recovery
+INFO 2022/10/25 13:29:40  synced recovery
+INFO 2022/10/25 13:29:42  synced recovery
+INFO 2022/10/25 13:29:53  [blur] 1
+INFO 2022/10/25 13:29:53  [win] blur
+INFO 2022/10/25 13:29:55  [focus] 1
+INFO 2022/10/25 13:29:57  synced recovery
+INFO 2022/10/25 13:30:08  synced recovery
+INFO 2022/10/25 13:30:15  [blur] 1
+INFO 2022/10/25 13:30:15  [win] blur
+INFO 2022/10/25 13:30:41  [focus] 1
+INFO 2022/10/25 13:30:44  [blur] 1
+INFO 2022/10/25 13:30:44  [win] blur
+INFO 2022/10/25 13:33:07  [focus] 1
+INFO 2022/10/25 13:33:08  [blur] 1
+INFO 2022/10/25 13:33:08  [win] blur
+INFO 2022/10/25 13:33:43  [focus] 1
+INFO 2022/10/25 13:34:45  [blur] 1
+INFO 2022/10/25 13:34:45  [win] blur
+INFO 2022/10/25 13:34:52  [focus] 1
+INFO 2022/10/25 13:34:56  synced recovery
+INFO 2022/10/25 13:34:58  synced recovery
+INFO 2022/10/25 13:35:00  [blur] 1
+INFO 2022/10/25 13:35:00  [win] blur
+INFO 2022/10/25 13:35:04  [focus] 1
+INFO 2022/10/25 13:35:06  synced recovery
+INFO 2022/10/25 13:35:08  File.option.noHintForOpenLink=true;
+INFO 2022/10/25 13:35:16  [blur] 1
+INFO 2022/10/25 13:35:16  [win] blur
+INFO 2022/10/25 13:35:17  [focus] 1
+INFO 2022/10/25 13:35:20  synced recovery
+INFO 2022/10/25 13:35:26  synced recovery
+INFO 2022/10/25 13:35:28  synced recovery
+INFO 2022/10/25 13:35:30  synced recovery
+INFO 2022/10/25 13:35:31  synced recovery
+INFO 2022/10/25 13:35:33  synced recovery
+INFO 2022/10/25 13:35:34  synced recovery
+INFO 2022/10/25 13:35:36  synced recovery
+INFO 2022/10/25 13:35:39  [blur] 1
+INFO 2022/10/25 13:35:39  [win] blur
+INFO 2022/10/25 13:35:39  [focus] 1
+INFO 2022/10/25 13:36:05  synced recovery
+INFO 2022/10/25 13:36:06  synced recovery
+INFO 2022/10/25 13:36:09  synced recovery
+INFO 2022/10/25 13:36:12  synced recovery
+INFO 2022/10/25 13:36:14  synced recovery
+INFO 2022/10/25 13:36:18  synced recovery
+INFO 2022/10/25 13:36:19  [blur] 1
+INFO 2022/10/25 13:36:19  [win] blur
+INFO 2022/10/25 13:36:19  [focus] 1
+INFO 2022/10/25 13:36:26  synced recovery
+INFO 2022/10/25 13:36:28  synced recovery
+INFO 2022/10/25 13:36:29  [blur] 1
+INFO 2022/10/25 13:36:29  [win] blur
+INFO 2022/10/25 13:36:44  [focus] 1
+INFO 2022/10/25 13:36:44  [blur] 1
+INFO 2022/10/25 13:36:44  [win] blur
+INFO 2022/10/25 13:37:19  [focus] 1
+INFO 2022/10/25 13:37:26  synced recovery
+INFO 2022/10/25 13:37:29  synced recovery
+INFO 2022/10/25 13:37:33  synced recovery
+INFO 2022/10/25 13:37:43  synced recovery
+INFO 2022/10/25 13:37:45  synced recovery
+INFO 2022/10/25 13:37:48  synced recovery
+INFO 2022/10/25 13:37:53  synced recovery
+INFO 2022/10/25 13:37:54  [blur] 1
+INFO 2022/10/25 13:37:54  [win] blur
+INFO 2022/10/25 13:37:54  [focus] 1
+INFO 2022/10/25 13:37:56  [blur] 1
+INFO 2022/10/25 13:37:56  [win] blur
+INFO 2022/10/25 13:37:58  [focus] 1
+INFO 2022/10/25 13:38:00  synced recovery
+INFO 2022/10/25 13:38:02  synced recovery
+INFO 2022/10/25 13:38:05  synced recovery
+INFO 2022/10/25 13:38:05  [blur] 1
+INFO 2022/10/25 13:38:05  [win] blur
+INFO 2022/10/25 13:38:08  [focus] 1
+INFO 2022/10/25 13:38:11  synced recovery
+INFO 2022/10/25 13:38:13  synced recovery
+INFO 2022/10/25 13:38:14  synced recovery
+INFO 2022/10/25 13:38:19  synced recovery
+INFO 2022/10/25 13:38:21  [blur] 1
+INFO 2022/10/25 13:38:21  [win] blur
+INFO 2022/10/25 13:38:26  [focus] 1
+INFO 2022/10/25 13:38:38  synced recovery
+INFO 2022/10/25 13:38:40  synced recovery
+INFO 2022/10/25 13:38:43  synced recovery
+INFO 2022/10/25 13:38:45  synced recovery
+INFO 2022/10/25 13:38:57  synced recovery
+INFO 2022/10/25 13:39:02  synced recovery
+INFO 2022/10/25 13:39:06  [blur] 1
+INFO 2022/10/25 13:39:06  [win] blur
+INFO 2022/10/25 13:39:06  [focus] 1
+INFO 2022/10/25 13:39:08  [blur] 1
+INFO 2022/10/25 13:39:08  [win] blur
+INFO 2022/10/25 13:39:08  [focus] 1
+INFO 2022/10/25 13:39:14  [blur] 1
+INFO 2022/10/25 13:39:14  [win] blur
+INFO 2022/10/25 13:39:15  [focus] 1
+INFO 2022/10/25 13:39:19  synced recovery
+INFO 2022/10/25 13:39:20  synced recovery
+INFO 2022/10/25 13:39:24  [blur] 1
+INFO 2022/10/25 13:39:24  [win] blur
+INFO 2022/10/25 13:39:35  [focus] 1
+INFO 2022/10/25 13:39:43  synced recovery
+INFO 2022/10/25 13:39:45  synced recovery
+INFO 2022/10/25 13:39:49  synced recovery
+INFO 2022/10/25 13:39:53  synced recovery
+INFO 2022/10/25 13:39:56  synced recovery
+INFO 2022/10/25 13:40:04  synced recovery
+INFO 2022/10/25 13:40:05  synced recovery
+INFO 2022/10/25 13:40:10  synced recovery
+INFO 2022/10/25 13:40:12  synced recovery
+INFO 2022/10/25 13:40:15  synced recovery
+INFO 2022/10/25 13:40:19  [blur] 1
+INFO 2022/10/25 13:40:19  [win] blur
+INFO 2022/10/25 13:40:19  synced recovery
+INFO 2022/10/25 13:40:20  [focus] 1
+INFO 2022/10/25 13:40:23  synced recovery
+INFO 2022/10/25 13:40:34  [blur] 1
+INFO 2022/10/25 13:40:34  [win] blur
+INFO 2022/10/25 13:40:34  [focus] 1
+INFO 2022/10/25 13:40:35  synced recovery
+INFO 2022/10/25 13:40:39  synced recovery
+INFO 2022/10/25 13:40:45  synced recovery
+INFO 2022/10/25 13:40:46  synced recovery
+INFO 2022/10/25 13:40:49  synced recovery
+INFO 2022/10/25 13:40:53  synced recovery
+INFO 2022/10/25 13:40:59  synced recovery
+INFO 2022/10/25 13:41:01  synced recovery
+INFO 2022/10/25 13:41:03  synced recovery
+INFO 2022/10/25 13:41:05  synced recovery
+INFO 2022/10/25 13:41:07  synced recovery
+INFO 2022/10/25 13:41:09  synced recovery
+INFO 2022/10/25 13:41:15  synced recovery
+INFO 2022/10/25 13:41:17  synced recovery
+INFO 2022/10/25 13:41:22  synced recovery
+INFO 2022/10/25 13:41:24  synced recovery
+INFO 2022/10/25 13:41:25  synced recovery
+INFO 2022/10/25 13:41:29  synced recovery
+INFO 2022/10/25 13:41:30  synced recovery
+INFO 2022/10/25 13:41:33  synced recovery
+INFO 2022/10/25 13:41:38  synced recovery
+INFO 2022/10/25 13:41:43  [blur] 1
+INFO 2022/10/25 13:41:43  [win] blur
+INFO 2022/10/25 13:41:44  [focus] 1
+INFO 2022/10/25 13:41:46  synced recovery
+INFO 2022/10/25 13:41:50  synced recovery
+INFO 2022/10/25 13:41:54  synced recovery
+INFO 2022/10/25 13:41:55  synced recovery
+INFO 2022/10/25 13:41:57  synced recovery
+INFO 2022/10/25 13:42:01  synced recovery
+INFO 2022/10/25 13:42:03  [blur] 1
+INFO 2022/10/25 13:42:03  [win] blur
+INFO 2022/10/25 13:42:05  [focus] 1
+INFO 2022/10/25 13:42:07  synced recovery
+INFO 2022/10/25 13:42:12  synced recovery
+INFO 2022/10/25 13:42:14  synced recovery
+INFO 2022/10/25 13:42:16  synced recovery
+INFO 2022/10/25 13:42:17  synced recovery
+INFO 2022/10/25 13:42:19  synced recovery
+INFO 2022/10/25 13:42:20  synced recovery
+INFO 2022/10/25 13:42:22  synced recovery
+INFO 2022/10/25 13:42:27  synced recovery
+INFO 2022/10/25 13:42:28  synced recovery
+INFO 2022/10/25 13:42:31  synced recovery
+INFO 2022/10/25 13:43:05  synced recovery
+INFO 2022/10/25 13:43:07  synced recovery
+INFO 2022/10/25 13:43:09  synced recovery
+INFO 2022/10/25 13:43:14  synced recovery
+INFO 2022/10/25 13:43:18  synced recovery
+INFO 2022/10/25 13:43:25  synced recovery
+INFO 2022/10/25 13:43:26  synced recovery
+INFO 2022/10/25 13:43:29  synced recovery
+INFO 2022/10/25 13:43:31  synced recovery
+INFO 2022/10/25 13:43:38  synced recovery
+INFO 2022/10/25 13:43:43  synced recovery
+INFO 2022/10/25 13:43:45  synced recovery
+INFO 2022/10/25 13:43:53  synced recovery
+INFO 2022/10/25 13:43:57  synced recovery
+INFO 2022/10/25 13:44:01  synced recovery
+INFO 2022/10/25 13:44:02  synced recovery
+INFO 2022/10/25 13:44:04  synced recovery
+INFO 2022/10/25 13:44:51  [blur] 1
+INFO 2022/10/25 13:44:51  [win] blur
+INFO 2022/10/25 13:44:51  [focus] 1
+INFO 2022/10/25 13:45:00  [blur] 1
+INFO 2022/10/25 13:45:00  [win] blur
+INFO 2022/10/25 13:45:00  [focus] 1
+INFO 2022/10/25 13:45:13  [blur] 1
+INFO 2022/10/25 13:45:13  [win] blur
+INFO 2022/10/25 13:45:13  [focus] 1
+INFO 2022/10/25 13:45:44  [blur] 1
+INFO 2022/10/25 13:45:44  [win] blur
+INFO 2022/10/25 13:45:44  [focus] 1
+INFO 2022/10/25 13:45:47  synced recovery
+INFO 2022/10/25 13:45:51  synced recovery
+INFO 2022/10/25 13:45:54  synced recovery
+INFO 2022/10/25 13:45:56  synced recovery
+INFO 2022/10/25 13:46:00  synced recovery
+INFO 2022/10/25 13:46:06  [blur] 1
+INFO 2022/10/25 13:46:06  [win] blur
+INFO 2022/10/25 13:46:06  [focus] 1
+INFO 2022/10/25 13:46:08  synced recovery
+INFO 2022/10/25 13:46:10  synced recovery
+INFO 2022/10/25 13:46:12  synced recovery
+INFO 2022/10/25 13:46:13  synced recovery
+INFO 2022/10/25 13:46:15  synced recovery
+INFO 2022/10/25 13:46:17  synced recovery
+INFO 2022/10/25 13:46:19  synced recovery
+INFO 2022/10/25 13:46:22  synced recovery
+INFO 2022/10/25 13:46:25  synced recovery
+INFO 2022/10/25 13:46:29  synced recovery
+INFO 2022/10/25 13:46:33  synced recovery
+INFO 2022/10/25 13:46:37  synced recovery
+INFO 2022/10/25 13:46:38  synced recovery
+INFO 2022/10/25 13:46:40  synced recovery
+INFO 2022/10/25 13:46:41  synced recovery
+INFO 2022/10/25 13:46:43  synced recovery
+INFO 2022/10/25 13:46:44  synced recovery
+INFO 2022/10/25 13:47:17  [blur] 1
+INFO 2022/10/25 13:47:17  [win] blur
+INFO 2022/10/25 13:47:17  [focus] 1
+INFO 2022/10/25 13:47:25  synced recovery
+INFO 2022/10/25 13:47:31  synced recovery
+INFO 2022/10/25 13:47:34  synced recovery
+INFO 2022/10/25 13:47:35  synced recovery
+INFO 2022/10/25 13:47:37  synced recovery
+INFO 2022/10/25 13:47:39  synced recovery
+INFO 2022/10/25 13:47:42  synced recovery
+INFO 2022/10/25 13:47:53  synced recovery
+INFO 2022/10/25 13:47:56  synced recovery
+INFO 2022/10/25 13:47:59  synced recovery
+INFO 2022/10/25 13:48:00  synced recovery
+INFO 2022/10/25 13:48:02  synced recovery
+INFO 2022/10/25 13:48:04  synced recovery
+INFO 2022/10/25 13:48:08  synced recovery
+INFO 2022/10/25 13:48:16  synced recovery
+INFO 2022/10/25 13:48:18  synced recovery
+INFO 2022/10/25 13:48:20  [blur] 1
+INFO 2022/10/25 13:48:20  [win] blur
+INFO 2022/10/25 13:48:20  [focus] 1
+INFO 2022/10/25 13:48:46  [blur] 1
+INFO 2022/10/25 13:48:46  [win] blur
+INFO 2022/10/25 13:48:46  [focus] 1
+INFO 2022/10/25 13:49:12  [blur] 1
+INFO 2022/10/25 13:49:12  [win] blur
+INFO 2022/10/25 13:49:13  [focus] 1
+INFO 2022/10/25 13:49:30  [blur] 1
+INFO 2022/10/25 13:49:30  [win] blur
+INFO 2022/10/25 13:49:30  [focus] 1
+INFO 2022/10/25 13:49:34  synced recovery
+INFO 2022/10/25 13:49:44  synced recovery
+INFO 2022/10/25 13:49:48  synced recovery
+INFO 2022/10/25 13:55:13  [blur] 1
+INFO 2022/10/25 13:55:13  [win] blur
+INFO 2022/10/25 13:55:19  [focus] 1
+INFO 2022/10/25 13:55:19  [blur] 1
+INFO 2022/10/25 13:55:19  [win] blur
+INFO 2022/10/25 13:56:49  [focus] 1
+INFO 2022/10/25 13:56:53  synced recovery
+INFO 2022/10/25 13:56:55  synced recovery
+INFO 2022/10/25 13:56:57  synced recovery
+INFO 2022/10/25 13:56:58  synced recovery
+INFO 2022/10/25 13:57:01  synced recovery
+INFO 2022/10/25 13:57:06  synced recovery
+INFO 2022/10/25 13:57:10  synced recovery
+INFO 2022/10/25 13:57:12  synced recovery
+INFO 2022/10/25 13:57:13  synced recovery
+INFO 2022/10/25 13:57:14  [blur] 1
+INFO 2022/10/25 13:57:14  [win] blur
+INFO 2022/10/25 13:57:18  [focus] 1
+INFO 2022/10/25 13:57:28  synced recovery
+INFO 2022/10/25 13:57:30  synced recovery
+INFO 2022/10/25 13:57:32  synced recovery
+INFO 2022/10/25 13:57:39  synced recovery
+INFO 2022/10/25 13:58:00  [blur] 1
+INFO 2022/10/25 13:58:00  [win] blur
+INFO 2022/10/25 13:58:00  [focus] 1
+INFO 2022/10/25 13:58:03  synced recovery
+INFO 2022/10/25 13:58:05  synced recovery
+INFO 2022/10/25 13:58:19  synced recovery
+INFO 2022/10/25 13:58:22  synced recovery
+INFO 2022/10/25 13:58:24  synced recovery
+INFO 2022/10/25 13:58:25  synced recovery
+INFO 2022/10/25 13:58:27  synced recovery
+INFO 2022/10/25 13:58:28  synced recovery
+INFO 2022/10/25 13:58:30  synced recovery
+INFO 2022/10/25 13:58:33  synced recovery
+INFO 2022/10/25 13:58:37  synced recovery
+INFO 2022/10/25 13:58:39  synced recovery
+INFO 2022/10/25 13:58:47  synced recovery
+INFO 2022/10/25 13:58:51  synced recovery
+INFO 2022/10/25 13:58:53  synced recovery
+INFO 2022/10/25 13:58:56  synced recovery
+INFO 2022/10/25 13:58:58  synced recovery
+INFO 2022/10/25 13:59:00  synced recovery
+INFO 2022/10/25 13:59:01  synced recovery
+INFO 2022/10/25 13:59:02  synced recovery
+INFO 2022/10/25 13:59:06  synced recovery
+INFO 2022/10/25 13:59:07  [RenderProcess 1][Log] File.reloadContent, {"delayRefresh":true,"skipChangeCount":true,"skipStore":true}
+INFO 2022/10/25 13:59:07  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/25 13:59:16  synced recovery
+INFO 2022/10/25 13:59:20  [blur] 1
+INFO 2022/10/25 13:59:20  [win] blur
+INFO 2022/10/25 13:59:26  [focus] 1
+INFO 2022/10/25 13:59:46  [blur] 1
+INFO 2022/10/25 13:59:46  [win] blur
+INFO 2022/10/25 14:00:00  [focus] 1
+INFO 2022/10/25 14:00:02  [RenderProcess 1][Warn] TypeError: Failed to execute 'selectNode' on 'Range': parameter 1 is not of type 'Node'.
+    at n.selectNode (typora://app/typemark/appsrc/window/frame.js:1:1579893)
+    at a (typora://app/typemark/appsrc/window/frame.js:1:201384)
+    at typora://app/typemark/appsrc/window/frame.js:1:199677
+    at n.exports.highlightNext (typora://app/typemark/appsrc/window/frame.js:1:199717)
+    at typora://app/typemark/appsrc/window/frame.js:1:196340
+    at r (typora://app/typemark/appsrc/window/frame.js:1:590898)
+INFO 2022/10/25 14:00:02  [RenderProcess 1][Warn] TypeError: Failed to execute 'selectNode' on 'Range': parameter 1 is not of type 'Node'.
+    at n.selectNode (typora://app/typemark/appsrc/window/frame.js:1:1579893)
+    at a (typora://app/typemark/appsrc/window/frame.js:1:201384)
+    at typora://app/typemark/appsrc/window/frame.js:1:199677
+    at n.exports.highlightNext (typora://app/typemark/appsrc/window/frame.js:1:199717)
+    at typora://app/typemark/appsrc/window/frame.js:1:196340
+    at r (typora://app/typemark/appsrc/window/frame.js:1:590898)
+INFO 2022/10/25 14:00:02  [RenderProcess 1][Warn] TypeError: Failed to execute 'selectNode' on 'Range': parameter 1 is not of type 'Node'.
+    at n.selectNode (typora://app/typemark/appsrc/window/frame.js:1:1579893)
+    at a (typora://app/typemark/appsrc/window/frame.js:1:201384)
+    at typora://app/typemark/appsrc/window/frame.js:1:199677
+    at n.exports.highlightNext (typora://app/typemark/appsrc/window/frame.js:1:199717)
+    at typora://app/typemark/appsrc/window/frame.js:1:196340
+    at r (typora://app/typemark/appsrc/window/frame.js:1:590898)
+INFO 2022/10/25 14:00:39  synced recovery
+INFO 2022/10/25 14:00:44  synced recovery
+INFO 2022/10/25 14:00:46  synced recovery
+INFO 2022/10/25 14:00:51  synced recovery
+INFO 2022/10/25 14:00:56  synced recovery
+INFO 2022/10/25 14:01:02  synced recovery
+INFO 2022/10/25 14:01:05  synced recovery
+INFO 2022/10/25 14:01:10  synced recovery
+INFO 2022/10/25 14:01:12  synced recovery
+INFO 2022/10/25 14:01:30  [blur] 1
+INFO 2022/10/25 14:01:30  [win] blur
+INFO 2022/10/25 14:01:30  [focus] 1
+INFO 2022/10/25 14:01:37  [blur] 1
+INFO 2022/10/25 14:01:37  [win] blur
+INFO 2022/10/25 14:01:37  [focus] 1
+INFO 2022/10/25 14:01:43  [blur] 1
+INFO 2022/10/25 14:01:43  [win] blur
+INFO 2022/10/25 14:01:43  [focus] 1
+INFO 2022/10/25 14:01:58  [blur] 1
+INFO 2022/10/25 14:01:58  [win] blur
+INFO 2022/10/25 14:01:58  [focus] 1
+INFO 2022/10/25 14:02:00  [blur] 1
+INFO 2022/10/25 14:02:00  [win] blur
+INFO 2022/10/25 14:02:25  [focus] 1
+INFO 2022/10/25 14:02:27  [blur] 1
+INFO 2022/10/25 14:02:27  [win] blur
+INFO 2022/10/25 14:02:34  [focus] 1
+INFO 2022/10/25 14:02:50  synced recovery
+INFO 2022/10/25 14:02:58  [blur] 1
+INFO 2022/10/25 14:02:58  [win] blur
+INFO 2022/10/25 14:03:29  [focus] 1
+INFO 2022/10/25 14:03:50  [blur] 1
+INFO 2022/10/25 14:03:50  [win] blur
+INFO 2022/10/25 14:03:50  [focus] 1
+INFO 2022/10/25 14:03:57  [blur] 1
+INFO 2022/10/25 14:03:57  [win] blur
+INFO 2022/10/25 14:04:00  [focus] 1
+INFO 2022/10/25 14:04:06  synced recovery
+INFO 2022/10/25 14:04:11  synced recovery
+INFO 2022/10/25 14:04:12  synced recovery
+INFO 2022/10/25 14:04:17  synced recovery
+INFO 2022/10/25 14:04:21  synced recovery
+INFO 2022/10/25 14:04:25  synced recovery
+INFO 2022/10/25 14:04:26  synced recovery
+INFO 2022/10/25 14:04:27  synced recovery
+INFO 2022/10/25 14:04:28  synced recovery
+INFO 2022/10/25 14:04:31  synced recovery
+INFO 2022/10/25 14:04:33  synced recovery
+INFO 2022/10/25 14:04:36  synced recovery
+INFO 2022/10/25 14:04:39  synced recovery
+INFO 2022/10/25 14:04:41  synced recovery
+INFO 2022/10/25 14:04:47  synced recovery
+INFO 2022/10/25 14:04:48  synced recovery
+INFO 2022/10/25 14:04:53  synced recovery
+INFO 2022/10/25 14:04:55  synced recovery
+INFO 2022/10/25 14:04:57  synced recovery
+INFO 2022/10/25 14:05:58  synced recovery
+INFO 2022/10/25 14:06:14  [blur] 1
+INFO 2022/10/25 14:06:14  [win] blur
+INFO 2022/10/25 14:06:14  [focus] 1
+INFO 2022/10/25 14:06:29  [blur] 1
+INFO 2022/10/25 14:06:29  [win] blur
+INFO 2022/10/25 14:06:29  [focus] 1
+INFO 2022/10/25 14:08:28  [blur] 1
+INFO 2022/10/25 14:08:28  [win] blur
+INFO 2022/10/25 14:08:28  [focus] 1
+INFO 2022/10/25 14:08:36  [blur] 1
+INFO 2022/10/25 14:08:36  [win] blur
+INFO 2022/10/25 14:08:54  [focus] 1
+INFO 2022/10/25 14:08:58  [blur] 1
+INFO 2022/10/25 14:08:58  [win] blur
+INFO 2022/10/25 14:09:35  [focus] 1
+INFO 2022/10/25 14:09:35  [blur] 1
+INFO 2022/10/25 14:09:35  [win] blur
+INFO 2022/10/25 14:09:35  [focus] 1
+INFO 2022/10/25 14:11:31  synced recovery
+INFO 2022/10/25 20:55:51  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/25 20:55:51  start LM in devVersion=false
+INFO 2022/10/25 20:55:51  [Raven] instanceKey = 020716b5-631f-4a52-a13d-1c97ad7ff8f9
+INFO 2022/10/25 20:55:51  [watch L]
+INFO 2022/10/25 20:55:51  [L] installDate is 10/16/2022, trail remains: 6 days
+INFO 2022/10/25 20:55:51  [watch L] hasL: true
+INFO 2022/10/25 20:55:51  ------------------start------------------
+INFO 2022/10/25 20:55:51  typora version: 1.4.7
+INFO 2022/10/25 20:55:51  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/25 20:55:51  addRecentDocument
+INFO 2022/10/25 20:55:51  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/25 20:55:51  [focus] 1
+INFO 2022/10/25 20:55:51  synced recovery
+INFO 2022/10/25 20:55:52  handle document.loadData
+Failed to Renew L
+INFO 2022/10/25 20:55:52  ls put SLicense
+INFO 2022/10/25 20:55:52  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/25 20:55:52  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/25 20:55:52  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/25 20:55:52  synced recovery
+INFO 2022/10/25 20:55:52  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/25 20:55:52  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/25 20:55:55  [blur] 1
+INFO 2022/10/25 20:55:55  [win] blur
+INFO 2022/10/25 20:55:57  [focus] 1
+INFO 2022/10/25 20:55:57  [blur] 1
+INFO 2022/10/25 20:55:57  [win] blur
+INFO 2022/10/25 20:58:27  [focus] 1
+INFO 2022/10/25 20:58:27  [blur] 1
+INFO 2022/10/25 20:58:27  [win] blur
+INFO 2022/10/25 20:58:46  [focus] 1
+INFO 2022/10/25 20:58:46  synced recovery
+INFO 2022/10/25 20:58:46  ----------------before-quit-----------------
+INFO 2022/10/25 20:58:46  ------------------will-quit------------------
+INFO 2022/10/25 20:58:46  -----------------quit------------------
+INFO 2022/10/25 20:58:46  closeLogging
+INFO 2022/10/25 21:18:49  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/25 21:18:50  start LM in devVersion=false
+INFO 2022/10/25 21:18:50  [Raven] instanceKey = 4fdebf35-7b29-4675-86a2-b8e5019b662c
+INFO 2022/10/25 21:18:50  [watch L]
+INFO 2022/10/25 21:18:50  [L] installDate is 10/16/2022, trail remains: 6 days
+INFO 2022/10/25 21:18:50  [watch L] hasL: true
+INFO 2022/10/25 21:18:50  ------------------start------------------
+INFO 2022/10/25 21:18:50  typora version: 1.4.7
+INFO 2022/10/25 21:18:50  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/25 21:18:50  addRecentDocument
+INFO 2022/10/25 21:18:50  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/25 21:18:50  synced recovery
+INFO 2022/10/25 21:18:50  [focus] 1
+INFO 2022/10/25 21:18:50  handle document.loadData
+INFO 2022/10/25 21:18:51  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/25 21:18:51  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/25 21:18:51  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/25 21:18:51  ls put SLicense
+INFO 2022/10/25 21:18:51  [blur] 1
+INFO 2022/10/25 21:18:51  [win] blur
+INFO 2022/10/25 21:18:51  synced recovery
+INFO 2022/10/25 21:18:51  [focus] 1
+INFO 2022/10/25 21:18:51  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/25 21:18:51  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/25 21:18:51  [blur] 1
+INFO 2022/10/25 21:18:51  [win] blur
+INFO 2022/10/25 21:28:06  [focus] 1
+INFO 2022/10/25 21:28:06  [blur] 1
+INFO 2022/10/25 21:28:06  [win] blur
+INFO 2022/10/25 21:28:14  [focus] 1
+INFO 2022/10/25 21:28:14  [blur] 1
+INFO 2022/10/25 21:28:14  [win] blur
+INFO 2022/10/25 21:28:14  [focus] 1
+INFO 2022/10/25 21:28:15  [blur] 1
+INFO 2022/10/25 21:28:15  [win] blur
