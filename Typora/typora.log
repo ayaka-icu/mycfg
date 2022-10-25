@@ -4542,3 +4542,37 @@ INFO 2022/10/25 21:28:14  [win] blur
 INFO 2022/10/25 21:28:14  [focus] 1
 INFO 2022/10/25 21:28:15  [blur] 1
 INFO 2022/10/25 21:28:15  [win] blur
+INFO 2022/10/25 21:53:09  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/25 21:53:09  start LM in devVersion=false
+INFO 2022/10/25 21:53:09  [Raven] instanceKey = 6cdcaaa5-2ed7-4663-a006-023d6bb06a36
+INFO 2022/10/25 21:53:09  [watch L]
+INFO 2022/10/25 21:53:09  [L] installDate is 10/16/2022, trail remains: 6 days
+INFO 2022/10/25 21:53:09  [watch L] hasL: true
+INFO 2022/10/25 21:53:09  ------------------start------------------
+INFO 2022/10/25 21:53:09  typora version: 1.4.7
+INFO 2022/10/25 21:53:09  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/25 21:53:09  launch from abnormal quit
+INFO 2022/10/25 21:53:09  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/ArchLInux使用.md","mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/10/25 21:53:09  addRecentDocument
+INFO 2022/10/25 21:53:09  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/25 21:53:09  [focus] 1
+INFO 2022/10/25 21:53:09  [blur] 1
+INFO 2022/10/25 21:53:09  [win] blur
+INFO 2022/10/25 21:53:09  [focus] 1
+INFO 2022/10/25 21:53:09  synced recovery
+INFO 2022/10/25 21:53:10  handle document.loadData
+INFO 2022/10/25 21:53:11  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/25 21:53:11  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/25 21:53:11  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/25 21:53:11  synced recovery
+INFO 2022/10/25 21:53:11  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/25 21:53:11  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/25 21:53:12  ls put SLicense
+INFO 2022/10/25 21:53:14  [blur] 1
+INFO 2022/10/25 21:53:14  [win] blur
