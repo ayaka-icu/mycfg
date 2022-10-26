@@ -4715,3 +4715,225 @@ INFO 2022/10/26 19:04:38  [RenderProcess 1][Log] File.activeWindow = true
 INFO 2022/10/26 19:04:38  [blur] 1
 INFO 2022/10/26 19:04:38  [win] blur
 INFO 2022/10/26 19:04:38  ls put SLicense
+INFO 2022/10/26 19:16:38  [focus] 1
+INFO 2022/10/26 19:16:38  [blur] 1
+INFO 2022/10/26 19:16:38  [win] blur
+INFO 2022/10/26 19:16:41  [focus] 1
+INFO 2022/10/26 19:16:41  [blur] 1
+INFO 2022/10/26 19:16:41  [win] blur
+INFO 2022/10/26 19:16:41  [focus] 1
+INFO 2022/10/26 19:16:41  [blur] 1
+INFO 2022/10/26 19:16:41  [win] blur
+INFO 2022/10/26 19:30:19  [focus] 1
+INFO 2022/10/26 19:30:20  [blur] 1
+INFO 2022/10/26 19:30:20  [win] blur
+INFO 2022/10/26 19:30:20  [focus] 1
+INFO 2022/10/26 19:30:27  switchDocument 1 [/home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md]
+INFO 2022/10/26 19:30:27  addRecentDocument
+INFO 2022/10/26 19:30:27  synced recovery
+INFO 2022/10/26 19:30:27  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 19:30:27  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 19:30:27  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 19:30:27  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/26 19:30:27  synced recovery
+INFO 2022/10/26 19:30:38  [blur] 1
+INFO 2022/10/26 19:30:38  [win] blur
+INFO 2022/10/26 19:39:41  [focus] 1
+INFO 2022/10/26 19:40:28  [blur] 1
+INFO 2022/10/26 19:40:28  [win] blur
+INFO 2022/10/26 19:40:28  [focus] 1
+INFO 2022/10/26 19:40:38  [blur] 1
+INFO 2022/10/26 19:40:38  [win] blur
+INFO 2022/10/26 19:40:49  [focus] 1
+INFO 2022/10/26 19:40:50  [blur] 1
+INFO 2022/10/26 19:40:50  [win] blur
+INFO 2022/10/26 19:40:52  [focus] 1
+INFO 2022/10/26 19:40:52  [blur] 1
+INFO 2022/10/26 19:40:52  [win] blur
+INFO 2022/10/26 19:40:52  [focus] 1
+INFO 2022/10/26 19:40:53  [blur] 1
+INFO 2022/10/26 19:40:53  [win] blur
+INFO 2022/10/26 19:40:53  [focus] 1
+INFO 2022/10/26 19:41:44  [blur] 1
+INFO 2022/10/26 19:41:44  [win] blur
+INFO 2022/10/26 21:13:21  [focus] 1
+INFO 2022/10/26 21:13:29  switchDocument 1 [/home/ayaka/学习资料/笔记/Linux学习.md]
+INFO 2022/10/26 21:13:29  addRecentDocument
+INFO 2022/10/26 21:13:29  synced recovery
+INFO 2022/10/26 21:13:29  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 21:13:29  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 21:13:29  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 21:13:29  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Linux学习.md
+INFO 2022/10/26 21:13:29  synced recovery
+INFO 2022/10/26 21:13:34  [blur] 1
+INFO 2022/10/26 21:13:34  [win] blur
+INFO 2022/10/26 21:13:34  [focus] 1
+INFO 2022/10/26 21:13:53  [blur] 1
+INFO 2022/10/26 21:13:53  [win] blur
+INFO 2022/10/26 21:13:55  [focus] 1
+INFO 2022/10/26 21:14:43  [blur] 1
+INFO 2022/10/26 21:14:43  [win] blur
+INFO 2022/10/26 21:14:43  [focus] 1
+INFO 2022/10/26 21:14:43  [blur] 1
+INFO 2022/10/26 21:14:43  [win] blur
+INFO 2022/10/26 21:20:13  [focus] 1
+INFO 2022/10/26 21:20:14  [blur] 1
+INFO 2022/10/26 21:20:14  [win] blur
+INFO 2022/10/26 21:30:56  [focus] 1
+INFO 2022/10/26 21:31:00  [blur] 1
+INFO 2022/10/26 21:31:00  [win] blur
+INFO 2022/10/26 21:31:00  [focus] 1
+INFO 2022/10/26 21:31:05  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/10/26 21:31:05  [blur] 1
+INFO 2022/10/26 21:31:05  [win] blur
+INFO 2022/10/26 21:31:05  [focus] 2
+INFO 2022/10/26 21:31:05  synced recovery
+INFO 2022/10/26 21:31:05  secondary instance would exit
+INFO 2022/10/26 21:31:05  handle document.loadData
+INFO 2022/10/26 21:31:06  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 21:31:06  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 21:31:06  synced recovery
+INFO 2022/10/26 21:31:06  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 21:31:06  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 21:31:10  addRecentFolder
+INFO 2022/10/26 21:31:12  switchDocument 2 [/home/ayaka/学习资料/笔记/ArchLInux使用.md]
+INFO 2022/10/26 21:31:12  addRecentDocument
+INFO 2022/10/26 21:31:12  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 21:31:12  synced recovery
+INFO 2022/10/26 21:31:12  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 21:31:12  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 21:31:12  [RenderProcess 2][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/26 21:31:12  synced recovery
+INFO 2022/10/26 21:31:20  synced recovery
+INFO 2022/10/26 21:31:22  synced recovery
+INFO 2022/10/26 21:31:23  synced recovery
+INFO 2022/10/26 21:31:26  synced recovery
+INFO 2022/10/26 21:31:28  synced recovery
+INFO 2022/10/26 21:31:29  synced recovery
+INFO 2022/10/26 21:31:31  [blur] 2
+INFO 2022/10/26 21:31:31  [win] blur
+INFO 2022/10/26 21:31:34  [focus] 2
+INFO 2022/10/26 21:31:36  synced recovery
+INFO 2022/10/26 21:31:40  synced recovery
+INFO 2022/10/26 21:31:44  synced recovery
+INFO 2022/10/26 21:31:47  synced recovery
+INFO 2022/10/26 21:31:49  synced recovery
+INFO 2022/10/26 21:31:50  synced recovery
+INFO 2022/10/26 21:31:53  synced recovery
+INFO 2022/10/26 21:31:57  synced recovery
+INFO 2022/10/26 21:31:58  synced recovery
+INFO 2022/10/26 21:31:59  synced recovery
+INFO 2022/10/26 21:32:02  synced recovery
+INFO 2022/10/26 21:32:03  synced recovery
+INFO 2022/10/26 21:32:10  [blur] 2
+INFO 2022/10/26 21:32:10  [win] blur
+INFO 2022/10/26 21:32:10  [focus] 1
+INFO 2022/10/26 21:32:13  [blur] 1
+INFO 2022/10/26 21:32:13  [win] blur
+INFO 2022/10/26 21:32:13  [focus] 2
+INFO 2022/10/26 21:32:15  synced recovery
+INFO 2022/10/26 21:32:18  synced recovery
+INFO 2022/10/26 21:32:21  [blur] 2
+INFO 2022/10/26 21:32:21  [win] blur
+INFO 2022/10/26 21:32:21  [focus] 1
+INFO 2022/10/26 21:32:22  [blur] 1
+INFO 2022/10/26 21:32:22  [win] blur
+INFO 2022/10/26 21:33:59  [focus] 2
+INFO 2022/10/26 21:33:59  [blur] 2
+INFO 2022/10/26 21:33:59  [win] blur
+INFO 2022/10/26 21:34:43  [focus] 1
+INFO 2022/10/26 21:34:44  [blur] 1
+INFO 2022/10/26 21:34:44  [win] blur
+INFO 2022/10/26 21:36:03  [focus] 1
+INFO 2022/10/26 21:36:04  [blur] 1
+INFO 2022/10/26 21:36:04  [win] blur
+INFO 2022/10/26 21:36:04  [focus] 2
+INFO 2022/10/26 21:36:05  [blur] 2
+INFO 2022/10/26 21:36:05  [win] blur
+INFO 2022/10/26 21:36:05  [focus] 1
+INFO 2022/10/26 21:36:08  [blur] 1
+INFO 2022/10/26 21:36:08  [win] blur
+INFO 2022/10/26 21:37:22  [focus] 1
+INFO 2022/10/26 21:37:23  [blur] 1
+INFO 2022/10/26 21:37:23  [win] blur
+INFO 2022/10/26 21:39:15  [focus] 1
+INFO 2022/10/26 21:39:15  [blur] 1
+INFO 2022/10/26 21:39:15  [win] blur
+INFO 2022/10/26 21:39:15  [focus] 2
+INFO 2022/10/26 21:39:17  [blur] 2
+INFO 2022/10/26 21:39:17  [win] blur
+INFO 2022/10/26 21:39:17  [focus] 2
+INFO 2022/10/26 21:39:19  [blur] 2
+INFO 2022/10/26 21:39:19  [win] blur
+INFO 2022/10/26 21:40:47  [focus] 2
+INFO 2022/10/26 21:40:48  [blur] 2
+INFO 2022/10/26 21:40:48  [win] blur
+INFO 2022/10/26 21:40:48  [focus] 1
+INFO 2022/10/26 21:40:49  [blur] 1
+INFO 2022/10/26 21:40:49  [win] blur
+INFO 2022/10/26 21:40:49  [focus] 1
+INFO 2022/10/26 21:40:49  [blur] 1
+INFO 2022/10/26 21:40:49  [win] blur
+INFO 2022/10/26 21:40:49  [focus] 2
+INFO 2022/10/26 21:40:50  [blur] 2
+INFO 2022/10/26 21:40:50  [win] blur
+INFO 2022/10/26 21:41:27  [focus] 2
+INFO 2022/10/26 21:41:28  [blur] 2
+INFO 2022/10/26 21:41:28  [win] blur
+INFO 2022/10/26 21:42:05  [focus] 2
+INFO 2022/10/26 21:42:06  [blur] 2
+INFO 2022/10/26 21:42:06  [win] blur
+INFO 2022/10/26 21:42:06  [focus] 1
+INFO 2022/10/26 21:42:17  [blur] 1
+INFO 2022/10/26 21:42:17  [win] blur
+INFO 2022/10/26 21:42:17  [focus] 2
+INFO 2022/10/26 21:42:17  [blur] 2
+INFO 2022/10/26 21:42:17  [win] blur
+INFO 2022/10/26 21:54:21  [focus] 2
+INFO 2022/10/26 21:54:23  [blur] 2
+INFO 2022/10/26 21:54:23  [win] blur
+INFO 2022/10/26 21:54:23  [focus] 2
+INFO 2022/10/26 21:54:23  [blur] 2
+INFO 2022/10/26 21:54:23  [win] blur
+INFO 2022/10/26 21:54:23  [focus] 1
+INFO 2022/10/26 21:54:24  [blur] 1
+INFO 2022/10/26 21:54:24  [win] blur
+INFO 2022/10/26 21:54:27  [focus] 1
+INFO 2022/10/26 21:54:28  [blur] 1
+INFO 2022/10/26 21:54:28  [win] blur
+INFO 2022/10/26 21:54:28  [focus] 2
+INFO 2022/10/26 21:54:28  [blur] 2
+INFO 2022/10/26 21:54:28  [win] blur
+INFO 2022/10/26 21:54:28  [focus] 1
+INFO 2022/10/26 21:54:29  [blur] 1
+INFO 2022/10/26 21:54:29  [win] blur
+INFO 2022/10/26 21:54:29  [focus] 2
+INFO 2022/10/26 21:54:30  [blur] 2
+INFO 2022/10/26 21:54:30  [win] blur
+INFO 2022/10/26 21:54:30  [focus] 2
+INFO 2022/10/26 21:54:33  [blur] 2
+INFO 2022/10/26 21:54:33  [win] blur
+INFO 2022/10/26 21:58:46  [focus] 2
+INFO 2022/10/26 21:58:47  [blur] 2
+INFO 2022/10/26 21:58:47  [win] blur
+INFO 2022/10/26 21:58:47  [focus] 1
+INFO 2022/10/26 21:58:48  [blur] 1
+INFO 2022/10/26 21:58:48  [win] blur
+INFO 2022/10/26 21:58:49  [focus] 1
+INFO 2022/10/26 21:58:49  [blur] 1
+INFO 2022/10/26 21:58:49  [win] blur
+INFO 2022/10/26 21:58:52  [focus] 1
+INFO 2022/10/26 21:58:52  [blur] 1
+INFO 2022/10/26 21:58:52  [win] blur
+INFO 2022/10/26 21:58:52  [focus] 2
+INFO 2022/10/26 22:05:49  [blur] 2
+INFO 2022/10/26 22:05:49  [win] blur
+INFO 2022/10/26 22:05:49  [focus] 2
+INFO 2022/10/26 22:05:52  [blur] 2
+INFO 2022/10/26 22:05:52  [win] blur
+INFO 2022/10/26 22:09:16  [focus] 2
+INFO 2022/10/26 22:09:20  [blur] 2
+INFO 2022/10/26 22:09:20  [win] blur
+INFO 2022/10/26 22:16:23  [focus] 2
+INFO 2022/10/26 22:16:27  [blur] 2
+INFO 2022/10/26 22:16:27  [win] blur
