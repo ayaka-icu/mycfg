@@ -4943,3 +4943,69 @@ INFO 2022/10/26 22:17:58  [win] blur
 INFO 2022/10/26 22:18:05  [focus] 2
 INFO 2022/10/26 22:18:05  [blur] 2
 INFO 2022/10/26 22:18:05  [win] blur
+INFO 2022/10/26 22:18:37  [focus] 1
+INFO 2022/10/26 22:18:37  [blur] 1
+INFO 2022/10/26 22:18:37  [win] blur
+INFO 2022/10/26 22:18:37  [focus] 2
+INFO 2022/10/26 22:18:38  [blur] 2
+INFO 2022/10/26 22:18:38  [win] blur
+INFO 2022/10/26 22:19:11  [focus] 2
+INFO 2022/10/26 22:19:15  switchDocument 2 [/home/ayaka/学习资料/笔记/ELK资料.md]
+INFO 2022/10/26 22:19:15  addRecentDocument
+INFO 2022/10/26 22:19:15  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:19:15  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 22:19:15  synced recovery
+INFO 2022/10/26 22:19:15  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:19:15  [RenderProcess 2][Log] readContentFrom /home/ayaka/学习资料/笔记/ELK资料.md
+INFO 2022/10/26 22:19:15  [RenderProcess 2][Log] enter busy mode
+INFO 2022/10/26 22:19:15  synced recovery
+INFO 2022/10/26 22:19:15  switchDocument 2 [/home/ayaka/学习资料/笔记/ArchLInux使用.md]
+INFO 2022/10/26 22:19:15  addRecentDocument
+INFO 2022/10/26 22:19:16  synced recovery
+INFO 2022/10/26 22:19:16  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:19:16  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 22:19:16  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:19:16  [RenderProcess 2][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/26 22:19:16  [RenderProcess 2][Log] do restoreEditStateFromData true false
+INFO 2022/10/26 22:19:16  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:19:16  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 25 at: 24
+INFO 2022/10/26 22:19:16  synced recovery
+INFO 2022/10/26 22:19:28  synced recovery
+INFO 2022/10/26 22:19:30  synced recovery
+INFO 2022/10/26 22:19:32  synced recovery
+INFO 2022/10/26 22:19:34  synced recovery
+INFO 2022/10/26 22:19:36  synced recovery
+INFO 2022/10/26 22:19:38  synced recovery
+INFO 2022/10/26 22:19:41  synced recovery
+INFO 2022/10/26 22:19:49  [blur] 2
+INFO 2022/10/26 22:19:49  [win] blur
+INFO 2022/10/26 22:19:49  [focus] 1
+INFO 2022/10/26 22:19:50  [blur] 1
+INFO 2022/10/26 22:19:50  [win] blur
+INFO 2022/10/26 22:20:31  [focus] 1
+INFO 2022/10/26 22:20:33  [blur] 1
+INFO 2022/10/26 22:20:33  [win] blur
+INFO 2022/10/26 22:20:33  [focus] 1
+INFO 2022/10/26 22:20:33  [blur] 1
+INFO 2022/10/26 22:20:33  [win] blur
+INFO 2022/10/26 22:20:33  [focus] 1
+INFO 2022/10/26 22:20:41  switchDocument 1 [/home/ayaka/学习资料/笔记/ArchLInux使用.md]
+INFO 2022/10/26 22:20:41  synced recovery
+INFO 2022/10/26 22:20:41  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:20:41  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] do restoreEditStateFromData true false
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] [UndoManager] restoreFromJson all: 38 at: 37
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] File.reloadContent, {"skipChangeCount":true,"onInit":true}
+INFO 2022/10/26 22:20:41  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 22:20:41  synced recovery
+INFO 2022/10/26 22:20:45  synced recovery
+INFO 2022/10/26 22:20:56  synced recovery
+INFO 2022/10/26 22:21:02  synced recovery
+INFO 2022/10/26 22:21:07  synced recovery
+INFO 2022/10/26 22:21:15  [blur] 1
+INFO 2022/10/26 22:21:15  [win] blur
