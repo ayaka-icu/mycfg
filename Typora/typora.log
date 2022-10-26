@@ -4576,3 +4576,142 @@ INFO 2022/10/25 21:53:11  [RenderProcess 1][Log] File.activeWindow = true
 INFO 2022/10/25 21:53:12  ls put SLicense
 INFO 2022/10/25 21:53:14  [blur] 1
 INFO 2022/10/25 21:53:14  [win] blur
+INFO 2022/10/26 13:42:07  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/26 13:42:07  start LM in devVersion=false
+INFO 2022/10/26 13:42:07  [Raven] instanceKey = c5b7198e-cf7c-4282-8957-bb6193cdbbc5
+INFO 2022/10/26 13:42:07  [watch L]
+INFO 2022/10/26 13:42:07  [L] installDate is 10/16/2022, trail remains: 5 days
+INFO 2022/10/26 13:42:07  [watch L] hasL: true
+INFO 2022/10/26 13:42:07  ------------------start------------------
+INFO 2022/10/26 13:42:07  typora version: 1.4.7
+INFO 2022/10/26 13:42:07  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/26 13:42:07  launch from abnormal quit
+INFO 2022/10/26 13:42:07  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/ArchLInux使用.md","mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/10/26 13:42:07  addRecentDocument
+INFO 2022/10/26 13:42:08  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/26 13:42:08  [focus] 1
+INFO 2022/10/26 13:42:08  synced recovery
+INFO 2022/10/26 13:42:09  handle document.loadData
+INFO 2022/10/26 13:42:09  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 13:42:09  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 13:42:09  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/26 13:42:10  [blur] 1
+INFO 2022/10/26 13:42:10  [win] blur
+INFO 2022/10/26 13:42:10  synced recovery
+INFO 2022/10/26 13:42:10  [focus] 1
+INFO 2022/10/26 13:42:10  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 13:42:10  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 13:42:12  [blur] 1
+INFO 2022/10/26 13:42:12  [win] blur
+INFO 2022/10/26 13:42:12  [focus] 1
+INFO 2022/10/26 13:42:12  [blur] 1
+INFO 2022/10/26 13:42:12  [win] blur
+INFO 2022/10/26 13:42:21  [focus] 1
+INFO 2022/10/26 13:42:24  [blur] 1
+INFO 2022/10/26 13:42:24  [win] blur
+Failed to Renew L
+INFO 2022/10/26 13:42:25  ls put SLicense
+INFO 2022/10/26 14:27:01  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/26 14:27:01  start LM in devVersion=false
+INFO 2022/10/26 14:27:01  [Raven] instanceKey = be3284de-ed68-4d48-82f7-c1d600f4f125
+INFO 2022/10/26 14:27:01  [watch L]
+INFO 2022/10/26 14:27:01  [L] installDate is 10/16/2022, trail remains: 5 days
+INFO 2022/10/26 14:27:01  [watch L] hasL: true
+INFO 2022/10/26 14:27:01  ------------------start------------------
+INFO 2022/10/26 14:27:01  typora version: 1.4.7
+INFO 2022/10/26 14:27:01  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/26 14:27:01  launch from abnormal quit
+INFO 2022/10/26 14:27:01  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/ArchLInux使用.md","mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/10/26 14:27:01  addRecentDocument
+INFO 2022/10/26 14:27:02  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/26 14:27:02  [focus] 1
+INFO 2022/10/26 14:27:02  synced recovery
+INFO 2022/10/26 14:27:03  handle document.loadData
+INFO 2022/10/26 14:27:03  ls put SLicense
+INFO 2022/10/26 14:27:03  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 14:27:03  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 14:27:03  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/26 14:27:04  synced recovery
+INFO 2022/10/26 14:27:04  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 14:27:04  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 14:27:08  [blur] 1
+INFO 2022/10/26 14:27:08  [win] blur
+INFO 2022/10/26 14:32:18  [focus] 1
+INFO 2022/10/26 14:32:19  [blur] 1
+INFO 2022/10/26 14:32:19  [win] blur
+INFO 2022/10/26 15:01:33  [focus] 1
+INFO 2022/10/26 15:01:35  [blur] 1
+INFO 2022/10/26 15:01:35  [win] blur
+INFO 2022/10/26 15:02:06  [focus] 1
+INFO 2022/10/26 15:02:06  [blur] 1
+INFO 2022/10/26 15:02:06  [win] blur
+INFO 2022/10/26 15:02:06  [focus] 1
+INFO 2022/10/26 15:02:06  [blur] 1
+INFO 2022/10/26 15:02:06  [win] blur
+INFO 2022/10/26 15:04:01  [focus] 1
+INFO 2022/10/26 15:04:03  [blur] 1
+INFO 2022/10/26 15:04:03  [win] blur
+INFO 2022/10/26 15:04:03  [focus] 1
+INFO 2022/10/26 15:04:04  [blur] 1
+INFO 2022/10/26 15:04:04  [win] blur
+INFO 2022/10/26 15:16:25  [focus] 1
+INFO 2022/10/26 15:16:26  [blur] 1
+INFO 2022/10/26 15:16:26  [win] blur
+INFO 2022/10/26 15:16:26  [focus] 1
+INFO 2022/10/26 15:16:27  [blur] 1
+INFO 2022/10/26 15:16:27  [win] blur
+INFO 2022/10/26 15:16:48  [focus] 1
+INFO 2022/10/26 15:16:48  [blur] 1
+INFO 2022/10/26 15:16:48  [win] blur
+INFO 2022/10/26 15:19:03  [focus] 1
+INFO 2022/10/26 15:19:05  [blur] 1
+INFO 2022/10/26 15:19:05  [win] blur
+INFO 2022/10/26 15:19:07  [focus] 1
+INFO 2022/10/26 15:19:07  [blur] 1
+INFO 2022/10/26 15:19:07  [win] blur
+INFO 2022/10/26 15:19:18  [focus] 1
+INFO 2022/10/26 15:19:18  [blur] 1
+INFO 2022/10/26 15:19:18  [win] blur
+INFO 2022/10/26 19:04:37  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/26 19:04:37  start LM in devVersion=false
+INFO 2022/10/26 19:04:37  [Raven] instanceKey = 61d3b03e-9f9f-4ff2-9cca-c3f012dbeeee
+INFO 2022/10/26 19:04:37  [watch L]
+INFO 2022/10/26 19:04:37  [L] installDate is 10/16/2022, trail remains: 5 days
+INFO 2022/10/26 19:04:37  [watch L] hasL: true
+INFO 2022/10/26 19:04:37  ------------------start------------------
+INFO 2022/10/26 19:04:37  typora version: 1.4.7
+INFO 2022/10/26 19:04:37  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/26 19:04:37  launch from abnormal quit
+INFO 2022/10/26 19:04:37  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/ArchLInux使用.md","mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/10/26 19:04:37  addRecentDocument
+INFO 2022/10/26 19:04:37  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/26 19:04:37  [focus] 1
+INFO 2022/10/26 19:04:37  synced recovery
+INFO 2022/10/26 19:04:38  handle document.loadData
+INFO 2022/10/26 19:04:38  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/26 19:04:38  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 19:04:38  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/26 19:04:38  synced recovery
+INFO 2022/10/26 19:04:38  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 19:04:38  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 19:04:38  [blur] 1
+INFO 2022/10/26 19:04:38  [win] blur
+INFO 2022/10/26 19:04:38  ls put SLicense
