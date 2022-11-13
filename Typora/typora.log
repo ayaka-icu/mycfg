@@ -5009,3 +5009,1002 @@ INFO 2022/10/26 22:21:02  synced recovery
 INFO 2022/10/26 22:21:07  synced recovery
 INFO 2022/10/26 22:21:15  [blur] 1
 INFO 2022/10/26 22:21:15  [win] blur
+INFO 2022/10/26 22:21:40  [focus] 1
+INFO 2022/10/26 22:22:18  [blur] 1
+INFO 2022/10/26 22:22:18  [win] blur
+INFO 2022/10/26 22:22:23  [focus] 1
+INFO 2022/10/26 22:22:36  [blur] 1
+INFO 2022/10/26 22:22:36  [win] blur
+INFO 2022/10/26 22:22:36  [focus] 2
+INFO 2022/10/26 22:22:36  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:22:36  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:22:36  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:22:36  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:22:36  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:22:36  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:22:36  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 44 at: 41
+INFO 2022/10/26 22:22:36  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:22:36  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:22:37  [blur] 2
+INFO 2022/10/26 22:22:37  [win] blur
+INFO 2022/10/26 22:25:23  [focus] 2
+INFO 2022/10/26 22:26:42  [blur] 2
+INFO 2022/10/26 22:26:42  [win] blur
+INFO 2022/10/26 22:26:42  [focus] 2
+INFO 2022/10/26 22:26:43  [blur] 2
+INFO 2022/10/26 22:26:43  [win] blur
+INFO 2022/10/26 22:26:43  [focus] 1
+INFO 2022/10/26 22:26:43  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:26:43  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:26:43  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:26:43  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:26:44  [blur] 1
+INFO 2022/10/26 22:26:44  [win] blur
+INFO 2022/10/26 22:26:44  synced recovery
+INFO 2022/10/26 22:27:14  [focus] 2
+INFO 2022/10/26 22:27:14  [blur] 2
+INFO 2022/10/26 22:27:14  [win] blur
+INFO 2022/10/26 22:27:14  [focus] 2
+INFO 2022/10/26 22:27:14  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:27:14  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:27:14  [blur] 2
+INFO 2022/10/26 22:27:14  [win] blur
+INFO 2022/10/26 22:27:14  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:27:14  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 44 at: 41
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:27:14  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:29:25  [focus] 1
+INFO 2022/10/26 22:29:25  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:29:25  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:29:25  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:29:25  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:29:27  [blur] 1
+INFO 2022/10/26 22:29:27  [win] blur
+INFO 2022/10/26 22:29:27  synced recovery
+INFO 2022/10/26 22:29:29  [focus] 1
+INFO 2022/10/26 22:29:29  [blur] 1
+INFO 2022/10/26 22:29:29  [win] blur
+INFO 2022/10/26 22:29:29  [focus] 2
+INFO 2022/10/26 22:29:29  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:29:29  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:29:29  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:29:29  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:29:29  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:29:29  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:29:29  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 44 at: 41
+INFO 2022/10/26 22:29:29  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:29:29  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:29:31  [blur] 2
+INFO 2022/10/26 22:29:31  [win] blur
+INFO 2022/10/26 22:29:31  [focus] 2
+INFO 2022/10/26 22:29:32  [blur] 2
+INFO 2022/10/26 22:29:32  [win] blur
+INFO 2022/10/26 22:29:42  [focus] 2
+INFO 2022/10/26 22:29:42  [blur] 2
+INFO 2022/10/26 22:29:42  [win] blur
+INFO 2022/10/26 22:29:48  [focus] 1
+INFO 2022/10/26 22:29:48  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:29:48  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:29:48  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:29:48  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:29:49  [blur] 1
+INFO 2022/10/26 22:29:49  [win] blur
+INFO 2022/10/26 22:29:49  synced recovery
+INFO 2022/10/26 22:34:25  [focus] 1
+INFO 2022/10/26 22:34:26  [blur] 1
+INFO 2022/10/26 22:34:26  [win] blur
+INFO 2022/10/26 22:40:24  [focus] 1
+INFO 2022/10/26 22:40:25  [blur] 1
+INFO 2022/10/26 22:40:25  [win] blur
+INFO 2022/10/26 22:40:25  [focus] 2
+INFO 2022/10/26 22:40:25  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:40:25  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:40:25  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:40:25  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:40:25  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:40:25  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:40:25  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 44 at: 41
+INFO 2022/10/26 22:40:25  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:40:25  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:40:56  [blur] 2
+INFO 2022/10/26 22:40:56  [win] blur
+INFO 2022/10/26 22:40:56  [focus] 2
+INFO 2022/10/26 22:40:56  [blur] 2
+INFO 2022/10/26 22:40:56  [win] blur
+INFO 2022/10/26 22:40:56  [focus] 1
+INFO 2022/10/26 22:40:56  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:40:56  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:40:56  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:40:56  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:40:57  [blur] 1
+INFO 2022/10/26 22:40:57  [win] blur
+INFO 2022/10/26 22:40:57  synced recovery
+INFO 2022/10/26 22:41:06  [focus] 1
+INFO 2022/10/26 22:41:06  [blur] 1
+INFO 2022/10/26 22:41:06  [win] blur
+INFO 2022/10/26 22:41:06  [focus] 2
+INFO 2022/10/26 22:41:06  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:41:06  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:41:06  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:41:06  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:41:06  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:41:06  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:41:06  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 44 at: 41
+INFO 2022/10/26 22:41:06  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:41:06  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:42:34  [blur] 2
+INFO 2022/10/26 22:42:34  [win] blur
+INFO 2022/10/26 22:42:34  [focus] 2
+INFO 2022/10/26 22:42:34  [blur] 2
+INFO 2022/10/26 22:42:34  [win] blur
+INFO 2022/10/26 22:42:51  [focus] 2
+INFO 2022/10/26 22:42:51  [blur] 2
+INFO 2022/10/26 22:42:51  [win] blur
+INFO 2022/10/26 22:42:51  [focus] 1
+INFO 2022/10/26 22:42:51  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:42:51  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:42:51  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:42:51  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:42:52  [blur] 1
+INFO 2022/10/26 22:42:52  [win] blur
+INFO 2022/10/26 22:42:52  synced recovery
+INFO 2022/10/26 22:46:36  [focus] 1
+INFO 2022/10/26 22:46:37  [blur] 1
+INFO 2022/10/26 22:46:37  [win] blur
+INFO 2022/10/26 22:46:37  [focus] 2
+INFO 2022/10/26 22:46:37  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:46:37  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:46:37  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:46:37  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:46:37  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:46:37  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:46:37  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 44 at: 41
+INFO 2022/10/26 22:46:37  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:46:37  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:46:52  [blur] 2
+INFO 2022/10/26 22:46:52  [win] blur
+INFO 2022/10/26 22:46:52  [focus] 2
+INFO 2022/10/26 22:46:53  [blur] 2
+INFO 2022/10/26 22:46:53  [win] blur
+INFO 2022/10/26 22:46:53  [focus] 1
+INFO 2022/10/26 22:46:53  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:46:53  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:46:53  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:46:53  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:46:54  [blur] 1
+INFO 2022/10/26 22:46:54  [win] blur
+INFO 2022/10/26 22:46:54  [focus] 2
+INFO 2022/10/26 22:46:54  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:46:54  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:46:54  synced recovery
+INFO 2022/10/26 22:46:54  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:46:54  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:46:54  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:46:54  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:46:54  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 44 at: 41
+INFO 2022/10/26 22:46:54  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:46:54  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:46:59  [blur] 2
+INFO 2022/10/26 22:46:59  [win] blur
+INFO 2022/10/26 22:46:59  [focus] 2
+INFO 2022/10/26 22:46:59  [blur] 2
+INFO 2022/10/26 22:46:59  [win] blur
+INFO 2022/10/26 22:46:59  [focus] 1
+INFO 2022/10/26 22:46:59  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:46:59  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:46:59  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:46:59  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:47:00  [blur] 1
+INFO 2022/10/26 22:47:00  [win] blur
+INFO 2022/10/26 22:47:00  synced recovery
+INFO 2022/10/26 22:52:37  [focus] 1
+INFO 2022/10/26 22:52:37  [blur] 1
+INFO 2022/10/26 22:52:37  [win] blur
+INFO 2022/10/26 22:52:37  [focus] 2
+INFO 2022/10/26 22:52:37  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:52:37  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:52:37  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:52:37  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:52:37  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:52:37  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:52:37  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 44 at: 41
+INFO 2022/10/26 22:52:37  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:52:37  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:54:16  [blur] 2
+INFO 2022/10/26 22:54:16  [win] blur
+INFO 2022/10/26 22:54:54  [focus] 1
+INFO 2022/10/26 22:54:54  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:54:54  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:54:54  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:54:54  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:55:04  synced recovery
+INFO 2022/10/26 22:55:06  synced recovery
+INFO 2022/10/26 22:55:08  [RenderProcess 1][Log] File.reloadContent, {"delayRefresh":true,"skipChangeCount":true,"skipStore":true}
+INFO 2022/10/26 22:55:08  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 22:55:16  synced recovery
+INFO 2022/10/26 22:55:16  [blur] 1
+INFO 2022/10/26 22:55:16  [win] blur
+INFO 2022/10/26 22:55:20  [focus] 1
+INFO 2022/10/26 22:55:21  [blur] 1
+INFO 2022/10/26 22:55:21  [win] blur
+INFO 2022/10/26 22:55:21  [focus] 1
+INFO 2022/10/26 22:55:22  synced recovery
+INFO 2022/10/26 22:55:27  synced recovery
+INFO 2022/10/26 22:55:28  synced recovery
+INFO 2022/10/26 22:55:33  synced recovery
+INFO 2022/10/26 22:55:37  synced recovery
+INFO 2022/10/26 22:55:40  synced recovery
+INFO 2022/10/26 22:55:43  synced recovery
+INFO 2022/10/26 22:55:46  [blur] 1
+INFO 2022/10/26 22:55:46  [win] blur
+INFO 2022/10/26 22:55:46  [focus] 2
+INFO 2022/10/26 22:55:46  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:55:46  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] [UndoManager] restoreFromJson all: 53 at: 52
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] File.reloadContent, {"skipUndo":true,"skipChangeCount":true}
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:55:46  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] File.reloadContent, {}
+INFO 2022/10/26 22:55:46  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:55:46  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 22:55:47  synced recovery
+INFO 2022/10/26 22:56:08  [blur] 2
+INFO 2022/10/26 22:56:08  [win] blur
+INFO 2022/10/26 22:56:08  [focus] 2
+INFO 2022/10/26 22:56:11  [RenderProcess 2][Log] File.reloadContent, {"delayRefresh":true,"skipChangeCount":true,"skipStore":true}
+INFO 2022/10/26 22:56:11  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/10/26 22:56:11  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 22:56:14  synced recovery
+INFO 2022/10/26 22:56:20  [blur] 2
+INFO 2022/10/26 22:56:20  [win] blur
+INFO 2022/10/26 22:56:20  [focus] 2
+INFO 2022/10/26 22:56:21  [blur] 2
+INFO 2022/10/26 22:56:21  [win] blur
+INFO 2022/10/26 22:56:21  [focus] 1
+INFO 2022/10/26 22:56:21  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:56:21  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:56:21  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:56:21  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:56:21  [RenderProcess 1][Log] do restoreEditStateFromData false false
+INFO 2022/10/26 22:56:21  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/26 22:56:21  [RenderProcess 1][Log] [UndoManager] restoreFromJson all: 57 at: 56
+INFO 2022/10/26 22:56:21  [blur] 1
+INFO 2022/10/26 22:56:21  [win] blur
+INFO 2022/10/26 22:56:21  synced recovery
+INFO 2022/10/26 22:58:43  [focus] 1
+INFO 2022/10/26 22:58:44  [blur] 1
+INFO 2022/10/26 22:58:44  [win] blur
+INFO 2022/10/26 22:58:44  [focus] 2
+INFO 2022/10/26 22:58:44  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:58:44  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 22:58:44  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 22:58:44  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 22:59:23  [blur] 2
+INFO 2022/10/26 22:59:23  [win] blur
+INFO 2022/10/26 22:59:23  [focus] 2
+INFO 2022/10/26 22:59:23  [blur] 2
+INFO 2022/10/26 22:59:23  [win] blur
+INFO 2022/10/26 22:59:23  [focus] 1
+INFO 2022/10/26 22:59:23  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 22:59:23  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 22:59:23  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 22:59:23  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 22:59:24  [blur] 1
+INFO 2022/10/26 22:59:24  [win] blur
+INFO 2022/10/26 23:00:05  [focus] 2
+INFO 2022/10/26 23:00:05  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 23:00:05  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 23:00:05  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 23:00:05  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 23:00:05  [blur] 2
+INFO 2022/10/26 23:00:05  [win] blur
+INFO 2022/10/26 23:00:46  [focus] 1
+INFO 2022/10/26 23:00:46  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 23:00:46  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 23:00:46  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 23:00:46  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 23:00:51  [blur] 1
+INFO 2022/10/26 23:00:51  [win] blur
+INFO 2022/10/26 23:18:02  [focus] 1
+INFO 2022/10/26 23:18:03  [blur] 1
+INFO 2022/10/26 23:18:03  [win] blur
+INFO 2022/10/26 23:18:31  [focus] 1
+INFO 2022/10/26 23:18:32  [blur] 1
+INFO 2022/10/26 23:18:32  [win] blur
+INFO 2022/10/26 23:18:32  [focus] 2
+INFO 2022/10/26 23:18:32  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/26 23:18:32  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/26 23:18:32  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/26 23:18:32  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/26 23:18:32  [blur] 2
+INFO 2022/10/26 23:18:32  [win] blur
+INFO 2022/10/26 23:18:32  [focus] 1
+INFO 2022/10/26 23:18:32  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/26 23:18:32  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/26 23:18:32  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/26 23:18:32  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/26 23:18:53  [blur] 1
+INFO 2022/10/26 23:18:53  [win] blur
+INFO 2022/10/27 00:00:04  [focus] 1
+INFO 2022/10/27 00:00:17  [blur] 1
+INFO 2022/10/27 00:00:17  [win] blur
+INFO 2022/10/27 00:00:17  [focus] 1
+INFO 2022/10/27 00:00:20  [blur] 1
+INFO 2022/10/27 00:00:20  [win] blur
+INFO 2022/10/27 00:01:26  [focus] 1
+INFO 2022/10/27 00:01:46  [blur] 1
+INFO 2022/10/27 00:01:46  [win] blur
+INFO 2022/10/27 00:01:46  [focus] 1
+INFO 2022/10/27 00:01:53  [blur] 1
+INFO 2022/10/27 00:01:53  [win] blur
+INFO 2022/10/27 00:01:53  [focus] 2
+INFO 2022/10/27 00:01:53  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/27 00:01:53  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/27 00:01:53  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/27 00:01:53  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/27 00:01:59  [blur] 2
+INFO 2022/10/27 00:01:59  [win] blur
+INFO 2022/10/27 00:02:33  [focus] 2
+INFO 2022/10/27 00:02:35  [blur] 2
+INFO 2022/10/27 00:02:35  [win] blur
+INFO 2022/10/27 00:02:35  [focus] 1
+INFO 2022/10/27 00:02:35  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/27 00:02:35  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/27 00:02:35  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/27 00:02:35  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 00:02:42  [blur] 1
+INFO 2022/10/27 00:02:42  [win] blur
+INFO 2022/10/27 00:02:42  [focus] 2
+INFO 2022/10/27 00:02:42  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/27 00:02:42  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/27 00:02:42  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/27 00:02:42  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/27 00:02:42  [blur] 2
+INFO 2022/10/27 00:02:42  [win] blur
+INFO 2022/10/27 00:02:42  [focus] 2
+INFO 2022/10/27 00:02:44  [blur] 2
+INFO 2022/10/27 00:02:44  [win] blur
+INFO 2022/10/27 00:03:20  [focus] 2
+INFO 2022/10/27 00:03:22  [blur] 2
+INFO 2022/10/27 00:03:22  [win] blur
+INFO 2022/10/27 00:04:33  [focus] 1
+INFO 2022/10/27 00:04:33  [RenderProcess 2][Log] window.onWindowResignForNode
+INFO 2022/10/27 00:04:33  [RenderProcess 2][Log] File.activeWindow = false
+INFO 2022/10/27 00:04:33  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/27 00:04:33  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 00:04:34  [blur] 1
+INFO 2022/10/27 00:04:34  [win] blur
+INFO 2022/10/27 00:07:34  [focus] 2
+INFO 2022/10/27 00:07:34  [RenderProcess 1][Log] window.onWindowResignForNode
+INFO 2022/10/27 00:07:34  [RenderProcess 1][Log] File.activeWindow = false
+INFO 2022/10/27 00:07:34  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/10/27 00:07:34  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/10/27 00:07:35  [blur] 2
+INFO 2022/10/27 00:07:35  [win] blur
+INFO 2022/10/27 17:15:24  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/27 17:15:24  start LM in devVersion=false
+INFO 2022/10/27 17:15:24  [Raven] instanceKey = eb77a5d8-cdb9-48d0-ae86-fd7085f37a48
+INFO 2022/10/27 17:15:24  [watch L]
+INFO 2022/10/27 17:15:24  [L] installDate is 10/16/2022, trail remains: 4 days
+INFO 2022/10/27 17:15:24  [watch L] hasL: true
+INFO 2022/10/27 17:15:24  ------------------start------------------
+INFO 2022/10/27 17:15:24  typora version: 1.4.7
+INFO 2022/10/27 17:15:24  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/27 17:15:24  addRecentDocument
+INFO 2022/10/27 17:15:24  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/27 17:15:24  [focus] 1
+INFO 2022/10/27 17:15:24  synced recovery
+INFO 2022/10/27 17:15:26  handle document.loadData
+INFO 2022/10/27 17:15:26  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 17:15:26  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 17:15:26  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/27 17:15:27  [blur] 1
+INFO 2022/10/27 17:15:27  [win] blur
+INFO 2022/10/27 17:15:27  synced recovery
+INFO 2022/10/27 17:15:27  [focus] 1
+INFO 2022/10/27 17:15:27  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/27 17:15:27  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 17:15:30  [blur] 1
+INFO 2022/10/27 17:15:30  [win] blur
+Failed to Renew L
+INFO 2022/10/27 17:15:39  ls put SLicense
+INFO 2022/10/27 17:16:10  [focus] 1
+INFO 2022/10/27 17:16:13  switchDocument 1 [/home/ayaka/学习资料/笔记/Linux学习.md]
+INFO 2022/10/27 17:16:13  addRecentDocument
+INFO 2022/10/27 17:16:13  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 17:16:13  synced recovery
+INFO 2022/10/27 17:16:13  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 17:16:13  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 17:16:13  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Linux学习.md
+INFO 2022/10/27 17:16:13  synced recovery
+INFO 2022/10/27 09:16:15  switchDocument 1 [/home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md]
+INFO 2022/10/27 09:16:15  addRecentDocument
+INFO 2022/10/27 09:16:15  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 09:16:15  synced recovery
+INFO 2022/10/27 09:16:15  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 09:16:15  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 09:16:15  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/27 09:16:15  synced recovery
+INFO 2022/10/27 09:16:16  switchDocument 1 [/home/ayaka/学习资料/笔记/MySQL复习.md]
+INFO 2022/10/27 09:16:16  addRecentDocument
+INFO 2022/10/27 09:16:16  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 09:16:16  synced recovery
+INFO 2022/10/27 09:16:16  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 09:16:16  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 09:16:16  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/MySQL复习.md
+INFO 2022/10/27 09:16:16  synced recovery
+INFO 2022/10/27 09:16:16  switchDocument 1 [/home/ayaka/学习资料/笔记/Linux学习.md]
+INFO 2022/10/27 09:16:16  addRecentDocument
+INFO 2022/10/27 09:16:16  synced recovery
+INFO 2022/10/27 09:16:16  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 09:16:16  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 09:16:16  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 09:16:16  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Linux学习.md
+INFO 2022/10/27 09:16:16  synced recovery
+INFO 2022/10/27 09:16:18  switchDocument 1 [/home/ayaka/学习资料/笔记/Springxxx.md]
+INFO 2022/10/27 09:16:18  addRecentDocument
+INFO 2022/10/27 09:16:18  synced recovery
+INFO 2022/10/27 09:16:18  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 09:16:18  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 09:16:18  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 09:16:18  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Springxxx.md
+INFO 2022/10/27 09:16:18  synced recovery
+INFO 2022/10/27 09:16:19  switchDocument 1 [/home/ayaka/学习资料/笔记/SpringSecurity.md]
+INFO 2022/10/27 09:16:19  addRecentDocument
+INFO 2022/10/27 09:16:19  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 09:16:19  synced recovery
+INFO 2022/10/27 09:16:19  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 09:16:19  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 09:16:19  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/SpringSecurity.md
+INFO 2022/10/27 09:16:19  synced recovery
+INFO 2022/10/27 09:16:19  switchDocument 1 [/home/ayaka/学习资料/笔记/SpringBoot2 复习笔记.md]
+INFO 2022/10/27 09:16:19  addRecentDocument
+INFO 2022/10/27 09:16:19  synced recovery
+INFO 2022/10/27 09:16:19  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 09:16:19  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 09:16:19  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 09:16:19  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/SpringBoot2 复习笔记.md
+INFO 2022/10/27 09:16:20  [RenderProcess 1][Log] enter busy mode
+INFO 2022/10/27 09:16:20  synced recovery
+INFO 2022/10/27 09:16:22  switchDocument 1 [/home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md]
+INFO 2022/10/27 09:16:22  addRecentDocument
+INFO 2022/10/27 09:16:22  synced recovery
+INFO 2022/10/27 09:16:22  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 09:16:22  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 09:16:22  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 09:16:22  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/27 09:16:22  synced recovery
+INFO 2022/10/27 09:16:34  [blur] 1
+INFO 2022/10/27 09:16:34  [win] blur
+INFO 2022/10/27 09:18:09  [focus] 1
+INFO 2022/10/27 09:18:15  synced recovery
+INFO 2022/10/27 09:18:17  synced recovery
+INFO 2022/10/27 09:18:24  [blur] 1
+INFO 2022/10/27 09:18:24  [win] blur
+INFO 2022/10/27 09:25:12  [focus] 1
+INFO 2022/10/27 09:25:27  synced recovery
+INFO 2022/10/27 09:25:31  synced recovery
+INFO 2022/10/27 09:25:32  synced recovery
+INFO 2022/10/27 09:25:35  synced recovery
+INFO 2022/10/27 09:25:36  synced recovery
+INFO 2022/10/27 09:25:40  synced recovery
+INFO 2022/10/27 09:25:41  synced recovery
+INFO 2022/10/27 09:25:45  synced recovery
+INFO 2022/10/27 09:25:46  synced recovery
+INFO 2022/10/27 09:25:48  synced recovery
+INFO 2022/10/27 09:25:55  synced recovery
+INFO 2022/10/27 09:25:56  synced recovery
+INFO 2022/10/27 09:25:58  synced recovery
+INFO 2022/10/27 09:26:01  synced recovery
+INFO 2022/10/27 09:26:04  synced recovery
+INFO 2022/10/27 09:26:07  synced recovery
+INFO 2022/10/27 09:26:16  synced recovery
+INFO 2022/10/27 09:26:21  synced recovery
+INFO 2022/10/27 09:26:23  synced recovery
+INFO 2022/10/27 09:26:24  synced recovery
+INFO 2022/10/27 09:27:19  synced recovery
+INFO 2022/10/27 09:27:21  synced recovery
+INFO 2022/10/27 09:27:22  [blur] 1
+INFO 2022/10/27 09:27:22  [win] blur
+INFO 2022/10/27 09:27:23  synced recovery
+INFO 2022/10/27 09:27:23  synced recovery
+INFO 2022/10/27 09:27:37  [focus] 1
+INFO 2022/10/27 09:27:39  synced recovery
+INFO 2022/10/27 09:27:41  synced recovery
+INFO 2022/10/27 09:31:43  [blur] 1
+INFO 2022/10/27 09:31:43  [win] blur
+INFO 2022/10/27 11:01:08  [focus] 1
+INFO 2022/10/27 11:01:10  [blur] 1
+INFO 2022/10/27 11:01:10  [win] blur
+INFO 2022/10/27 11:01:10  [focus] 1
+INFO 2022/10/27 11:01:11  [blur] 1
+INFO 2022/10/27 11:01:11  [win] blur
+INFO 2022/10/27 12:58:42  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/27 12:58:42  start LM in devVersion=false
+INFO 2022/10/27 12:58:42  [Raven] instanceKey = e7054eec-d636-4b84-b3a1-14b678300f9d
+INFO 2022/10/27 12:58:42  [watch L]
+INFO 2022/10/27 12:58:42  [L] installDate is 10/16/2022, trail remains: 4 days
+INFO 2022/10/27 12:58:42  [watch L] hasL: true
+INFO 2022/10/27 12:58:42  ------------------start------------------
+INFO 2022/10/27 12:58:42  typora version: 1.4.7
+INFO 2022/10/27 12:58:42  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/27 12:58:42  launch from abnormal quit
+INFO 2022/10/27 12:58:42  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md","useCRLF":true,"hasUnsaved":false,"scrollPos":70324,"syncDate":1666834061297,"mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/10/27 12:58:42  addRecentDocument
+INFO 2022/10/27 12:58:43  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/27 12:58:43  [focus] 1
+INFO 2022/10/27 12:58:43  synced recovery
+INFO 2022/10/27 12:58:44  handle document.loadData
+INFO 2022/10/27 12:58:44  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 12:58:44  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 12:58:44  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/27 12:58:45  synced recovery
+INFO 2022/10/27 12:58:45  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/27 12:58:45  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 12:58:45  ls put SLicense
+INFO 2022/10/27 12:58:45  [blur] 1
+INFO 2022/10/27 12:58:45  [win] blur
+INFO 2022/10/27 14:34:14  [focus] 1
+INFO 2022/10/27 14:34:16  [blur] 1
+INFO 2022/10/27 14:34:16  [win] blur
+INFO 2022/10/27 14:34:16  [focus] 1
+INFO 2022/10/27 14:34:17  [blur] 1
+INFO 2022/10/27 14:34:17  [win] blur
+INFO 2022/10/27 15:02:44  [focus] 1
+INFO 2022/10/27 15:02:45  [blur] 1
+INFO 2022/10/27 15:02:45  [win] blur
+INFO 2022/10/27 15:35:57  synced recovery
+INFO 2022/10/27 15:53:21  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/27 15:53:21  start LM in devVersion=false
+INFO 2022/10/27 15:53:21  [Raven] instanceKey = 5453ad5b-e9e6-4077-ad95-47d1f7f9829a
+INFO 2022/10/27 15:53:21  [watch L]
+INFO 2022/10/27 15:53:21  [L] installDate is 10/16/2022, trail remains: 4 days
+INFO 2022/10/27 15:53:21  [watch L] hasL: true
+INFO 2022/10/27 15:53:21  ------------------start------------------
+INFO 2022/10/27 15:53:21  typora version: 1.4.7
+INFO 2022/10/27 15:53:21  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/27 15:53:21  addRecentDocument
+INFO 2022/10/27 15:53:21  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/27 15:53:21  [focus] 1
+INFO 2022/10/27 15:53:21  synced recovery
+INFO 2022/10/27 15:53:22  handle document.loadData
+INFO 2022/10/27 15:53:22  ls put SLicense
+INFO 2022/10/27 15:53:22  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 15:53:22  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 15:53:22  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/27 15:53:23  synced recovery
+INFO 2022/10/27 15:53:23  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/27 15:53:23  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 15:53:26  synced recovery
+INFO 2022/10/27 15:53:58  synced recovery
+INFO 2022/10/27 15:54:02  synced recovery
+INFO 2022/10/27 15:54:12  synced recovery
+INFO 2022/10/27 15:54:14  synced recovery
+INFO 2022/10/27 15:54:18  synced recovery
+INFO 2022/10/27 15:54:23  synced recovery
+INFO 2022/10/27 15:54:26  synced recovery
+INFO 2022/10/27 15:54:29  synced recovery
+INFO 2022/10/27 15:54:32  synced recovery
+INFO 2022/10/27 15:54:38  synced recovery
+INFO 2022/10/27 16:00:23  switchDocument 1 [/home/ayaka/学习资料/笔记/ArchLInux使用.md]
+INFO 2022/10/27 16:00:23  addRecentDocument
+INFO 2022/10/27 16:00:23  synced recovery
+INFO 2022/10/27 16:00:23  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/27 16:00:23  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/27 16:00:23  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/27 16:00:23  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/27 16:00:23  synced recovery
+INFO 2022/10/27 16:00:31  synced recovery
+INFO 2022/10/27 16:00:33  synced recovery
+INFO 2022/10/27 16:00:34  synced recovery
+INFO 2022/10/27 16:00:36  synced recovery
+INFO 2022/10/27 16:00:38  synced recovery
+INFO 2022/10/27 16:00:55  synced recovery
+INFO 2022/10/27 16:00:56  synced recovery
+INFO 2022/10/27 16:00:57  synced recovery
+INFO 2022/10/27 16:00:59  synced recovery
+INFO 2022/10/27 16:01:08  synced recovery
+INFO 2022/10/27 16:01:10  synced recovery
+INFO 2022/10/27 16:01:11  synced recovery
+INFO 2022/10/27 16:01:15  synced recovery
+INFO 2022/10/27 16:01:16  synced recovery
+INFO 2022/10/27 16:01:19  synced recovery
+INFO 2022/10/27 16:01:21  synced recovery
+INFO 2022/10/27 16:01:23  synced recovery
+INFO 2022/10/27 16:01:31  synced recovery
+INFO 2022/10/27 16:01:32  [blur] 1
+INFO 2022/10/27 16:01:32  [win] blur
+INFO 2022/10/27 16:02:35  [focus] 1
+INFO 2022/10/27 16:02:37  synced recovery
+INFO 2022/10/27 16:02:43  synced recovery
+INFO 2022/10/27 16:02:44  synced recovery
+INFO 2022/10/27 16:02:51  synced recovery
+INFO 2022/10/27 16:02:52  synced recovery
+INFO 2022/10/27 16:02:54  synced recovery
+INFO 2022/10/27 16:03:07  synced recovery
+INFO 2022/10/27 16:03:09  synced recovery
+INFO 2022/10/27 16:03:10  synced recovery
+INFO 2022/10/27 16:03:16  synced recovery
+INFO 2022/10/27 16:03:17  synced recovery
+INFO 2022/10/27 16:03:20  synced recovery
+INFO 2022/10/27 16:03:22  synced recovery
+INFO 2022/10/27 16:03:28  synced recovery
+INFO 2022/10/27 16:03:30  synced recovery
+INFO 2022/10/27 16:03:35  synced recovery
+INFO 2022/10/27 16:03:39  synced recovery
+INFO 2022/10/27 16:03:51  synced recovery
+INFO 2022/10/27 16:03:56  synced recovery
+INFO 2022/10/27 16:04:05  synced recovery
+INFO 2022/10/27 16:04:12  synced recovery
+INFO 2022/10/27 16:04:22  synced recovery
+INFO 2022/10/27 16:04:28  synced recovery
+INFO 2022/10/27 16:04:30  synced recovery
+INFO 2022/10/27 16:04:38  synced recovery
+INFO 2022/10/27 16:04:40  synced recovery
+INFO 2022/10/27 16:04:43  synced recovery
+INFO 2022/10/27 16:04:44  synced recovery
+INFO 2022/10/27 16:04:52  synced recovery
+INFO 2022/10/27 16:04:54  synced recovery
+INFO 2022/10/27 16:05:01  synced recovery
+INFO 2022/10/27 16:05:04  synced recovery
+INFO 2022/10/27 16:05:06  synced recovery
+INFO 2022/10/27 16:05:11  synced recovery
+INFO 2022/10/27 16:05:13  synced recovery
+INFO 2022/10/27 16:05:21  synced recovery
+INFO 2022/10/27 16:05:24  synced recovery
+INFO 2022/10/27 16:05:27  synced recovery
+INFO 2022/10/27 16:05:30  synced recovery
+INFO 2022/10/27 16:05:32  synced recovery
+INFO 2022/10/27 16:05:34  synced recovery
+INFO 2022/10/27 16:05:40  synced recovery
+INFO 2022/10/27 16:05:56  synced recovery
+INFO 2022/10/27 16:06:09  synced recovery
+INFO 2022/10/27 16:06:13  synced recovery
+INFO 2022/10/27 16:06:14  synced recovery
+INFO 2022/10/27 16:06:17  synced recovery
+INFO 2022/10/27 16:06:23  synced recovery
+INFO 2022/10/27 16:06:28  synced recovery
+INFO 2022/10/27 16:06:39  synced recovery
+INFO 2022/10/27 16:06:41  synced recovery
+INFO 2022/10/27 16:06:48  synced recovery
+INFO 2022/10/27 16:07:09  synced recovery
+INFO 2022/10/27 16:07:25  synced recovery
+INFO 2022/10/27 16:07:26  synced recovery
+INFO 2022/10/27 16:07:27  synced recovery
+INFO 2022/10/27 16:07:51  [blur] 1
+INFO 2022/10/27 16:07:51  [win] blur
+INFO 2022/10/27 16:07:51  [focus] 1
+INFO 2022/10/27 16:07:51  [blur] 1
+INFO 2022/10/27 16:07:51  [win] blur
+INFO 2022/10/27 16:07:51  [focus] 1
+INFO 2022/10/27 16:07:55  [blur] 1
+INFO 2022/10/27 16:07:55  [win] blur
+INFO 2022/10/27 16:07:55  [focus] 1
+INFO 2022/10/27 16:08:01  synced recovery
+INFO 2022/10/27 16:08:12  [blur] 1
+INFO 2022/10/27 16:08:12  [win] blur
+INFO 2022/10/27 16:08:12  [focus] 1
+INFO 2022/10/27 16:08:14  synced recovery
+INFO 2022/10/27 16:08:24  synced recovery
+INFO 2022/10/27 16:08:28  synced recovery
+INFO 2022/10/27 16:08:34  synced recovery
+INFO 2022/10/27 16:08:35  synced recovery
+INFO 2022/10/27 16:08:41  synced recovery
+INFO 2022/10/27 16:08:43  synced recovery
+INFO 2022/10/27 16:08:52  synced recovery
+INFO 2022/10/27 16:08:54  synced recovery
+INFO 2022/10/27 16:09:07  synced recovery
+INFO 2022/10/27 16:09:22  synced recovery
+INFO 2022/10/27 16:09:28  synced recovery
+INFO 2022/10/27 16:09:46  synced recovery
+INFO 2022/10/27 16:10:01  [blur] 1
+INFO 2022/10/27 16:10:01  [win] blur
+INFO 2022/10/27 16:10:53  [focus] 1
+INFO 2022/10/27 16:10:57  synced recovery
+INFO 2022/10/27 16:11:04  synced recovery
+INFO 2022/10/27 16:11:07  synced recovery
+INFO 2022/10/27 16:11:14  synced recovery
+INFO 2022/10/27 16:11:17  synced recovery
+INFO 2022/10/27 16:11:24  synced recovery
+INFO 2022/10/27 16:11:30  synced recovery
+INFO 2022/10/27 16:11:32  synced recovery
+INFO 2022/10/27 16:11:37  synced recovery
+INFO 2022/10/27 16:11:42  [blur] 1
+INFO 2022/10/27 16:11:42  [win] blur
+INFO 2022/10/27 16:11:49  [focus] 1
+INFO 2022/10/27 16:11:52  synced recovery
+INFO 2022/10/27 16:11:55  synced recovery
+INFO 2022/10/27 16:11:57  synced recovery
+INFO 2022/10/27 16:11:58  synced recovery
+INFO 2022/10/27 16:12:00  synced recovery
+INFO 2022/10/27 16:12:04  synced recovery
+INFO 2022/10/27 16:12:08  synced recovery
+INFO 2022/10/27 16:12:48  synced recovery
+INFO 2022/10/27 16:12:51  synced recovery
+INFO 2022/10/27 16:12:53  synced recovery
+INFO 2022/10/27 16:13:00  synced recovery
+INFO 2022/10/27 16:13:12  synced recovery
+INFO 2022/10/27 16:13:18  synced recovery
+INFO 2022/10/27 16:13:21  synced recovery
+INFO 2022/10/27 16:13:30  synced recovery
+INFO 2022/10/27 16:13:34  synced recovery
+INFO 2022/10/27 16:13:35  synced recovery
+INFO 2022/10/27 16:14:15  [blur] 1
+INFO 2022/10/27 16:14:15  [win] blur
+INFO 2022/10/27 16:14:15  [focus] 1
+INFO 2022/10/27 16:14:50  [blur] 1
+INFO 2022/10/27 16:14:50  [win] blur
+INFO 2022/10/27 16:14:50  [focus] 1
+INFO 2022/10/27 16:15:15  synced recovery
+INFO 2022/10/27 16:15:18  synced recovery
+INFO 2022/10/27 16:15:25  synced recovery
+INFO 2022/10/27 16:15:27  synced recovery
+INFO 2022/10/27 16:15:29  synced recovery
+INFO 2022/10/27 16:15:31  synced recovery
+INFO 2022/10/27 16:15:46  [blur] 1
+INFO 2022/10/27 16:15:46  [win] blur
+INFO 2022/10/27 16:15:46  [focus] 1
+INFO 2022/10/27 16:15:51  synced recovery
+INFO 2022/10/27 16:15:57  synced recovery
+INFO 2022/10/27 16:15:58  [blur] 1
+INFO 2022/10/27 16:15:58  [win] blur
+INFO 2022/10/27 16:15:58  [focus] 1
+INFO 2022/10/27 16:16:01  synced recovery
+INFO 2022/10/27 16:16:07  synced recovery
+INFO 2022/10/27 16:16:10  synced recovery
+INFO 2022/10/27 16:16:17  synced recovery
+INFO 2022/10/27 16:16:19  synced recovery
+INFO 2022/10/27 16:16:20  synced recovery
+INFO 2022/10/27 16:16:23  synced recovery
+INFO 2022/10/27 16:16:24  synced recovery
+INFO 2022/10/27 16:16:25  synced recovery
+INFO 2022/10/27 16:16:36  synced recovery
+INFO 2022/10/27 16:16:38  synced recovery
+INFO 2022/10/27 16:16:41  synced recovery
+INFO 2022/10/27 16:16:51  synced recovery
+INFO 2022/10/27 16:17:03  synced recovery
+INFO 2022/10/27 16:17:09  synced recovery
+INFO 2022/10/27 16:19:13  [blur] 1
+INFO 2022/10/27 16:19:13  [win] blur
+INFO 2022/10/27 16:19:13  [focus] 1
+INFO 2022/10/27 16:19:15  [blur] 1
+INFO 2022/10/27 16:19:15  [win] blur
+INFO 2022/10/27 16:19:15  [focus] 1
+INFO 2022/10/27 16:19:19  synced recovery
+INFO 2022/10/27 16:19:21  synced recovery
+INFO 2022/10/27 16:19:22  synced recovery
+INFO 2022/10/27 16:19:28  synced recovery
+INFO 2022/10/27 16:19:31  synced recovery
+INFO 2022/10/27 16:19:33  synced recovery
+INFO 2022/10/27 16:19:35  synced recovery
+INFO 2022/10/27 16:19:41  synced recovery
+INFO 2022/10/27 16:19:45  synced recovery
+INFO 2022/10/27 16:19:47  synced recovery
+INFO 2022/10/27 16:19:48  [blur] 1
+INFO 2022/10/27 16:19:48  [win] blur
+INFO 2022/10/27 16:19:48  [focus] 1
+INFO 2022/10/27 16:20:02  synced recovery
+INFO 2022/10/27 16:20:05  synced recovery
+INFO 2022/10/27 16:20:09  synced recovery
+INFO 2022/10/27 16:20:10  synced recovery
+INFO 2022/10/27 16:20:14  synced recovery
+INFO 2022/10/27 16:20:16  synced recovery
+INFO 2022/10/27 16:20:28  synced recovery
+INFO 2022/10/27 16:20:28  ----------------before-quit-----------------
+INFO 2022/10/27 16:20:28  ------------------will-quit------------------
+INFO 2022/10/27 16:20:28  -----------------quit------------------
+INFO 2022/10/27 16:20:28  closeLogging
+INFO 2022/10/31 14:35:13  launch with argv [/usr/share/typora/Typora]
+INFO 2022/10/31 14:35:13  start LM in devVersion=false
+INFO 2022/10/31 14:35:13  [Raven] instanceKey = dc0887fa-8c0a-4621-bff9-0f92aa001ad0
+INFO 2022/10/31 14:35:13  [watch L]
+INFO 2022/10/31 14:35:13  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/10/31 14:35:13  [watch L] hasL: true
+INFO 2022/10/31 14:35:13  ------------------start------------------
+INFO 2022/10/31 14:35:13  typora version: 1.4.7
+INFO 2022/10/31 14:35:13  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/10/31 14:35:13  addRecentDocument
+INFO 2022/10/31 14:35:13  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/10/31 14:35:13  [focus] 1
+INFO 2022/10/31 14:35:13  synced recovery
+INFO 2022/10/31 14:35:15  handle document.loadData
+INFO 2022/10/31 14:35:15  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/31 14:35:15  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/31 14:35:15  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/10/31 14:35:15  synced recovery
+INFO 2022/10/31 14:35:16  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/10/31 14:35:16  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/31 14:35:17  ls put SLicense
+INFO 2022/10/31 14:35:18  switchDocument 1 [/home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md]
+INFO 2022/10/31 14:35:18  addRecentDocument
+INFO 2022/10/31 14:35:18  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/10/31 14:35:18  synced recovery
+INFO 2022/10/31 14:35:18  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/10/31 14:35:18  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/10/31 14:35:18  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/10/31 14:35:18  [RenderProcess 1][Log] enter busy mode
+INFO 2022/10/31 14:35:18  synced recovery
+INFO 2022/10/31 14:35:37  [blur] 1
+INFO 2022/10/31 14:35:37  [win] blur
+INFO 2022/10/31 14:35:41  [focus] 1
+INFO 2022/10/31 14:35:41  [blur] 1
+INFO 2022/10/31 14:35:41  [win] blur
+INFO 2022/10/31 14:36:32  [focus] 1
+INFO 2022/10/31 14:43:46  [blur] 1
+INFO 2022/10/31 14:43:46  [win] blur
+INFO 2022/10/31 14:43:46  [focus] 1
+INFO 2022/10/31 14:55:34  [blur] 1
+INFO 2022/10/31 14:55:34  [win] blur
+INFO 2022/10/31 14:55:34  [focus] 1
+INFO 2022/10/31 14:55:40  synced recovery
+INFO 2022/11/3 07:58:18  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/3 07:58:18  start LM in devVersion=false
+INFO 2022/11/3 07:58:18  [Raven] instanceKey = 4c191136-82c1-41dc-9368-d045cce2e567
+INFO 2022/11/3 07:58:18  [watch L]
+INFO 2022/11/3 07:58:18  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/3 07:58:18  [watch L] hasL: true
+INFO 2022/11/3 07:58:18  ------------------start------------------
+INFO 2022/11/3 07:58:18  typora version: 1.4.7
+INFO 2022/11/3 07:58:18  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/3 07:58:18  addRecentDocument
+INFO 2022/11/3 07:58:18  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/3 07:58:18  [focus] 1
+INFO 2022/11/3 07:58:18  synced recovery
+INFO 2022/11/3 07:58:19  handle document.loadData
+INFO 2022/11/3 07:58:19  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/3 07:58:19  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/3 07:58:19  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/11/3 07:58:19  [RenderProcess 1][Log] enter busy mode
+INFO 2022/11/3 07:58:20  ls put SLicense
+INFO 2022/11/3 07:58:20  synced recovery
+INFO 2022/11/3 07:58:20  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/3 07:58:20  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/3 07:58:28  [blur] 1
+INFO 2022/11/3 07:58:28  [win] blur
+INFO 2022/11/3 07:58:41  [focus] 1
+INFO 2022/11/3 07:58:42  [blur] 1
+INFO 2022/11/3 07:58:42  [win] blur
+INFO 2022/11/3 07:59:07  [focus] 1
+INFO 2022/11/3 07:59:07  [blur] 1
+INFO 2022/11/3 07:59:07  [win] blur
+INFO 2022/11/3 07:59:07  [focus] 1
+INFO 2022/11/7 15:17:14  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/7 15:17:15  start LM in devVersion=false
+INFO 2022/11/7 15:17:15  [Raven] instanceKey = 67bec9c7-7a6a-457a-9455-d562fe2ee3ec
+INFO 2022/11/7 15:17:15  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/11/7 15:17:15  [watch L]
+INFO 2022/11/7 15:17:15  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/7 15:17:15  [watch L] hasL: true
+INFO 2022/11/7 15:17:15  ------------------start------------------
+INFO 2022/11/7 15:17:15  typora version: 1.4.7
+INFO 2022/11/7 15:17:15  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/7 15:17:15  launch from abnormal quit
+INFO 2022/11/7 15:17:15  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md","mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/11/7 15:17:15  addRecentDocument
+INFO 2022/11/7 15:17:15  secondary instance would exit
+INFO 2022/11/7 15:17:15  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/11/7 15:17:15  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/7 15:17:15  [focus] 1
+INFO 2022/11/7 15:17:15  [blur] 1
+INFO 2022/11/7 15:17:15  [win] blur
+INFO 2022/11/7 15:17:15  [focus] 2
+INFO 2022/11/7 15:17:15  synced recovery
+INFO 2022/11/7 15:17:15  synced recovery
+INFO 2022/11/7 15:17:15  secondary instance would exit
+INFO 2022/11/7 15:17:16  handle document.loadData
+INFO 2022/11/7 15:17:16  handle document.loadData
+INFO 2022/11/7 15:17:16  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/11/7 15:17:16  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/11/7 15:17:16  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/7 15:17:16  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/7 15:17:16  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/11/7 15:17:16  synced recovery
+INFO 2022/11/7 15:17:17  [RenderProcess 1][Log] enter busy mode
+INFO 2022/11/7 15:17:17  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/11/7 15:17:17  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/11/7 15:17:17  synced recovery
+INFO 2022/11/7 15:17:17  synced recovery
+INFO 2022/11/7 15:17:17  synced recovery
+INFO 2022/11/7 15:17:17  [blur] 2
+INFO 2022/11/7 15:17:17  [win] blur
+INFO 2022/11/7 15:17:17  [focus] 1
+INFO 2022/11/7 15:17:17  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/7 15:17:17  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/7 15:17:21  [blur] 1
+INFO 2022/11/7 15:17:21  [win] blur
+INFO 2022/11/7 15:17:21  [focus] 1
+INFO 2022/11/7 15:17:21  [focus] 2
+INFO 2022/11/7 15:17:21  [blur] 2
+INFO 2022/11/7 15:17:21  [win] blur
+INFO 2022/11/7 15:17:21  [focus] 2
+INFO 2022/11/7 15:17:24  [blur] 2
+INFO 2022/11/7 15:17:24  [win] blur
+INFO 2022/11/7 15:17:24  [focus] 2
+Failed to Renew L
+INFO 2022/11/7 15:17:25  ls put SLicense
+INFO 2022/11/7 15:17:27  synced recovery
+INFO 2022/11/7 15:17:27  ----------------before-quit-----------------
+INFO 2022/11/7 15:17:27  ------------------will-quit------------------
+INFO 2022/11/7 15:17:27  -----------------quit------------------
+INFO 2022/11/7 15:17:27  closeLogging
+INFO 2022/11/13 17:59:36  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/13 17:59:36  start LM in devVersion=false
+INFO 2022/11/13 17:59:36  [Raven] instanceKey = 9056c807-f36c-492c-a6f5-93417579ca8d
+INFO 2022/11/13 17:59:36  [watch L]
+INFO 2022/11/13 17:59:36  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/13 17:59:36  [watch L] hasL: true
+INFO 2022/11/13 17:59:36  ------------------start------------------
+INFO 2022/11/13 17:59:36  typora version: 1.4.7
+INFO 2022/11/13 17:59:36  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/13 17:59:36  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/13 17:59:36  [focus] 1
+INFO 2022/11/13 17:59:36  synced recovery
+INFO 2022/11/13 17:59:37  handle document.loadData
+INFO 2022/11/13 17:59:37  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/13 17:59:37  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/13 17:59:37  synced recovery
+INFO 2022/11/13 17:59:37  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/13 17:59:37  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/13 17:59:42  ls put SLicense
+INFO 2022/11/13 17:59:43  [blur] 1
+INFO 2022/11/13 17:59:43  [win] blur
+INFO 2022/11/13 17:59:43  [focus] 1
+INFO 2022/11/13 17:59:43  [blur] 1
+INFO 2022/11/13 17:59:43  [win] blur
+INFO 2022/11/13 17:59:43  [focus] 1
+INFO 2022/11/13 17:59:46  addRecentFolder
+INFO 2022/11/13 18:01:29  [blur] 1
+INFO 2022/11/13 18:01:29  [win] blur
