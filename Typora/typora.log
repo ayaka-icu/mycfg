@@ -6008,3 +6008,427 @@ INFO 2022/11/13 17:59:43  [focus] 1
 INFO 2022/11/13 17:59:46  addRecentFolder
 INFO 2022/11/13 18:01:29  [blur] 1
 INFO 2022/11/13 18:01:29  [win] blur
+INFO 2022/11/14 16:24:31  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/14 16:24:31  start LM in devVersion=false
+INFO 2022/11/14 16:24:31  [Raven] instanceKey = 92b95502-726e-4823-8575-fa25bcfb607e
+INFO 2022/11/14 16:24:31  [watch L]
+INFO 2022/11/14 16:24:31  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/14 16:24:31  [watch L] hasL: true
+INFO 2022/11/14 16:24:31  ------------------start------------------
+INFO 2022/11/14 16:24:31  typora version: 1.4.7
+INFO 2022/11/14 16:24:31  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/14 16:24:31  launch from abnormal quit
+INFO 2022/11/14 16:24:31  recoverWindow {"id":1,"path":""}
+INFO 2022/11/14 16:24:31  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/14 16:24:31  [focus] 1
+INFO 2022/11/14 16:24:31  synced recovery
+INFO 2022/11/14 16:24:32  handle document.loadData
+INFO 2022/11/14 16:24:32  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:24:32  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:24:32  synced recovery
+INFO 2022/11/14 16:24:32  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/14 16:24:32  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:24:33  ls put SLicense
+INFO 2022/11/14 16:24:42  [blur] 1
+INFO 2022/11/14 16:24:42  [win] blur
+INFO 2022/11/14 16:28:12  [focus] 1
+INFO 2022/11/14 16:28:12  [blur] 1
+INFO 2022/11/14 16:28:12  [win] blur
+INFO 2022/11/14 16:29:13  [focus] 1
+INFO 2022/11/14 16:30:06  [blur] 1
+INFO 2022/11/14 16:30:06  [win] blur
+INFO 2022/11/14 16:30:10  [focus] 1
+INFO 2022/11/14 16:31:19  [blur] 1
+INFO 2022/11/14 16:31:19  [win] blur
+INFO 2022/11/14 16:31:19  [focus] 1
+INFO 2022/11/14 16:31:19  [blur] 1
+INFO 2022/11/14 16:31:19  [win] blur
+INFO 2022/11/14 16:31:42  [focus] 1
+INFO 2022/11/14 16:31:43  [blur] 1
+INFO 2022/11/14 16:31:43  [win] blur
+INFO 2022/11/14 16:31:46  [focus] 1
+INFO 2022/11/14 16:31:46  [blur] 1
+INFO 2022/11/14 16:31:46  [win] blur
+INFO 2022/11/14 16:31:47  [focus] 1
+INFO 2022/11/14 16:32:33  [blur] 1
+INFO 2022/11/14 16:32:33  [win] blur
+INFO 2022/11/14 16:32:33  [focus] 1
+INFO 2022/11/14 16:32:36  [blur] 1
+INFO 2022/11/14 16:32:36  [win] blur
+INFO 2022/11/14 16:34:07  [focus] 1
+INFO 2022/11/14 16:34:31  [blur] 1
+INFO 2022/11/14 16:34:31  [win] blur
+INFO 2022/11/14 16:36:29  [focus] 1
+INFO 2022/11/14 16:36:30  [blur] 1
+INFO 2022/11/14 16:36:30  [win] blur
+INFO 2022/11/14 16:37:15  got argv [typora, --enable-crashpad, --allow-file-access-from-files] from secondary instance
+INFO 2022/11/14 16:37:15  [focus] 2
+INFO 2022/11/14 16:37:15  synced recovery
+INFO 2022/11/14 16:37:15  secondary instance would exit
+INFO 2022/11/14 16:37:16  handle document.loadData
+INFO 2022/11/14 16:37:16  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:37:16  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/11/14 16:37:16  synced recovery
+INFO 2022/11/14 16:37:16  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/11/14 16:37:16  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/11/14 16:39:54  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/14 16:39:54  start LM in devVersion=false
+INFO 2022/11/14 16:39:54  [Raven] instanceKey = 312787e8-ec8f-496c-9c80-a69bb879bd62
+INFO 2022/11/14 16:39:54  [watch L]
+INFO 2022/11/14 16:39:54  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/14 16:39:54  [watch L] hasL: true
+INFO 2022/11/14 16:39:54  ------------------start------------------
+INFO 2022/11/14 16:39:54  typora version: 1.4.7
+INFO 2022/11/14 16:39:54  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/14 16:39:54  launch from abnormal quit
+INFO 2022/11/14 16:39:54  recoverWindow {"id":1,"path":"","mountFolder":null}
+INFO 2022/11/14 16:39:54  recoverWindow {"id":2,"path":"","mountFolder":null}
+INFO 2022/11/14 16:39:54  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/14 16:39:54  [focus] 1
+INFO 2022/11/14 16:39:54  [blur] 1
+INFO 2022/11/14 16:39:54  [win] blur
+INFO 2022/11/14 16:39:54  [focus] 2
+INFO 2022/11/14 16:39:54  synced recovery
+INFO 2022/11/14 16:39:54  synced recovery
+INFO 2022/11/14 16:39:55  handle document.loadData
+INFO 2022/11/14 16:39:55  handle document.loadData
+INFO 2022/11/14 16:39:55  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:39:55  [RenderProcess 2][Log] reset NodeMap
+INFO 2022/11/14 16:39:55  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:39:55  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:39:55  synced recovery
+INFO 2022/11/14 16:39:55  synced recovery
+INFO 2022/11/14 16:39:55  [RenderProcess 2][Log] onBecomeActive
+INFO 2022/11/14 16:39:55  [RenderProcess 2][Log] File.activeWindow = true
+INFO 2022/11/14 16:39:55  [blur] 2
+INFO 2022/11/14 16:39:55  [win] blur
+INFO 2022/11/14 16:39:55  [focus] 1
+INFO 2022/11/14 16:39:55  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/14 16:39:55  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:39:56  [blur] 1
+INFO 2022/11/14 16:39:56  [win] blur
+INFO 2022/11/14 16:39:56  [focus] 2
+INFO 2022/11/14 16:39:57  [focus] 1
+INFO 2022/11/14 16:39:57  [blur] 1
+INFO 2022/11/14 16:39:57  [win] blur
+INFO 2022/11/14 16:39:57  [focus] 1
+INFO 2022/11/14 16:40:02  addRecentFolder
+Failed to Renew L
+INFO 2022/11/14 16:40:04  ls put SLicense
+INFO 2022/11/14 16:40:04  switchDocument 1 [/home/ayaka/学习资料/笔记/ArchLInux使用.md]
+INFO 2022/11/14 16:40:04  addRecentDocument
+INFO 2022/11/14 16:40:05  synced recovery
+INFO 2022/11/14 16:40:05  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:40:05  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:40:05  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:40:05  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/11/14 16:40:05  synced recovery
+INFO 2022/11/14 16:40:16  [blur] 1
+INFO 2022/11/14 16:40:16  [win] blur
+INFO 2022/11/14 16:40:16  [focus] 1
+INFO 2022/11/14 16:41:00  [blur] 1
+INFO 2022/11/14 16:41:00  [win] blur
+INFO 2022/11/14 16:41:00  [focus] 1
+INFO 2022/11/14 16:41:32  synced recovery
+INFO 2022/11/14 16:41:32  ----------------before-quit-----------------
+INFO 2022/11/14 16:50:10  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/14 16:50:10  start LM in devVersion=false
+INFO 2022/11/14 16:50:10  [Raven] instanceKey = caae5c8a-0aa8-4bc0-a29d-69344f9890ce
+INFO 2022/11/14 16:50:10  [watch L]
+INFO 2022/11/14 16:50:10  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/14 16:50:10  [watch L] hasL: true
+INFO 2022/11/14 16:50:10  ------------------start------------------
+INFO 2022/11/14 16:50:10  typora version: 1.4.7
+INFO 2022/11/14 16:50:10  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/14 16:50:10  addRecentDocument
+INFO 2022/11/14 16:50:10  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/14 16:50:10  [focus] 1
+INFO 2022/11/14 16:50:10  synced recovery
+INFO 2022/11/14 16:50:11  handle document.loadData
+INFO 2022/11/14 16:50:11  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:50:11  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:50:11  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/11/14 16:50:12  synced recovery
+INFO 2022/11/14 16:50:12  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/14 16:50:12  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:50:13  ls put SLicense
+INFO 2022/11/14 16:51:01  [blur] 1
+INFO 2022/11/14 16:51:01  [win] blur
+INFO 2022/11/14 16:51:01  [focus] 1
+INFO 2022/11/14 16:51:04  [blur] 1
+INFO 2022/11/14 16:51:04  [win] blur
+INFO 2022/11/14 16:51:15  [focus] 1
+INFO 2022/11/14 16:51:16  [blur] 1
+INFO 2022/11/14 16:51:16  [win] blur
+INFO 2022/11/14 16:55:39  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/14 16:55:39  start LM in devVersion=false
+INFO 2022/11/14 16:55:39  [Raven] instanceKey = 304674a2-e22b-4410-8dc4-29134df84882
+INFO 2022/11/14 16:55:39  [watch L]
+INFO 2022/11/14 16:55:39  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/14 16:55:39  [watch L] hasL: true
+INFO 2022/11/14 16:55:39  ------------------start------------------
+INFO 2022/11/14 16:55:39  typora version: 1.4.7
+INFO 2022/11/14 16:55:39  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/14 16:55:39  launch from abnormal quit
+INFO 2022/11/14 16:55:39  recoverWindow {"id":1,"path":"/home/ayaka/学习资料/笔记/ArchLInux使用.md","mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/11/14 16:55:39  addRecentDocument
+INFO 2022/11/14 16:55:39  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/14 16:55:39  [focus] 1
+INFO 2022/11/14 16:55:39  [blur] 1
+INFO 2022/11/14 16:55:39  [win] blur
+INFO 2022/11/14 16:55:39  [focus] 1
+INFO 2022/11/14 16:55:39  synced recovery
+INFO 2022/11/14 16:55:40  handle document.loadData
+INFO 2022/11/14 16:55:40  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:55:41  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:55:41  synced recovery
+INFO 2022/11/14 16:55:41  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/14 16:55:41  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:55:42  ls put SLicense
+INFO 2022/11/14 16:55:44  [blur] 1
+INFO 2022/11/14 16:55:44  [win] blur
+INFO 2022/11/14 16:55:44  [focus] 1
+INFO 2022/11/14 16:55:44  [blur] 1
+INFO 2022/11/14 16:55:44  [win] blur
+INFO 2022/11/14 16:55:44  [focus] 1
+INFO 2022/11/14 16:56:30  [blur] 1
+INFO 2022/11/14 16:56:30  [win] blur
+INFO 2022/11/14 16:56:30  [focus] 1
+INFO 2022/11/14 16:56:31  synced recovery
+INFO 2022/11/14 16:56:31  ----------------before-quit-----------------
+INFO 2022/11/14 16:56:31  ------------------will-quit------------------
+INFO 2022/11/14 16:56:31  -----------------quit------------------
+INFO 2022/11/14 16:56:31  closeLogging
+INFO 2022/11/14 16:56:32  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/14 16:56:33  start LM in devVersion=false
+INFO 2022/11/14 16:56:33  [Raven] instanceKey = a43c3a5e-7c1c-4932-a0ac-6f5395142902
+INFO 2022/11/14 16:56:33  [watch L]
+INFO 2022/11/14 16:56:33  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/14 16:56:33  [watch L] hasL: true
+INFO 2022/11/14 16:56:33  ------------------start------------------
+INFO 2022/11/14 16:56:33  typora version: 1.4.7
+INFO 2022/11/14 16:56:33  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/14 16:56:33  [focus] 1
+INFO 2022/11/14 16:56:33  synced recovery
+INFO 2022/11/14 16:56:33  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/14 16:56:34  handle document.loadData
+INFO 2022/11/14 16:56:34  ls put SLicense
+INFO 2022/11/14 16:56:34  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:56:34  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:56:34  synced recovery
+INFO 2022/11/14 16:56:34  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/14 16:56:34  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:56:38  [blur] 1
+INFO 2022/11/14 16:56:38  [win] blur
+INFO 2022/11/14 16:57:44  [focus] 1
+INFO 2022/11/14 16:57:46  switchDocument 1 [/home/ayaka/学习资料/笔记/SpringSecurity.md]
+INFO 2022/11/14 16:57:46  addRecentDocument
+INFO 2022/11/14 16:57:47  synced recovery
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/SpringSecurity.md
+INFO 2022/11/14 16:57:47  synced recovery
+INFO 2022/11/14 16:57:47  switchDocument 1 [/home/ayaka/学习资料/笔记/SpringBoot2 复习笔记.md]
+INFO 2022/11/14 16:57:47  addRecentDocument
+INFO 2022/11/14 16:57:47  synced recovery
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/SpringBoot2 复习笔记.md
+INFO 2022/11/14 16:57:47  [RenderProcess 1][Log] enter busy mode
+INFO 2022/11/14 16:57:48  synced recovery
+INFO 2022/11/14 16:57:49  switchDocument 1 [/home/ayaka/学习资料/笔记/spring高级.md]
+INFO 2022/11/14 16:57:49  addRecentDocument
+INFO 2022/11/14 16:57:49  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:57:49  synced recovery
+INFO 2022/11/14 16:57:49  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:57:49  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:57:49  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/spring高级.md
+INFO 2022/11/14 16:57:49  synced recovery
+INFO 2022/11/14 16:57:50  switchDocument 1 [/home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md]
+INFO 2022/11/14 16:57:50  addRecentDocument
+INFO 2022/11/14 16:57:50  synced recovery
+INFO 2022/11/14 16:57:50  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:57:50  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:57:50  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:57:50  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Redis相关命令-我的笔记.md
+INFO 2022/11/14 16:57:51  synced recovery
+INFO 2022/11/14 16:57:51  switchDocument 1 [/home/ayaka/学习资料/笔记/MySQL复习.md]
+INFO 2022/11/14 16:57:51  addRecentDocument
+INFO 2022/11/14 16:57:51  synced recovery
+INFO 2022/11/14 16:57:51  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:57:51  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:57:51  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:57:51  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/MySQL复习.md
+INFO 2022/11/14 16:57:51  synced recovery
+INFO 2022/11/14 16:57:58  synced recovery
+INFO 2022/11/14 16:58:01  synced recovery
+INFO 2022/11/14 16:58:03  [RenderProcess 1][Warn] fs write failed {EROFS}
+INFO 2022/11/14 16:58:04  synced recovery
+INFO 2022/11/14 16:58:06  [RenderProcess 1][Warn] fs write failed {EROFS}
+INFO 2022/11/14 16:58:07  synced recovery
+INFO 2022/11/14 16:58:11  synced recovery
+INFO 2022/11/14 16:58:11  ----------------before-quit-----------------
+INFO 2022/11/14 16:58:11  ------------------will-quit------------------
+INFO 2022/11/14 16:58:11  -----------------quit------------------
+INFO 2022/11/14 16:58:11  closeLogging
+INFO 2022/11/14 16:58:15  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/14 16:58:15  start LM in devVersion=false
+INFO 2022/11/14 16:58:15  [Raven] instanceKey = b172c15b-2bd8-410b-90a9-7101f2ab73de
+INFO 2022/11/14 16:58:15  [watch L]
+INFO 2022/11/14 16:58:15  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/14 16:58:15  [watch L] hasL: true
+INFO 2022/11/14 16:58:15  ------------------start------------------
+INFO 2022/11/14 16:58:15  typora version: 1.4.7
+INFO 2022/11/14 16:58:15  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/14 16:58:15  addRecentDocument
+INFO 2022/11/14 16:58:15  [focus] 1
+INFO 2022/11/14 16:58:15  synced recovery
+INFO 2022/11/14 16:58:15  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/14 16:58:16  handle document.loadData
+INFO 2022/11/14 16:58:16  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:58:16  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:58:16  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/MySQL复习.md
+INFO 2022/11/14 16:58:16  ls put SLicense
+INFO 2022/11/14 16:58:17  synced recovery
+INFO 2022/11/14 16:58:17  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/14 16:58:17  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:58:18  switchDocument 1 [/home/ayaka/学习资料/笔记/ELK资料.md]
+INFO 2022/11/14 16:58:18  addRecentDocument
+INFO 2022/11/14 16:58:18  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:58:18  synced recovery
+INFO 2022/11/14 16:58:18  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:58:18  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:58:18  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ELK资料.md
+INFO 2022/11/14 16:58:18  [RenderProcess 1][Log] enter busy mode
+INFO 2022/11/14 16:58:19  synced recovery
+INFO 2022/11/14 16:58:19  switchDocument 1 [/home/ayaka/学习资料/笔记/Docker备忘录.md]
+INFO 2022/11/14 16:58:19  addRecentDocument
+INFO 2022/11/14 16:58:19  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:58:19  synced recovery
+INFO 2022/11/14 16:58:19  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:58:19  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:58:19  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/Docker备忘录.md
+INFO 2022/11/14 16:58:19  synced recovery
+INFO 2022/11/14 16:58:20  switchDocument 1 [/home/ayaka/学习资料/笔记/ArchLInux使用.md]
+INFO 2022/11/14 16:58:20  addRecentDocument
+INFO 2022/11/14 16:58:20  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/14 16:58:20  synced recovery
+INFO 2022/11/14 16:58:20  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/14 16:58:20  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/14 16:58:20  [RenderProcess 1][Log] readContentFrom /home/ayaka/学习资料/笔记/ArchLInux使用.md
+INFO 2022/11/14 16:58:20  synced recovery
+INFO 2022/11/14 16:58:37  [blur] 1
+INFO 2022/11/14 16:58:37  [win] blur
+INFO 2022/11/14 16:58:38  [focus] 1
+INFO 2022/11/14 16:58:40  [blur] 1
+INFO 2022/11/14 16:58:40  [win] blur
+INFO 2022/11/14 16:58:40  [focus] 1
+INFO 2022/11/14 16:58:43  [blur] 1
+INFO 2022/11/14 16:58:43  [win] blur
+INFO 2022/11/14 16:58:43  [focus] 1
+INFO 2022/11/14 16:59:18  [blur] 1
+INFO 2022/11/14 16:59:18  [win] blur
+INFO 2022/11/14 16:59:18  [focus] 1
+INFO 2022/11/14 16:59:40  [blur] 1
+INFO 2022/11/14 16:59:40  [win] blur
+INFO 2022/11/14 16:59:40  [focus] 1
+INFO 2022/11/14 16:59:43  [blur] 1
+INFO 2022/11/14 16:59:43  [win] blur
+INFO 2022/11/14 16:59:43  [focus] 1
+INFO 2022/11/14 17:00:27  [blur] 1
+INFO 2022/11/14 17:00:27  [win] blur
+INFO 2022/11/14 17:00:27  [focus] 1
+INFO 2022/11/14 17:02:03  [blur] 1
+INFO 2022/11/14 17:02:03  [win] blur
+INFO 2022/11/14 17:02:03  [focus] 1
+INFO 2022/11/14 17:05:02  synced recovery
+INFO 2022/11/14 17:05:05  synced recovery
+INFO 2022/11/14 17:05:05  ----------------before-quit-----------------
+INFO 2022/11/14 17:05:05  ------------------will-quit------------------
+INFO 2022/11/17 08:09:28  launch with argv [/usr/share/typora/Typora]
+INFO 2022/11/17 08:09:28  start LM in devVersion=false
+INFO 2022/11/17 08:09:28  [Raven] instanceKey = e409131f-7511-4803-ad10-a05bd967f5d0
+INFO 2022/11/17 08:09:28  [watch L]
+INFO 2022/11/17 08:09:28  [L] installDate is 10/16/2022, trail remains: 0 days
+INFO 2022/11/17 08:09:28  [watch L] hasL: true
+INFO 2022/11/17 08:09:28  ------------------start------------------
+INFO 2022/11/17 08:09:28  typora version: 1.4.7
+INFO 2022/11/17 08:09:28  undefined
+[Error: ENOENT: no such file or directory, open '/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'] {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/home/ayaka/.config/Typora/typora-dictionaries/user-dict.json'[39m
+}
+INFO 2022/11/17 08:09:28  launch from abnormal quit
+INFO 2022/11/17 08:09:28  recoverWindow {"id":1,"path":"","useCRLF":false,"hasUnsaved":true,"scrollPos":24570,"syncDate":1668416702294,"mountFolder":"/home/ayaka/学习资料/笔记"}
+INFO 2022/11/17 08:09:28  [1] recover from content 11118 "# Arch Linux文档
+...
+
+
+
+
+
+## TODO:
+"
+INFO 2022/11/17 08:09:28  [Raven] userId = bffd4719-0a2b-43d7-9f07-d6b6219adebf
+INFO 2022/11/17 08:09:28  [focus] 1
+INFO 2022/11/17 08:09:28  [blur] 1
+INFO 2022/11/17 08:09:28  [win] blur
+INFO 2022/11/17 08:09:28  [focus] 1
+INFO 2022/11/17 08:09:28  synced recovery
+INFO 2022/11/17 08:09:29  handle document.loadData
+INFO 2022/11/17 08:09:29  load from recover content length: 11118
+INFO 2022/11/17 08:09:29  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 2022/11/17 08:09:29  [RenderProcess 1][Log] reset NodeMap
+INFO 2022/11/17 08:09:29  [RenderProcess 1][Log] recoverFromBackup
+INFO 2022/11/17 08:09:30  synced recovery
+INFO 2022/11/17 08:09:30  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/11/17 08:09:30  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/11/17 08:09:30  ls put SLicense
+INFO 2022/11/17 08:09:31  [blur] 1
+INFO 2022/11/17 08:09:31  [win] blur
+INFO 2022/11/17 08:13:44  [focus] 1
+INFO 2022/11/17 08:13:44  [blur] 1
+INFO 2022/11/17 08:13:44  [win] blur
+INFO 2022/11/17 08:13:45  [focus] 1
+INFO 2022/11/17 08:13:46  [blur] 1
+INFO 2022/11/17 08:13:46  [win] blur
